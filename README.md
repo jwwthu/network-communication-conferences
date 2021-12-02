@@ -6,7 +6,7 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
-[ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec) [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc)
+[HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec) [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc)
 
 # Jan. 2022
 ## USENIX ATC
@@ -35,3 +35,12 @@ Any suggestion and feedback is welcome.
 | Location | Bologna, Italy |
 | Website | [Link](https://icdcs2022.icdcs.org/) |
 | Acceptance Rate | 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
+
+## HPDC
+| Conference Name  | ACM International Symposium on High Performance Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-27 |
+| Conference Date | 2022-06-27 - 2022-07-01 |
+| Location | Minneapolis, Minnesota |
+| Website | [Link](https://www.hpdc.org/2022/) |
+| Acceptance Rate | 2021: 20.65% (19/92) <br> 2020: 30.99% (22/71) <br> 2019: 20.75% (22/106) <br> 2018: 19.82% (22/111) <br> 2017: 19.00% (19/100) |
