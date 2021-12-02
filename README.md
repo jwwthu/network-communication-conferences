@@ -6,9 +6,19 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
-[ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs)
+[ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#USENIX ATC)
 
 # Jan. 2022
+## USENIX ATC
+| Conference Name  | International Conference on Distributed Computing Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-13 |
+| Conference Date | 2022-07-11 - 2022-07-13 |
+| Location | CARLSBAD, CA, USA |
+| Website | [Link](https://www.usenix.org/conference/atc22) |
+| Acceptance Rate | 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
+
+
 ## ICDCS
 | Conference Name  | International Conference on Distributed Computing Systems |
 | :------------- | :------------- |
