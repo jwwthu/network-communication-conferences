@@ -16,3 +16,4 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-07-10 - 2022-07-13 |
 | Location | Bologna, Italy |
 | Website | [Link](https://icdcs2022.icdcs.org/) |
+| Acceptance Rate | 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
