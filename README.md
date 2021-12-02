@@ -6,7 +6,7 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
-[ICDCS]()
+[ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs)
 
 # Jan. 2022
 ## ICDCS
