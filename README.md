@@ -6,9 +6,18 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
-[HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec) [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc)
+[EuCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#eucnc) [HotCloud](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotcloud) [HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) [IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking) [IWCMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwcmc) [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec) [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc)
 
 # Jan. 2022
+## IWCMC
+| Conference Name  | International Wireless Communications and Mobile Computing Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-10 |
+| Conference Date | 2022-05-30 - 2022-06-03 |
+| Location | Dubrovnik, Croatia |
+| Website | [Link](https://iwcmc.org/2022/) |
+| Acceptance Rate | 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
+
 ## USENIX ATC
 | Conference Name  | USENIX Annual Technical Conference |
 | :------------- | :------------- |
@@ -17,6 +26,15 @@ Any suggestion and feedback is welcome.
 | Location | CARLSBAD, CA, USA |
 | Website | [Link](https://www.usenix.org/conference/atc22) |
 | Acceptance Rate | 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
+
+## HotCloud 
+| Conference Name  | Workshop on Hot Topics in Cloud Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-20 |
+| Conference Date | 2022-04-09 - 2022-04-10|
+| Location | Online |
+| Website | [Link](https://hotcloudperf.spec.org/) |
+| Acceptance Rate | 2020: 23.16% (22/95) <br> 2017: 32.76% (19/58) <br> 2016: 30.88% (21/68) |
 
 ## SEC 
 | Conference Name  | ACM/IEEE Symposium on Edge Computing |
@@ -44,3 +62,21 @@ Any suggestion and feedback is welcome.
 | Location | Minneapolis, Minnesota |
 | Website | [Link](https://www.hpdc.org/2022/) |
 | Acceptance Rate | 2021: 20.65% (19/92) <br> 2020: 30.99% (22/71) <br> 2019: 20.75% (22/106) <br> 2018: 19.82% (22/111) <br> 2017: 19.00% (19/100) |
+
+## EuCNC
+| Conference Name  | European Conference on Networks and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-28 |
+| Conference Date | 2022-06-07 - 2022-06-10 |
+| Location | Grenoble, France |
+| Website | [Link](https://www.eucnc.eu/) |
+| Acceptance Rate | 2021: 50% <br> 2020: 50% <br> 2017: 46.06% (146/317) |
+
+## IFIP Networking
+| Conference Name  | The International Federation for Information Processing (IFIP) Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-30 |
+| Conference Date | 2022-06-13 - 2022-06-16 |
+| Location | Catania, Italy |
+| Website | [Link](https://networking.ifip.org/2022/) |
+| Acceptance Rate | 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
