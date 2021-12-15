@@ -14,11 +14,11 @@ Any suggestion and feedback is welcome.
 
 [HotCloud](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotcloud)
 
-[HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc)
+[HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) (CCF-B)
 
-[ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs)
+[ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) (CCF-B)
 
-[IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking)
+[IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking) (CCF-C)
 
 [ISNCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isncc)
 
@@ -26,7 +26,7 @@ Any suggestion and feedback is welcome.
 
 [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec)
 
-[USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc)
+[USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
 
 # Jan. 2022
 ## ISNCC
