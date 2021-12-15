@@ -6,6 +6,10 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
+[CIoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ciot)
+
+[DCOSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dcoss)
+
 [EuCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#eucnc)
 
 [HotCloud](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotcloud)
@@ -16,6 +20,8 @@ Any suggestion and feedback is welcome.
 
 [IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking)
 
+[ISNCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isncc)
+
 [IWCMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwcmc)
 
 [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec)
@@ -23,6 +29,24 @@ Any suggestion and feedback is welcome.
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc)
 
 # Jan. 2022
+## ISNCC
+| Conference Name  | International Symposium on Networks, Computers and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-03 |
+| Conference Date | 2022-07-19 - 2022-07-22 |
+| Location | Shenzhen, China |
+| Website | [Link](https://www.isncc-conf.org/) |
+| Acceptance Rate | 2021: 44% <br> 2020: 45% <br> 2019: 37% <br> 2018: 38% <br> 2017: 36% |
+
+## CIoT
+| Conference Name  | Conference on Cloud and Internet of Things |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-09 |
+| Conference Date | 2022-03-28 - 2022-03-30 |
+| Location | Marrakech, Morocco |
+| Website | [Link](https://ciot2022.dnac.org/) |
+| Acceptance Rate | 2020: 45.00% (9/20) |
+
 ## IWCMC
 | Conference Name  | International Wireless Communications and Mobile Computing Conference |
 | :------------- | :------------- |
@@ -31,6 +55,15 @@ Any suggestion and feedback is welcome.
 | Location | Dubrovnik, Croatia |
 | Website | [Link](https://iwcmc.org/2022/) |
 | Acceptance Rate | 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
+
+## DCOSS
+| Conference Name  | International Conference on Distributed Computing in Sensor Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-01-12 |
+| Conference Date | 2022-05-30 - 2022-06-01 |
+| Location | Marina Del Rey, LA, California |
+| Website | [Link](https://dcoss.org/) |
+| Acceptance Rate | 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50)|
 
 ## USENIX ATC
 | Conference Name  | USENIX Annual Technical Conference |
