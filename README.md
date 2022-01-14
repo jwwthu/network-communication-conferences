@@ -6,6 +6,8 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
+[CQR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cqr)
+
 [CIoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ciot)
 
 [DCOSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dcoss)
@@ -16,15 +18,31 @@ Any suggestion and feedback is welcome.
 
 [HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) (CCF-B)
 
+[HPSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpsr)
+
+[ICCCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icccn) (CCF-C)
+
 [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) (CCF-B)
 
+[ICUFN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icufn)
+
 [IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking) (CCF-C)
+
+[IFIP Performance](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-performance)
 
 [ISNCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isncc)
 
 [IWCMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwcmc)
 
+[IWQoS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwqos) (CCF-B)
+
+[PODC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#podc) (CCF-B)
+
 [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec)
+
+[SIGCOMM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigcomm) (CCF-A)
+
+[Sigmetrics](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigmetrics) (CCF-B)
 
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
 
@@ -127,3 +145,85 @@ Any suggestion and feedback is welcome.
 | Location | Catania, Italy |
 | Website | [Link](https://networking.ifip.org/2022/) |
 | Acceptance Rate | 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
+
+# Feb. 2022
+## SIGCOMM
+| Conference Name  | ACM SIGCOMM Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-02 |
+| Conference Date | 2022-08-22 - 2021-08-26 |
+| Location | Amsterdam |
+| Website | [Link](https://conferences.sigcomm.org/sigcomm/2022/) |
+| Acceptance Rate | 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
+
+## SIGMETRICS
+| Conference Name  | ACM SIGMETRICS |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-02 |
+| Conference Date | 2022-06-06 - 2022-6-10 |
+| Location | Mumbai, India |
+| Website | [Link](https://www.sigmetrics.org/sigmetrics2022/) |
+| Acceptance Rate | 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
+
+## IFIP Performance
+| Conference Name  | International Symposium on Computer Performance, Modeling, Measurements and Evaluation |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-02 |
+| Conference Date | 2022-06-06 - 2022-6-10 |
+| Location | Mumbai, India |
+| Website | [Link](https://www.sigmetrics.org/sigmetrics2022/) (together with ACM SIGMETRICS 2022) |
+| Acceptance Rate | 2021: 26.83% (22/82) <br> 2020: 23.53% (24/102) |
+
+## IWQoS
+| Conference Name  | IEEE/ACM International Symposium on Quality of Service |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-07 |
+| Conference Date | 2022-6-10 - 2022-06-12 |
+| Location | Online |
+| Website | [Link](https://iwqos2022.ieee-iwqos.org/) |
+| Acceptance Rate | 2020: 29% <br> 2018: 20.80% (26/125) + 25 short |
+
+## PODC
+| Conference Name  | Principles of Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-13 |
+| Conference Date | 2022-07-25 - 2022-07-29 |
+| Location | Salerno, Italy |
+| Website | [Link](https://www.podc.org/) |
+| Acceptance Rate | 2021: 25.58% (44/172) <br> 2020: 25.13% (47/187) <br> 2019: 27.75% (48/173) <br> 2018: 25.15% (41/163) <br> 2017: 24.68% (38/154) |
+
+## ICCCN
+| Conference Name  | International Conference on Computer Communications and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-20 |
+| Conference Date | 2022-07-25 - 2022-07-28 |
+| Location | Waikiki Beach, Honolulu |
+| Website | [Link](http://www.icccn.org/) |
+| Acceptance Rate | 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
+
+## HPSR
+| Conference Name  | International Conference on High Performance Switching and Routing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-20 |
+| Conference Date | 2022-06-06 - 2022-06-08 |
+| Location | Taicang, Jiangsu, China |
+| Website | [Link](https://hpsr2022.ieee-hpsr.org/) |
+| Acceptance Rate | Not available |
+
+## CQR
+| Conference Name  | IEEE International Workshop Technical Committee on Communications Quality and Reliability |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-25 |
+| Conference Date | 2022-06-07 - 2022-06-09 |
+| Location | Georgetown, Washington D.C., USA/Hybrid |
+| Website | [Link](https://cqr2022.ieee-cqr.org/) |
+| Acceptance Rate | Not available |
+
+## ICUFN
+| Conference Name  | International Conference on Ubiquitous and Future Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-28 |
+| Conference Date | 2022-07-05 - 2022-07-08 |
+| Location | Barcelona, Spain&Hybrid |
+| Website | [Link](http://icufn.org/) |
+| Acceptance Rate | Not available |
