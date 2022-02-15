@@ -6,11 +6,17 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
+[BlackSeaCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#blackseacom)
+
+[CLOUD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloud) (CCF-C)
+
 [CQR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cqr)
 
 [CIoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ciot)
 
 [DCOSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dcoss)
+
+[DEBS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#debs)
 
 [EuCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#eucnc)
 
@@ -36,13 +42,25 @@ Any suggestion and feedback is welcome.
 
 [IWQoS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwqos) (CCF-B)
 
+[LANMAN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lanman)
+
+[MobiHoc](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobihoc) (CCF-B)
+
+[PIMRC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pimrc)
+
 [PODC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#podc) (CCF-B)
+
+[SCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#scc) (CCF-C)
 
 [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec)
 
 [SIGCOMM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigcomm) (CCF-A)
 
 [Sigmetrics](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigmetrics) (CCF-B)
+
+[SPAWC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#spawc)
+
+[TMA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#tma)
 
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
 
@@ -227,3 +245,85 @@ Any suggestion and feedback is welcome.
 | Location | Barcelona, Spain&Hybrid |
 | Website | [Link](http://icufn.org/) |
 | Acceptance Rate | Not available |
+
+# Mar. 2022
+## CLOUD
+| Conference Name  | IEEE International Conference on Cloud Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-01 |
+| Conference Date | 2022-07-10 - 2022-07-16 |
+| Location | UPC-BARCELONATECH, BARCELONA - SPAIN |
+| Website | [Link](https://conferences.computer.org/cloud/2022/) |
+| Acceptance Rate | 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
+
+## SCC
+| Conference Name  | IEEE International Conference on Services Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-01 |
+| Conference Date | 2022-07-10 - 2022-07-16 |
+| Location | UPC-BARCELONATECH, BARCELONA - SPAIN |
+| Website | [Link](https://conferences.computer.org/scc/2022/) |
+| Acceptance Rate | 2020: 21.80% (41/191) <br> 2019: 20.00% (20/100) <br> 2018: 20.00% (27/135) |
+
+## SPAWC
+| Conference Name  | IEEE Workshop on Signal Processing Advances in Wireless Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-01 |
+| Conference Date | 2022-07-04 - 2022-07-06 |
+| Location | Oulu, Finland |
+| Website | [Link](https://2022.ieeespawc.org/) |
+| Acceptance Rate | 2017: 69.53% (178/256) |
+
+## TMA
+| Conference Name  | Network Traffic Measurement and Analysis Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-03 |
+| Conference Date | 2022-06-27 - 2022-07-01 |
+| Location | Enschede, The Netherlands |
+| Website | [Link](https://tma.ifip.org/2022/) |
+| Acceptance Rate | 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
+
+## MobiHoc
+| Conference Name  | International Symposium on Mobile Ad Hoc Networking and Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-04 |
+| Conference Date | 2022-10-17 - 2022-10-22 |
+| Location | Seoul, South Korea |
+| Website | [Link](https://www.sigmobile.org/mobihoc/2022/) |
+| Acceptance Rate | 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
+
+## DEBS
+| Conference Name  | ACM International Conference on Distributed and Event-based Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-11 |
+| Conference Date | 2022-06-27 - 2022-07-01 |
+| Location | Copenhagen, Denmark |
+| Website | [Link](https://2022.debs.org/) |
+| Acceptance Rate | 2021: 26.92% (7/26) <br> 2020: 25.58% (11/43) <br> 2019: 27.66% (13/47) <br> 2018: 38.71% (12/31) <br> 2017: 36.67% (22/60) |
+
+## BlackSeaCom
+| Conference Name  | IEEE International Black Sea Conference on Communications and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-14 |
+| Conference Date | 2022-06-06 - 2022-06-09 |
+| Location | Sofia, Bulgaria |
+| Website | [Link](https://blackseacom2022.ieee-blackseacom.org/) |
+| Acceptance Rate | 2020: 44% <br> 2019: 48.89% (44/90) |
+
+## PIMRC
+| Conference Name  | IEEE International Symposium on Personal, Indoor and Mobile Radio Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-25 |
+| Conference Date | 2022-09-12 - 2022-09-15 |
+| Location | Virtual |
+| Website | [Link](https://pimrc2022.ieee-pimrc.org/) |
+| Acceptance Rate | 2020: 50.00% (261/522) <br> 2019: 50.00% (268/536) |
+
+## LANMAN
+| Conference Name  | IEEE International Symposium on Local and Metropolitan Area Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-31 |
+| Conference Date | 2022-07-11 - 2022-07-12 |
+| Location | Chicago, USA |
+| Website | [Link](https://lanman2022.ieee-lanman.org/) |
+| Acceptance Rate | 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
