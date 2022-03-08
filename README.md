@@ -6,7 +6,11 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
+[APNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnet)
+
 [BlackSeaCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#blackseacom)
+
+[BMSB](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#bmsb)
 
 [CLOUD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloud) (CCF-C)
 
@@ -192,6 +196,15 @@ Any suggestion and feedback is welcome.
 | Website | [Link](https://www.sigmetrics.org/sigmetrics2022/) (together with ACM SIGMETRICS 2022) |
 | Acceptance Rate | 2021: 26.83% (22/82) <br> 2020: 23.53% (24/102) |
 
+## BMSB
+| Conference Name  | IEEE International Symposium on Broadband Multimedia Systems and Broadcasting |
+| :------------- | :------------- |
+| Submission Deadline | 2022-02-06 |
+| Conference Date | 2022-06-15 - 2022-06-17 |
+| Location | Bilbao, Spain |
+| Website | [Link](https://bmsb2022.com/) |
+| Acceptance Rate | 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
+
 ## IWQoS
 | Conference Name  | IEEE/ACM International Symposium on Quality of Service |
 | :------------- | :------------- |
@@ -300,6 +313,15 @@ Any suggestion and feedback is welcome.
 | Location | Copenhagen, Denmark |
 | Website | [Link](https://2022.debs.org/) |
 | Acceptance Rate | 2021: 26.92% (7/26) <br> 2020: 25.58% (11/43) <br> 2019: 27.66% (13/47) <br> 2018: 38.71% (12/31) <br> 2017: 36.67% (22/60) |
+
+## APNet
+| Conference Name  | Asia-Pacific Workshop on Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-03-11 |
+| Conference Date | 2022-07-01 - 2022-07-02 |
+| Location | Fuzhou, China |
+| Website | [Link](https://conferences.sigcomm.org/events/apnet2022/index.html) |
+| Acceptance Rate | Not available |
 
 ## BlackSeaCom
 | Conference Name  | IEEE International Black Sea Conference on Communications and Networking |
