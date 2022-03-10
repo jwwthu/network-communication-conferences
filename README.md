@@ -6,6 +6,8 @@ All the info would be organized in a chronological order of full paper submissio
 Any suggestion and feedback is welcome.
 
 # Shortcut List
+[ACSSC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#acssc)
+
 [APNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnet)
 
 [BlackSeaCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#blackseacom)
@@ -460,3 +462,12 @@ Any suggestion and feedback is welcome.
 | Location | Turin, Italy |
 | Website | [Link](http://www.wi-opt.org/) |
 | Acceptance Rate | 2020: 50.82% (31/61) <br> 2019: 41.28% (36/87) <br> 2018: 33.04% (38/115) <br> 2017: 32.59% (44/135) |
+
+## ACSSC
+| Conference Name  | Annual Asilomar Conference on Signals, Systems, and Computers |
+| :------------- | :------------- |
+| Submission Deadline | 2022-04-29 |
+| Conference Date | 2022-10-30 - 2022-11-02 |
+| Location | Pacific Grove, California |
+| Website | [Link](https://www.asilomarsscconf.org/) |
+| Acceptance Rate | Not available |
