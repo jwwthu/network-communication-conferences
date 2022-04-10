@@ -8,13 +8,21 @@ Any suggestion and feedback is welcome.
 # Shortcut List
 [ACSSC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#acssc)
 
+[APCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apcc)
+
 [APNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnet)
+
+[APNOMS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnoms)
 
 [BlackSeaCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#blackseacom)
 
 [BMSB](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#bmsb)
 
 [CLOUD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloud) (CCF-C)
+
+[CLUSTER](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cluster) (CCF-B)
+
+[CollaborateCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#collaborateCom) (CCF-C)
 
 [CQR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cqr)
 
@@ -24,9 +32,17 @@ Any suggestion and feedback is welcome.
 
 [DEBS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#debs)
 
+[DISC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#disc)
+
 [EDGE](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#edge)
 
 [EuCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#eucnc)
+
+[EW](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ew)
+
+[EWSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ewsn)
+
+[FNWF](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#fnwf)
 
 [GLOBECOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#globecom) (CCF-C)
 
@@ -36,9 +52,15 @@ Any suggestion and feedback is welcome.
 
 [HPSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpsr)
 
+[ICCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iccc)
+
 [ICCCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icccn) (CCF-C)
 
 [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) (CCF-B)
+
+[ICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icn)
+
+[ICNP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnp) (CCF-B)
 
 [ICPP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpp) (CCF-B)
 
@@ -47,6 +69,8 @@ Any suggestion and feedback is welcome.
 [IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking) (CCF-C)
 
 [IFIP Performance](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-performance)
+
+[IMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#imc) (CCF-B)
 
 [ISCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iscc)
 
@@ -60,9 +84,17 @@ Any suggestion and feedback is welcome.
 
 [LCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lcn) (CCF-C)
 
+[MASS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mass) (CCF-C)
+
+[MeditCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#meditcom)
+
+[MILCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#milcom)
+
 [MobiCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobicom) (CCF-A)
 
 [MobiHoc](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobihoc) (CCF-B)
+
+[MSWIM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mswim) (CCF-C)
 
 [NaNA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nana)
 
@@ -70,9 +102,13 @@ Any suggestion and feedback is welcome.
 
 [PODC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#podc) (CCF-B)
 
+[RTSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#rtss) (CCF-A)
+
 [SCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#scc) (CCF-C)
 
 [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec)
+
+[SECON](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#secon) (CCF-B)
 
 [SIGCOMM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigcomm) (CCF-A)
 
@@ -87,6 +123,10 @@ Any suggestion and feedback is welcome.
 [TMA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#tma)
 
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
+
+[WASA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wasa) (CCF-C)
+
+[WiMob](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wimob)
 
 [WiOpt](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wiopt)
 
@@ -390,7 +430,7 @@ Any suggestion and feedback is welcome.
 | Website | [Link](https://lanman2022.ieee-lanman.org/) |
 | Acceptance Rate | 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
 
-# Mar. 2022
+# Apr. 2022
 ## EDGE
 | Conference Name  | IEEE International Conference on Edge Computing |
 | :------------- | :------------- |
@@ -471,3 +511,184 @@ Any suggestion and feedback is welcome.
 | Location | Pacific Grove, California |
 | Website | [Link](https://www.asilomarsscconf.org/) |
 | Acceptance Rate | Not available |
+
+# May 2022
+## CollaborateCom
+| Conference Name  | EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-01 |
+| Conference Date | 2022-10-15 - 2022-10-16 |
+| Location | Hangzhou, People's Republic of China |
+| Website | [Link](https://collaboratecom.eai-conferences.org/2022/) |
+| Acceptance Rate | Not available |
+
+## EW
+| Conference Name  | European Wireless Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-01 |
+| Conference Date | 2022-09-19 - 2022-09-21 |
+| Location | Dresden, Germany |
+| Website | [Link](https://ew2022.european-wireless.org/) |
+| Acceptance Rate | Not available |
+
+## MASS
+| Conference Name  | IEEE International Conference on Mobile Ad-Hoc and Smart Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-02 |
+| Conference Date | 2022-10-20 - 2022-10-22 |
+| Location | Denver, Colorado |
+| Website | [Link](https://sites.google.com/view/ieee-mass-2022) |
+| Acceptance Rate | 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
+
+## MeditCom
+| Conference Name  | IEEE International Mediterranean Conference on Communications and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-03 |
+| Conference Date | 2022-09-05 - 2022-09-08 |
+| Location | Athens, Greece |
+| Website | [Link](https://meditcom2022.ieee-meditcom.org/) |
+| Acceptance Rate | Not available |
+
+## SECON
+| Conference Name  | International Conference on Sensing, Communication and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-09 |
+| Conference Date | 2022-09-20 - 2022-09-23 |
+| Location | Virtual |
+| Website | [Link](https://secon2022.ieee-secon.org/about/) |
+| Acceptance Rate | 2020: 27.91% (36/129) <br> 2019: 28.57% (54/189) <br> 2018: 23.22% (49/211) <br> 2017: 26.47% (45/170) |
+
+## ICCC
+| Conference Name  | IEEE/CIC International Conference on Communications in China |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-10 |
+| Conference Date | 2022-08-11 - 2022-08-13 |
+| Location | Foshan, China |
+| Website | [Link](https://iccc2022.ieee-iccc.org/) |
+| Acceptance Rate | Not available |
+
+## WASA
+| Conference Name  | International Conference on Wireless Algorithms, Systems, and Applications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-10 |
+| Conference Date | 2022-08-26 - 2022-08-28 |
+| Location | Dalian, China |
+| Website | [Link](http://wasa-conference.org/WASA2022/) |
+| Acceptance Rate | Not available |
+
+## CLUSTER
+| Conference Name  | IEEE International Conference on Cluster Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-13 |
+| Conference Date | 2022-09-06 - 2022-09-09 |
+| Location | Heidelberg, Germany |
+| Website | [Link](https://clustercomp.org/2022/) |
+| Acceptance Rate | 2021: 29.27% (48/164) <br> 2020: 24.24% (32/132) <br> 2019: 27.66% (39/141) <br> 2018: 28.57% (44/154) <br> 2017: 21.66% (47/217) |
+
+## DISC
+| Conference Name  | International Symposium on Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-13 |
+| Conference Date | 2022-10-25 - 2022-10-27 |
+| Location | Augusta, Georgia |
+| Website | [Link](http://www.disc-conference.org/wp/disc2022/) |
+| Acceptance Rate | 2020: 22.94% (39/170) <br> 2019: 23.45% (34/145) <br> 2018: 23.60% (38/161) <br> 2017: 24.38% (39/160) |
+
+## EWSN
+| Conference Name  | International Conference on Embedded Wireless Systems and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-15 |
+| Conference Date | 2022-10-03 - 2022-10-05 |
+| Location | Linz, Austria |
+| Website | [Link](http://ewsn2022.jku.at/) |
+| Acceptance Rate | 2021: 31.82% (14/44) <br> 2020: 31.11% (14/45) <br> 2017: 36.73% (18/49) |
+
+## FNWF
+| Conference Name  | IEEE Future Networks World Forum (from IEEE 5G World Forum) |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-15 |
+| Conference Date | 2022-10-12 - 2022-10-14 |
+| Location | Montreal, Canada |
+| Website | [Link](https://fnwf.ieee.org/) |
+| Acceptance Rate | Not available |
+
+## IMC
+| Conference Name  | Internet Measurement Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-18 |
+| Conference Date | 2022-10-25 - 2022-10-27 |
+| Location | Nice, France |
+| Website | [Link](https://conferences.sigcomm.org/imc/2022/) |
+| Acceptance Rate | 2021: 27.04% (53/196) <br> 2020: 24.54% (53/216) <br> 2019: 19.80% (39/197) <br> 2018: 24.71% (43/174) <br> 2017: 22.34% (42/188) |
+
+## ICNP
+| Conference Name | IEEE International Conference on Network Protocols |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-26 |
+| Conference Date | 2022-10-30 - 2022-11-02 |
+| Location | Lexington, Kentucky, USA |
+| Website | [Link](https://icnp22.cs.ucr.edu/index2.html) |
+| Acceptance Rate | 2021: 24.68% (38/154) <br> 2018: 36.46% (35/96) <br> 2017: 18.66% (39/209) |
+
+## RTSS
+| Conference Name | Real-Time Systems Symposium |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-26 |
+| Conference Date | 2022-12-05 - 2022-12-08 |
+| Location | Houston, USA |
+| Website | [Link](http://2022.rtss.org/) |
+| Acceptance Rate | 2021: 29.32% (39/133) <br> 2020: 20.00% (28/140) <br> 2019: 24.38% (39/160) <br> 2018: 22.29% (37/166) <br> 2017: 23.66% (31/131) |
+
+## WiMob
+| Conference Name | IEEE International Conference on Wireless and Mobile Computing Networking and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-26 |
+| Conference Date | 2022-10-10 - 2022-10-12 |
+| Location | Thessaloniki, Greece |
+| Website | [Link](http://www.wimob.org/wimob2022/) |
+| Acceptance Rate | 2017: 28.10% (59/210) |
+
+## MSWIM
+| Conference Name | ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-27 |
+| Conference Date | 2022-10-24 - 2022-10-28 |
+| Location | Montreal, Canada |
+| Website | [Link](https://mswimconf.com/2022/) |
+| Acceptance Rate | 2021: 19.47% (22/113) <br> 2019: 29.13% (30/103) <br> 2018: 27.43% (31/113) |
+
+## ICN
+| Conference Name | ACM Conference on Information-Centric Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-28 |
+| Conference Date | 2022-09-19 - 2022-09-21 |
+| Location | Osaka, Japan |
+| Website | [Link](https://conferences.sigcomm.org/acm-icn/2022/) |
+| Acceptance Rate | 2021: 30.23% (13/43) <br> 2020: 38.46% (15/39) <br> 2019: 41.67% (15/36) <br> 2018: 29.82% (17/57) <br> 2017: 27.54% (19/69) |
+
+## MILCOM
+| Conference Name | IEEE Military Communications Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-29 |
+| Conference Date | 2022-11-28 - 2022-12-02 |
+| Location | Rockville, MD, USA |
+| Website | [Link](https://milcom2022.milcom.org/) |
+| Acceptance Rate | 2021: ~47.14% (~165/350) <br> 2019: 49.61% (127/256) <br> 2018: 51.14% (179/350) |
+
+## APNOMS
+| Conference Name | Asia-Pacific Network Operations and Management Symposium |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-30 |
+| Conference Date | 2022-09-28 - 2022-09-30 |
+| Location | Takamatsu, Japan |
+| Website | [Link](https://www.ieice.org/cs/icm/apnoms/2022/index.html) |
+| Acceptance Rate | Not available |
+
+## APCC
+| Conference Name | Asia-Pacific Conference on Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-31 |
+| Conference Date | 2022-10-19 - 2022-10-21 |
+| Location | Ramada Plaza Hotel, Jeju Island, Korea |
+| Website | [Link](http://apcc2022.org/) |
+| Acceptance Rate | 2021: ~63.33% (~57/90) <br> 2019: 57.56% (99/172) |
