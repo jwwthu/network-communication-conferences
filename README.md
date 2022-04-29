@@ -24,9 +24,17 @@ Any suggestion and feedback is welcome.
 
 [CollaborateCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#collaborateCom) (CCF-C)
 
+[CoNEXT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#conext) (CCF-B)
+
 [CQR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cqr)
 
 [CIoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ciot)
+
+[CloudNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloudnet)
+
+[CNSM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cnsm)
+
+[CSPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#csps)
 
 [DCOSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dcoss)
 
@@ -58,6 +66,8 @@ Any suggestion and feedback is welcome.
 
 [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) (CCF-B)
 
+[ICENAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icenat)
+
 [ICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icn)
 
 [ICNP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnp) (CCF-B)
@@ -83,6 +93,8 @@ Any suggestion and feedback is welcome.
 [LANMAN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lanman)
 
 [LCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lcn) (CCF-C)
+
+[MASCOTS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mascots) (CCF-C)
 
 [MASS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mass) (CCF-C)
 
@@ -110,11 +122,17 @@ Any suggestion and feedback is welcome.
 
 [SECON](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#secon) (CCF-B)
 
+[SenSys](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sensys) (CCF-B)
+
 [SIGCOMM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigcomm) (CCF-A)
 
 [Sigmetrics](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigmetrics) (CCF-B)
 
+[SmartGridComm](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#smartgridcomm)
+
 [SMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#smc) (CCF-C)
+
+[SoCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#socc) (CCF-B)
 
 [SPAWC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#spawc)
 
@@ -125,6 +143,10 @@ Any suggestion and feedback is welcome.
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
 
 [WASA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wasa) (CCF-C)
+
+[WCSP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wcsp)
+
+[WF-IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wf-iot)
 
 [WiMob](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wimob)
 
@@ -692,3 +714,93 @@ Any suggestion and feedback is welcome.
 | Location | Ramada Plaza Hotel, Jeju Island, Korea |
 | Website | [Link](http://apcc2022.org/) |
 | Acceptance Rate | 2021: ~63.33% (~57/90) <br> 2019: 57.56% (99/172) |
+
+# June 2022
+## MASCOTS
+| Conference Name | International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-06-01 |
+| Conference Date | 2022-10-18 - 2022-10-20 |
+| Location | Nice, France |
+| Website | [Link](https://mascots.iitis.pl/) |
+| Acceptance Rate | 2021: 32.89% (25/76) <br> 2020: 27% <br> 2019: 31.97% (39/122) <br> 2017: 30.95% (26/84) |
+
+## SenSys
+| Conference Name | ACM Conference on Embedded Networked Sensor Systems |
+| Submission Deadline | 2022-06-07 |
+| Conference Date | November, 2022 |
+| Location | Boston, United States |
+| Website | [Link](https://sensys.acm.org/2022/) |
+| Acceptance Rate | 2021: 18.0% (25/139) <br> 2020: 20.1% (43/214) <br> 2019: 19.4% (28/144) <br> 2018: 15.6% (23/147) <br> 2017: 17.1% (26/152) |
+
+## SmartGridComm
+| Conference Name | IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids |
+| Submission Deadline | 2022-06-10 |
+| Conference Date | 2022-10-25 - 2022-10-28 |
+| Location | Singapore/Hybrid |
+| Website | [Link](https://sgc2022.ieee-smartgridcomm.org/) |
+| Acceptance Rate | N/A |
+
+## WF-IoT
+| Conference Name | IEEE World Forum on Internet of Things |
+| Submission Deadline | 2022-06-13 |
+| Conference Date | 2022-11-03 - 2022-11-18 |
+| Location | Yokohama, Japan/Hybrid |
+| Website | [Link](https://wfiot2022.iot.ieee.org/) |
+| Acceptance Rate | 2021: 64.31% (164/255) <br> 2018: 49.49% (145/293) |
+
+## CNSM
+| Conference Name | International Conference on Network and Service Management |
+| Submission Deadline | 2022-06-17 |
+| Conference Date | 2022-10-31 - 2022-11-04 |
+| Location | Thessaloniki, Greece |
+| Website | [Link](http://www.cnsm-conf.org/2022/) |
+| Acceptance Rate | 2021: 19.35% (18/93) <br> 2020: 19.81% (21/106) <br> 2019: 16.54% (21/127) <br> 2018: 19.00% (19/100) <br> 2017: 17.65% (24/136) |
+
+## SoCC
+| Conference Name | ACM Symposium on Cloud Computing |
+| Submission Deadline | 2022-06-17 |
+| Conference Date | November, 2022 |
+| Location | San Francisco, CA |
+| Website | [Link](https://acmsocc.org/2022/) |
+| Acceptance Rate | 2021: 31.72% (46/145) <br> 2020: 24.48% (35/143) <br> 2019: 24.84% (39/157) |
+
+## CloudNet
+| Conference Name | IEEE International Conference on Cloud Networking |
+| Submission Deadline | 2022-06-20 |
+| Conference Date | 2022-11-07 - 2022-11-10 |
+| Location | Paris, France |
+| Website | [Link](https://cloudnet2022.ieee-cloudnet.org/) |
+| Acceptance Rate | N/A |
+
+## CSPS
+| Conference Name | International Conference in Communications, Signal Processing, and Systems |
+| Submission Deadline | 2022-06-20 |
+| Conference Date | 2022-07-23 - 2022-07-24 |
+| Location | Changbaishan, China |
+| Website | [Link](http://www.cspsconf.org/) |
+| Acceptance Rate | N/A |
+
+## CoNEXT
+| Conference Name | International Conference on emerging Networking EXperiments and Technologies |
+| Submission Deadline | 2022-06-29 |
+| Conference Date | 2022-12-06 - 2022-12-09 |
+| Location | Rome, Italy |
+| Website | [Link](https://conferences2.sigcomm.org/co-next/2022/#!/home) |
+| Acceptance Rate | Long Paper <br> 2021: 22.50% (27/120) <br> 2020: 23.85% (31/130) <br> 2019: 15.44% (23/149) <br> 2018: 19.72% (28/142) <br> 2017: 19.30% (33/171) <br> Short Paper <br> 2021: 23.08% (9/39) <br> 2020: 28.95% (11/38) <br> 2019: 21.95% (9/41) <br> 2018: 9.30% (4/43) <br> 2017: 13.73% (7/51) |
+
+## ICENAT
+| Conference Name | International Conference on Emerging Networking Architecture and Technologies |
+| Submission Deadline | 2022-06-30 |
+| Conference Date | 2022-10-15 - 2022-10-17 |
+| Location | Shenzhen, China |
+| Website | [Link](http://icenat.pcl.ac.cn/) |
+| Acceptance Rate | N/A |
+
+## WCSP
+| Conference Name | International Conference on Wireless Communications and Signal Processing |
+| Submission Deadline | 2022-06-30 |
+| Conference Date | 2022-10-14 - 2022-10-17 |
+| Location | Nanjing, China |
+| Website | [Link](http://www.ic-wcsp.org/2022/) |
+| Acceptance Rate | N/A |
