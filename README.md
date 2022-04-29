@@ -727,6 +727,7 @@ Any suggestion and feedback is welcome.
 
 ## SenSys
 | Conference Name | ACM Conference on Embedded Networked Sensor Systems |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-07 |
 | Conference Date | November, 2022 |
 | Location | Boston, United States |
@@ -735,6 +736,7 @@ Any suggestion and feedback is welcome.
 
 ## SmartGridComm
 | Conference Name | IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-10 |
 | Conference Date | 2022-10-25 - 2022-10-28 |
 | Location | Singapore/Hybrid |
@@ -743,6 +745,7 @@ Any suggestion and feedback is welcome.
 
 ## WF-IoT
 | Conference Name | IEEE World Forum on Internet of Things |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-13 |
 | Conference Date | 2022-11-03 - 2022-11-18 |
 | Location | Yokohama, Japan/Hybrid |
@@ -751,6 +754,7 @@ Any suggestion and feedback is welcome.
 
 ## CNSM
 | Conference Name | International Conference on Network and Service Management |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-17 |
 | Conference Date | 2022-10-31 - 2022-11-04 |
 | Location | Thessaloniki, Greece |
@@ -759,6 +763,7 @@ Any suggestion and feedback is welcome.
 
 ## SoCC
 | Conference Name | ACM Symposium on Cloud Computing |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-17 |
 | Conference Date | November, 2022 |
 | Location | San Francisco, CA |
@@ -767,6 +772,7 @@ Any suggestion and feedback is welcome.
 
 ## CloudNet
 | Conference Name | IEEE International Conference on Cloud Networking |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-20 |
 | Conference Date | 2022-11-07 - 2022-11-10 |
 | Location | Paris, France |
@@ -775,6 +781,7 @@ Any suggestion and feedback is welcome.
 
 ## CSPS
 | Conference Name | International Conference in Communications, Signal Processing, and Systems |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-20 |
 | Conference Date | 2022-07-23 - 2022-07-24 |
 | Location | Changbaishan, China |
@@ -783,6 +790,7 @@ Any suggestion and feedback is welcome.
 
 ## CoNEXT
 | Conference Name | International Conference on emerging Networking EXperiments and Technologies |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-29 |
 | Conference Date | 2022-12-06 - 2022-12-09 |
 | Location | Rome, Italy |
@@ -791,6 +799,7 @@ Any suggestion and feedback is welcome.
 
 ## ICENAT
 | Conference Name | International Conference on Emerging Networking Architecture and Technologies |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-30 |
 | Conference Date | 2022-10-15 - 2022-10-17 |
 | Location | Shenzhen, China |
@@ -799,6 +808,7 @@ Any suggestion and feedback is welcome.
 
 ## WCSP
 | Conference Name | International Conference on Wireless Communications and Signal Processing |
+| :------------- | :------------- |
 | Submission Deadline | 2022-06-30 |
 | Conference Date | 2022-10-14 - 2022-10-17 |
 | Location | Nanjing, China |
