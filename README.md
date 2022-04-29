@@ -86,6 +86,8 @@ Any suggestion and feedback is welcome.
 
 [ISNCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isncc)
 
+[ITC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#itc)
+
 [IWCMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwcmc)
 
 [IWQoS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwqos) (CCF-B)
@@ -633,6 +635,15 @@ Any suggestion and feedback is welcome.
 | Location | Montreal, Canada |
 | Website | [Link](https://fnwf.ieee.org/) |
 | Acceptance Rate | Not available |
+
+## ITC
+| Conference Name  | International Teletraffic Congress |
+| :------------- | :------------- |
+| Submission Deadline | 2022-05-15 |
+| Conference Date | 2022-09-14 - 2022-09-16 |
+| Location | Shenzhen, China |
+| Website | [Link](https://itc34.itc-conference.org/) |
+| Acceptance Rate | 2021: 40.74% (11/27) <br> 2020: 34.48% (20/58) <br> 2019: 44.12% (15/34) <br> 2018: 39.13% (18/46) <br> 2017: 30.77% (28/91) |
 
 ## IMC
 | Conference Name  | Internet Measurement Conference |
