@@ -114,6 +114,8 @@ Any suggestion and feedback is welcome.
 
 [NaNA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nana)
 
+[NPC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#npc) (CCF-C)
+
 [PIMRC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pimrc)
 
 [PODC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#podc) (CCF-B)
@@ -254,6 +256,15 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-10-15 - 2022-10-17 |
 | Location | Shenzhen, China |
 | Website | [Link](http://icenat.pcl.ac.cn/) |
+| Acceptance Rate | N/A |
+
+## NPC
+| Conference Name | Annual IFIP International Conference on Network and Parallel Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-06-30 |
+| Conference Date | 2022-09-24 - 2022-09-25 |
+| Location | Jinan, China |
+| Website | [Link](https://npc2022.jlu.edu.cn/) |
 | Acceptance Rate | N/A |
 
 ## WCSP
