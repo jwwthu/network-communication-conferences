@@ -8,6 +8,8 @@ Any suggestion and feedback is welcome.
 # Shortcut List
 [ACSSC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#acssc)
 
+[Allerton](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#allerton)
+
 [APCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apcc)
 
 [APNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnet)
@@ -18,7 +20,13 @@ Any suggestion and feedback is welcome.
 
 [BMSB](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#bmsb)
 
+[CAMAD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#camad)
+
+[CCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ccnc)
+
 [CLOUD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloud) (CCF-C)
+
+[CloudCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloudcom)
 
 [CLUSTER](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cluster) (CCF-B)
 
@@ -44,6 +52,8 @@ Any suggestion and feedback is welcome.
 
 [EDGE](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#edge)
 
+[EUC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#euc)
+
 [EuCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#eucnc)
 
 [EW](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ew)
@@ -66,13 +76,19 @@ Any suggestion and feedback is welcome.
 
 [ICCCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icccn) (CCF-C)
 
+[ICDCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcn)
+
 [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) (CCF-B)
 
 [ICENAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icenat)
 
 [ICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icn)
 
+[ICNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnc)
+
 [ICNP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnp) (CCF-B)
+
+[ICPADS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpads) (CCF-C)
 
 [ICPP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpp) (CCF-B)
 
@@ -114,11 +130,17 @@ Any suggestion and feedback is welcome.
 
 [MobiHoc](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobihoc) (CCF-B)
 
+[Mobiquitous](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobiquitous)
+
 [MobiWac](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobiwac)
+
+[MSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#msn)
 
 [MSWIM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mswim) (CCF-C)
 
 [NaNA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nana)
+
+[NFV-SDN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nfv-sdn)
 
 [NPC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#npc) (CCF-C)
 
@@ -154,6 +176,8 @@ Any suggestion and feedback is welcome.
 
 [TMA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#tma)
 
+[TrustCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#trustcom) (CCF-C)
+
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
 
 [WASA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wasa) (CCF-C)
@@ -165,6 +189,115 @@ Any suggestion and feedback is welcome.
 [WiMob](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wimob)
 
 [WiOpt](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wiopt)
+
+# July 2022
+## CCNC
+| Conference Name | IEEE Consumer Communications and Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-01 |
+| Conference Date | 2023-01-08 - 2023-01-11 |
+| Location | Las Vegas, NV, USA |
+| Website | [Link](https://ccnc2023.ieee-ccnc.org/) |
+| Acceptance Rate | 2017: 34.8% <br> 2016: 32% |
+
+## EUC
+| Conference Name | IEEE international conference on embedded and ubiquitous computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-01 |
+| Conference Date | 2022-10-28 - 2022-10-30 |
+| Location | Wuhan, China |
+| Website | [Link](http://ieee-hust-ncc.org/2022/EUC/) |
+| Acceptance Rate | 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
+
+## ICDCN
+| Conference Name | International Conference on Distributed Computing and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-01 |
+| Conference Date | 2023-01-04 - 2023-01-07 |
+| Location | IIT Kharagpur |
+| Website | [Link](https://cse.iitkgp.ac.in/conf/ICDCN23/) |
+| Acceptance Rate | 2022: 35.29% (24/68) <br> 2021: 35.29% (24/68) <br> 2020: 32/58% (29/89) <br> 2019: 41.05% (39/95) |
+
+## MSN
+| Conference Name | International Conference on Mobility, Sensing and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-01 |
+| Conference Date | 2022-12-14 - 2022-12-16 |
+| Location | Guangzhou, China |
+| Website | [Link](https://ieee-msn.org/2022/) |
+| Acceptance Rate | 2021: 38.20% (68/178) <br> 2020: 37.02% (67/181) <br> 2019: 50% (46/92) |
+
+## TrustCom
+| Conference Name | IEEE International Conference on Trust, Security and Privacy in Computing and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-01 |
+| Conference Date | 2022-10-28 - 2022-10-30 |
+| Location | Wuhan, China |
+| Website | [Link](http://www.ieee-hust-ncc.org/2022/TrustCom/) |
+| Acceptance Rate | 2021: 28% <br> 2020: 27.96% (130/465) |
+
+## Allerton
+| Conference Name | Allerton Conference on Communication, Control, and Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-12 |
+| Conference Date | 2022-09-28 - 2022-09-30 |
+| Location | University of Illinois at Urbana-Champaign, USA |
+| Website | [Link](https://allerton.csl.illinois.edu/) |
+| Acceptance Rate | N/A |
+
+## CAMAD
+| Conference Name | IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-15 |
+| Conference Date | 2022-11-02 - 2022-11-04 |
+| Location | Paris, France |
+| Website | [Link](https://camad2022.ieee-camad.org/) |
+| Acceptance Rate | N/A |
+
+## CloudCom
+| Conference Name | IEEE International Conference on Cloud Computing Technology and Science |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-15 |
+| Conference Date | 2022-12-13 - 2022-12-16 |
+| Location | Bangkok, Thailand |
+| Website | [Link](https://www.2022.cloudcom.org/) |
+| Acceptance Rate | 2018: ~20% <br> 2017: 29.41% (40/136) |
+
+## Mobiquitous
+| Conference Name | International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-15 |
+| Conference Date | 2022-11-14 - 2022-11-17 |
+| Location | Pittsburgh, United States |
+| Website | [Link](https://mobiquitous.eai-conferences.org/2022/) |
+| Acceptance Rate | 2016: 29.89% (26/87) |
+
+## NFV-SDN
+| Conference Name | IEEE Conference on Network Function Virtualization and Software Defined Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-15 |
+| Conference Date | 2022-11-14 - 2022-11-16 |
+| Location | Phoenix, AZ, USA |
+| Website | [Link](https://nfvsdn2022.ieee-nfvsdn.org/) |
+| Acceptance Rate | N/A |
+
+## ICPADS
+| Conference Name | International Conference on Parallel and Distributed Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-16 |
+| Conference Date | 2022-12-14 - 2022-12-16 |
+| Location | Nanjing, China |
+| Website | [Link](http://ieee-icpads.net/) |
+| Acceptance Rate | 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
+
+## ICNC
+| Conference Name | International Conference on Computing, Networking and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-31 |
+| Conference Date | 2023-02-01 - 2023-02-01 |
+| Location | Kauai, Hawaii |
+| Website | [Link](http://www.conf-icnc.org/2023/) |
+| Acceptance Rate | N/A |
 
 # June 2022
 ## MASCOTS
