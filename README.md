@@ -56,6 +56,8 @@ Any suggestion and feedback is welcome.
 
 [HotCloud](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotcloud)
 
+[HotNets](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotnets) (CCF-C)
+
 [HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) (CCF-B)
 
 [HPSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpsr)
@@ -96,6 +98,8 @@ Any suggestion and feedback is welcome.
 
 [LANMAN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lanman)
 
+[LATINCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#latincom)
+
 [LCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lcn) (CCF-C)
 
 [MASCOTS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mascots) (CCF-C)
@@ -109,6 +113,8 @@ Any suggestion and feedback is welcome.
 [MobiCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobicom) (CCF-A)
 
 [MobiHoc](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobihoc) (CCF-B)
+
+[MobiWac](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobiwac)
 
 [MSWIM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mswim) (CCF-C)
 
@@ -139,6 +145,8 @@ Any suggestion and feedback is welcome.
 [SMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#smc) (CCF-C)
 
 [SoCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#socc) (CCF-B)
+
+[SOSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sosr)
 
 [SPAWC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#spawc)
 
@@ -240,6 +248,24 @@ Any suggestion and feedback is welcome.
 | Website | [Link](http://www.cspsconf.org/) |
 | Acceptance Rate | N/A |
 
+## SOSR
+| Conference Name | Symposium on SDN Research |
+| :------------- | :------------- |
+| Submission Deadline | 2022-06-22 |
+| Conference Date | 2022-10-18 - 2022-10-20 |
+| Location | San Jose, California |
+| Website | [Link](https://conferences.sigcomm.org/sosr/2022/) |
+| Acceptance Rate | N/A |
+
+## HotNets
+| Conference Name | ACM Workshop on Hot Topics in Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-06-23 |
+| Conference Date | 2022-11-14 - 2022-11-15 |
+| Location | Austin, Texas, USA |
+| Website | [Link](https://conferences.sigcomm.org/hotnets/2022/index.html) |
+| Acceptance Rate | 2021: 30.69% (31/101) <br> 2020: 24.79% (30/121) <br> 2019: 20.41% (20/98) <br> 2018: 20.80% (26/125) <br> 2017: 22.58% (28/124) |
+
 ## CoNEXT
 | Conference Name | International Conference on emerging Networking EXperiments and Technologies |
 | :------------- | :------------- |
@@ -257,6 +283,24 @@ Any suggestion and feedback is welcome.
 | Location | Shenzhen, China |
 | Website | [Link](http://icenat.pcl.ac.cn/) |
 | Acceptance Rate | N/A |
+
+## LATINCOM
+| Conference Name | IEEE Latin American Conference on Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-06-30 |
+| Conference Date | 2022-11-30 - 2022-12-02 |
+| Location | Rio de Janeiro, Brazil |
+| Website | [Link](https://latincom2022.ieee-latincom.org/) |
+| Acceptance Rate | N/A |
+
+## MobiWac
+| Conference Name | ACM International Symposium on Mobility Management and Wireless Access |
+| :------------- | :------------- |
+| Submission Deadline | 2022-06-30 |
+| Conference Date | 2022-10-24 - 2022-10-28 |
+| Location | Montreal, Canada |
+| Website | [Link](http://mobiwac-symposium.org/2022/) |
+| Acceptance Rate | 2021: 26% <br> 2020: 24% <br> 2019: 34% <br> 2018: 26% <br> 2017: 28% |
 
 ## NPC
 | Conference Name | Annual IFIP International Conference on Network and Parallel Computing |
