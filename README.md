@@ -66,6 +66,8 @@ Any suggestion and feedback is welcome.
 
 [HotCloud](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotcloud)
 
+[HotICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hoticn)
+
 [HotNets](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotnets) (CCF-C)
 
 [HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) (CCF-B)
@@ -88,6 +90,8 @@ Any suggestion and feedback is welcome.
 
 [ICNP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnp) (CCF-B)
 
+[ICOIN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icoin)
+
 [ICPADS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpads) (CCF-C)
 
 [ICPP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpp) (CCF-B)
@@ -105,6 +109,8 @@ Any suggestion and feedback is welcome.
 [ISCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iscc)
 
 [ISNCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isncc)
+
+[ISPACS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ispacs)
 
 [ITC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#itc)
 
@@ -189,6 +195,35 @@ Any suggestion and feedback is welcome.
 [WiMob](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wimob)
 
 [WiOpt](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wiopt)
+
+
+# August 2022
+## ISPACS
+| Conference Name | International Symposium on Intelligent Signal Processing and Communication Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-08-01 |
+| Conference Date | 2022-11-22 - 2022-11-25 |
+| Location | Penang, Malaysia |
+| Website | [Link](https://www.ispacs2022.org/) |
+| Acceptance Rate | 2018: 73.88% (99/134) |
+
+## HotICN
+| Conference Name | International Conference on Hot Information-Centric Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-08-15 |
+| Conference Date | 2022-11-24 - 2022-11-26 |
+| Location | Guangzhou, China |
+| Website | [Link](http://hoticn.com/) |
+| Acceptance Rate | N/A |
+
+## ICOIN
+| Conference Name | International Conference on Information Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2022-08-15 |
+| Conference Date | 2023-01-11 - 2023-01-14 |
+| Location | Bangkok, Thailand |
+| Website | [Link](http://icoin.org/main.php) |
+| Acceptance Rate | 2022: 60.24% (100/166, 61 oral + 39 poster) <br> 2019: 69.01% (98/142, 52 oral + 46 poster) |
 
 # July 2022
 ## CCNC
