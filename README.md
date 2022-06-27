@@ -104,6 +104,8 @@ Any suggestion and feedback is welcome.
 
 [IMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#imc) (CCF-B)
 
+[IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iot)
+
 [IPCCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipccc) (CCF-C)
 
 [ISCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iscc)
@@ -150,6 +152,8 @@ Any suggestion and feedback is welcome.
 
 [NPC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#npc) (CCF-C)
 
+[PDCAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pdcat)
+
 [PIMRC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pimrc)
 
 [PODC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#podc) (CCF-B)
@@ -184,6 +188,8 @@ Any suggestion and feedback is welcome.
 
 [TrustCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#trustcom) (CCF-C)
 
+[UCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ucc)
+
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
 
 [WASA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wasa) (CCF-C)
@@ -207,6 +213,24 @@ Any suggestion and feedback is welcome.
 | Website | [Link](https://www.ispacs2022.org/) |
 | Acceptance Rate | 2018: 73.88% (99/134) |
 
+## PDCAT
+| Conference Name | International Conference on Parallel and Distributed Computing, Applications and Technologies |
+| :------------- | :------------- |
+| Submission Deadline | 2022-08-03 |
+| Conference Date | 2022-12-07 - 2022-12-09 |
+| Location | Sendai, Japan |
+| Website | [Link](https://www.hpc.is.tohoku.ac.jp/pdcat2022/) |
+| Acceptance Rate | N/A |
+
+## UCC
+| Conference Name | IEEE/ACM International Conference on Utility and Cloud Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-08-08 |
+| Conference Date | 2022-12-06 - 2022-12-09 |
+| Location | Portland, Oregon, USA |
+| Website | [Link](https://ucc-conference.org/) |
+| Acceptance Rate | 2021: 33.87% (21/62) <br> 2019: 29.17% (28/96) <br> 2018: 20.5% <br> 2017: 26.98% (17/63) |
+
 ## HotICN
 | Conference Name | International Conference on Hot Information-Centric Networking |
 | :------------- | :------------- |
@@ -224,6 +248,15 @@ Any suggestion and feedback is welcome.
 | Location | Bangkok, Thailand |
 | Website | [Link](http://icoin.org/main.php) |
 | Acceptance Rate | 2022: 60.24% (100/166, 61 oral + 39 poster) <br> 2019: 69.01% (98/142, 52 oral + 46 poster) |
+
+## IoT
+| Conference Name | International Conference on the Internet of Things |
+| :------------- | :------------- |
+| Submission Deadline | 2022-08-29 |
+| Conference Date | 2022-11-07 - 2022-11-10 |
+| Location | TU Delft, NL |
+| Website | [Link](https://iot-conference.org/iot2022/) |
+| Acceptance Rate | 2021: 36.84% (21/57) <br> 2020: 41.38% (24/58) |
 
 # July 2022
 ## CCNC
