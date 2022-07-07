@@ -104,6 +104,8 @@ Any suggestion and feedback is welcome.
 
 [IMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#imc) (CCF-B)
 
+[INFOCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#infocom) (CCF-A)
+
 [IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iot)
 
 [IPCCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipccc) (CCF-C)
@@ -204,6 +206,15 @@ Any suggestion and feedback is welcome.
 
 
 # August 2022
+## INFOCOM
+| Conference Name | IEEE International Conference on Computer Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-08-01 |
+| Conference Date | 2023-05-17 - 2023-05-20 |
+| Location | New York, USA and Hybrid |
+| Website | [Link](https://infocom2023.ieee-infocom.org/) |
+| Acceptance Rate | 2022: 19.84% (224/1129) <br> 2021: 19.75% (251/1271) <br> 2020: 19.11% (267/1397) <br> 2019: 19.67% (288/1464) <br> 2018: 19.24% (309/1606) <br> 2017: 20.93% (292/1395) |
+
 ## ISPACS
 | Conference Name | International Symposium on Intelligent Signal Processing and Communication Systems |
 | :------------- | :------------- |
