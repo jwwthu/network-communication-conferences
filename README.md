@@ -44,6 +44,8 @@ Any suggestion and feedback is welcome.
 
 [CNSM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cnsm)
 
+[COMSNETS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#comsnets)
+
 [CSPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#csps)
 
 [DCOSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dcoss)
@@ -71,6 +73,8 @@ Any suggestion and feedback is welcome.
 [HotICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hoticn)
 
 [HotNets](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotnets) (CCF-C)
+
+[HPCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpcc) (CCF-C)
 
 [HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) (CCF-B)
 
@@ -156,9 +160,13 @@ Any suggestion and feedback is welcome.
 
 [NPC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#npc) (CCF-C)
 
+[NSDI](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nsdi) (CCF-A)
+
 [PDCAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pdcat)
 
 [PEMWN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pemwn)
+
+[PERCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#percom) (CCF-B)
 
 [PIMRC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pimrc)
 
@@ -196,9 +204,15 @@ Any suggestion and feedback is welcome.
 
 [UCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ucc)
 
+[UEMCON](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#uemcon)
+
+[UIC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#uic)
+
 [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A)
 
 [WASA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wasa) (CCF-C)
+
+[WCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wcnc)
 
 [WCSP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wcsp)
 
@@ -208,6 +222,69 @@ Any suggestion and feedback is welcome.
 
 [WiOpt](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wiopt)
 
+# September 2022
+## COMSNETS
+| Conference Name | International Conference on COMmunication Systems & NETworkS |
+| :------------- | :------------- |
+| Submission Deadline | 2022-09-01 |
+| Conference Date | 2023-01-03 - 2023-01-08 |
+| Location | Bengaluru, India |
+| Website | [Link](https://www.comsnets.org/) |
+| Acceptance Rate | N/A |
+
+## UIC
+| Conference Name | IEEE International Conference on Ubiquitous Intelligence and Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2022-09-01 |
+| Conference Date | 2022-12-15 - 2022-12-18 |
+| Location | Haikou, China |
+| Website | [Link](http://www.ieee-smart-world.org/2022/uic/index.php) |
+| Acceptance Rate | N/A |
+
+## HPCC
+| Conference Name | IEEE International Conference on High Performance Computing and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-09-01 |
+| Conference Date | 2022-12-18 - 2022-12-20 |
+| Location | Chengdu, China |
+| Website | [Link](http://www.ieee-hpcc.org/2022/) |
+| Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
+
+## UEMCON
+| Conference Name | IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-09-11 |
+| Conference Date | 2022-10-26 - 2022-10-29 |
+| Location | Virtual |
+| Website | [Link](https://ieee-uemcon.org/) |
+| Acceptance Rate | N/A |
+
+## WCNC
+| Conference Name | IEEE Wireless Communications and Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2022-09-12 |
+| Conference Date | 2023-03-26 - 2023-03-29 |
+| Location | Glasgow, Scotland, UK |
+| Website | [Link](https://wcnc2023.ieee-wcnc.org/) |
+| Acceptance Rate | 2022: 48.65% (361/742) <br> 2020: 36.69% (400/1093) |
+
+## NSDI
+| Conference Name | USENIX Symposium on Networked Systems Design and Implementation |
+| :------------- | :------------- |
+| Submission Deadline | 2022-09-13 |
+| Conference Date | 2023-04-17 - 2023-04-19 |
+| Location | BOSTON, MA, USA |
+| Website | [Link](https://www.usenix.org/conference/nsdi23) |
+| Acceptance Rate | 2022: 19.4% <br> 2021: 15.99% (59/369) <br> 2020: 18.3% (65/354) <br> 2019: 14.8% (49/332) <br> 2018: 15.7% (40/255) |
+
+## PERCOM
+| Conference Name | IEEE International Conference on Pervasive Computing and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2022-09-26 |
+| Conference Date | 2023-03-13 - 2023-03-17 |
+| Location | Atlanta, USA |
+| Website | [Link](https://www.percom.org/) |
+| Acceptance Rate | 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
 
 # August 2022
 ## INFOCOM
