@@ -10,6 +10,8 @@ Any suggestion and feedback is welcome.
 
 [Allerton](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#allerton)
 
+[ANTS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ants)
+
 [APCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apcc)
 
 [APNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnet)
@@ -155,6 +157,8 @@ Any suggestion and feedback is welcome.
 [NPC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#npc) (CCF-C)
 
 [PDCAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pdcat)
+
+[PEMWN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pemwn)
 
 [PIMRC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pimrc)
 
@@ -369,6 +373,15 @@ Any suggestion and feedback is welcome.
 | Website | [Link](http://ieee-icpads.net/) |
 | Acceptance Rate | 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
 
+## PEMWN
+| Conference Name | International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-30 |
+| Conference Date | 2022-11-08 - 2022-11-10 |
+| Location | UNIVERSITY OF ROMA SAPIENZA, ROMA, ITALY |
+| Website | [Link](https://sites.google.com/view/pemwn2022) |
+| Acceptance Rate | 2019: 37.93% (11/29) <br> 2018: 40.00% (12/30) <br> 2017: 35.85% (19/53) |
+
 ## ICNC
 | Conference Name | International Conference on Computing, Networking and Communications |
 | :------------- | :------------- |
@@ -377,6 +390,15 @@ Any suggestion and feedback is welcome.
 | Location | Kauai, Hawaii |
 | Website | [Link](http://www.conf-icnc.org/2023/) |
 | Acceptance Rate | N/A |
+
+## ANTS
+| Conference Name | IEEE International Conference on Advanced Networks and Telecommunications Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2022-07-31 |
+| Conference Date | 2022-12-18 - 2022-12-21 |
+| Location | Gandhinagar, Gujarat, India |
+| Website | [Link](https://ants2022.ieee-ants.org/) |
+| Acceptance Rate | 43.10% (178/413) <br> 2018: 38.94% (139/357) |
 
 # June 2022
 ## MASCOTS
