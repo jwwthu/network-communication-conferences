@@ -897,7 +897,7 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-06-30 - 2022-07-03 |
 | Location | Rhodes, Greece |
 | Website | [Link](https://iscc2022.unipi.gr/) |
-| Acceptance Rate | 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
+| Acceptance Rate | 2022: 43.79% (127/290) <br> 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
 
 ## PIMRC
 | Conference Name  | IEEE International Symposium on Personal, Indoor and Mobile Radio Communications |
