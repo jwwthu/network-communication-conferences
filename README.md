@@ -107,7 +107,7 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2023-05-09 - 2023-05-12 |
 | Location | San Antonio, Texas, USA |
 | Website | [Link](https://ipsn.acm.org/2023/) |
-| Acceptance Rate | 2022: 30.65% (38/124) <br> 2021: 24.53% (26/106) <br> 2020: 21.77% (27/124) <br> 2019: 27.47% (25/91) <br> 2018: 26.83% (22/82) |
+| Acceptance Rate | 2022: 30.16% (38/126) <br> 2021: 24.53% (26/106) <br> 2020: 21.77% (27/124) <br> 2019: 27.47% (25/91) <br> 2018: 26.83% (22/82) |
 
 ## IoTDI
 | Conference Name | ACM/IEEE International Conference on Internet of Things Design and Implementation |
