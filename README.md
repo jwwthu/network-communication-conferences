@@ -697,7 +697,7 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-10-24 - 2022-10-28 |
 | Location | Montreal, Canada |
 | Website | [Link](https://mswimconf.com/2022/) |
-| Acceptance Rate | 2021: 19.47% (22/113) <br> 2019: 29.13% (30/103) <br> 2018: 27.43% (31/113) |
+| Acceptance Rate | 2022: 23% (23/100) <br> 2021: 19.47% (22/113) <br> 2019: 29.13% (30/103) <br> 2018: 27.43% (31/113) |
 
 ## ICN
 | Conference Name | ACM Conference on Information-Centric Networking |
@@ -988,7 +988,7 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-07-25 - 2022-07-28 |
 | Location | Waikiki Beach, Honolulu |
 | Website | [Link](http://www.icccn.org/) |
-| Acceptance Rate | 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
+| Acceptance Rate | 2022: 30% (39/130) <br> 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
 
 ## HPSR
 | Conference Name  | International Conference on High Performance Switching and Routing |
