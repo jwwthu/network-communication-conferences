@@ -663,7 +663,7 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-09-20 - 2022-09-23 |
 | Location | Virtual |
 | Website | [Link](https://secon2022.ieee-secon.org/about/) |
-| Acceptance Rate | 2020: 27.91% (36/129) <br> 2019: 28.57% (54/189) <br> 2018: 23.22% (49/211) <br> 2017: 26.47% (45/170) |
+| Acceptance Rate | 2022: 25.81% (56/217) <br> 2020: 27.91% (36/129) <br> 2019: 28.57% (54/189) <br> 2018: 23.22% (49/211) <br> 2017: 26.47% (45/170) |
 
 ## ICCC
 | Conference Name  | IEEE/CIC International Conference on Communications in China |
