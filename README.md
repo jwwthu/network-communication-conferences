@@ -509,7 +509,7 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-11-11 - 2022-11-13 |
 | Location | Austin, TX, USA |
 | Website | [Link](https://www.ipccc.org/) |
-| Acceptance Rate | 2020: 29.3% <br> 2019: 29.2% <br> 2018: 26.32% (60/228) |
+| Acceptance Rate | 2022: 23.85% (26/109) <br> 2021: 29.08% (41/141) <br> 2020: 29.29% (29/99) <br> 2019: 28.47% (39/137) <br> 2018: 28.95% (66/228) |
 
 ## CNSM
 | Conference Name | International Conference on Network and Service Management |
