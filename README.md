@@ -899,7 +899,7 @@ Any suggestion and feedback is welcome.
 | Conference Date | 2022-07-10 - 2022-07-16 |
 | Location | UPC-BARCELONATECH, BARCELONA - SPAIN |
 | Website | [Link](https://conferences.computer.org/cloud/2022/) |
-| Acceptance Rate | 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
+| Acceptance Rate | 2022: 22.40% (43/192) <br> 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
 
 ## SCC
 | Conference Name  | IEEE International Conference on Services Computing |
