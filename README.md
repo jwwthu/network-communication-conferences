@@ -701,7 +701,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Conference Date | 2022-12-06 - 2022-12-09 |
 | Location | Rome, Italy |
 | Website | [Link](https://conferences2.sigcomm.org/co-next/2022/#!/home) |
-| Acceptance Rate | Long Paper <br> 2021: 22.50% (27/120) <br> 2020: 23.85% (31/130) <br> 2019: 15.44% (23/149) <br> 2018: 19.72% (28/142) <br> 2017: 19.30% (33/171) <br> Short Paper <br> 2021: 23.08% (9/39) <br> 2020: 28.95% (11/38) <br> 2019: 21.95% (9/41) <br> 2018: 9.30% (4/43) <br> 2017: 13.73% (7/51) |
+| Acceptance Rate | Long Paper <br> 2022: 19.20% (24/125) <br> 2021: 22.50% (27/120) <br> 2020: 23.85% (31/130) <br> 2019: 15.44% (23/149) <br> 2018: 19.72% (28/142) <br> 2017: 19.30% (33/171) <br> Short Paper <br> 2022: 15.38% (4/26) <br> 2021: 23.08% (9/39) <br> 2020: 28.95% (11/38) <br> 2019: 21.95% (9/41) <br> 2018: 9.30% (4/43) <br> 2017: 13.73% (7/51) |
 
 ## ICENAT
 | Conference Name | International Conference on Emerging Networking Architecture and Technologies |
