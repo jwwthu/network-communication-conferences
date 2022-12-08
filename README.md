@@ -647,7 +647,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Conference Date | 2022-10-31 - 2022-11-04 |
 | Location | Thessaloniki, Greece |
 | Website | [Link](http://www.cnsm-conf.org/2022/) |
-| Acceptance Rate | 2021: 19.35% (18/93) <br> 2020: 19.81% (21/106) <br> 2019: 16.54% (21/127) <br> 2018: 19.00% (19/100) <br> 2017: 17.65% (24/136) |
+| Acceptance Rate | 2022: 19.35% (18/93) <br> 2021: 19.35% (18/93) <br> 2020: 19.81% (21/106) <br> 2019: 16.54% (21/127) <br> 2018: 19.00% (19/100) <br> 2017: 17.65% (24/136) |
 
 ## SoCC
 | Conference Name | ACM Symposium on Cloud Computing |
