@@ -864,7 +864,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Conference Date | 2022-10-25 - 2022-10-27 |
 | Location | Nice, France |
 | Website | [Link](https://conferences.sigcomm.org/imc/2022/) |
-| Acceptance Rate | 2021: 27.04% (53/196) <br> 2020: 24.54% (53/216) <br> 2019: 19.80% (39/197) <br> 2018: 24.71% (43/174) <br> 2017: 22.34% (42/188) |
+| Acceptance Rate | 2022: long 26.57% (38/143); short 26.09% (18/69) <br> 2021: 27.04% (53/196) <br> 2020: 24.54% (53/216) <br> 2019: 19.80% (39/197) <br> 2018: 24.71% (43/174) <br> 2017: 22.34% (42/188) |
 
 ## ICNP
 | Conference Name | IEEE International Conference on Network Protocols |
