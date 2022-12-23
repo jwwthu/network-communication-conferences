@@ -774,7 +774,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Conference Date | 2022-10-20 - 2022-10-22 |
 | Location | Denver, Colorado |
 | Website | [Link](https://sites.google.com/view/ieee-mass-2022) |
-| Acceptance Rate | 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
+| Acceptance Rate | 2022: 29.17% (21/72, regular) <br> 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
 
 ## MeditCom
 | Conference Name  | IEEE International Mediterranean Conference on Communications and Networking |
