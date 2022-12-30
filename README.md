@@ -8,9 +8,120 @@ Any suggestion and feedback is welcome.
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送每月的会议截止日期汇总推文。
 
 # Shortcut List
-| [ACSSC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#acssc) | [AINA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#aina) | [Allerton](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#allerton) | [ANTS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ants) | [APCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apcc) | [APNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnet) | [APNOMS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnoms) | [BlackSeaCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#blackseacom) | [BMSB](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#bmsb) | [CAMAD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#camad) | [CCGrid](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ccgrid) (CCF-C) | [CCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ccnc) | [CLOUD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloud) (CCF-C) | [CloudCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloudcom) | [CLUSTER](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cluster) (CCF-B) | [CollaborateCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#collaborateCom) (CCF-C) | [CoNEXT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#conext) (CCF-B) | [CQR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cqr) | [CIoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ciot) | [CloudNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloudnet) | [CNSM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cnsm) | [COMSNETS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#comsnets) | [CSCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cscn) | [CSPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#csps) | [DCOSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dcoss) | [DEBS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#debs) | [DISC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#disc) | [DRCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#drcn) | [DSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dsn) (CCF-B) | [EDGE](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#edge) | [EUC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#euc) | [EuCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#eucnc) | [EW](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ew) | [EWSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ewsn) | [FNWF](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#fnwf) | [GLOBECOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#globecom) (CCF-C) | [HotCloudPerf](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotcloudperf) | [HotICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hoticn) | [HotNets](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotnets) (CCF-C) | [HPCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpcc) (CCF-C) | [HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) (CCF-B) | [HPSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpsr) | [ICC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icc) (CCF-C)| [ICCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iccc) | [ICCCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icccn) (CCF-C) | [ICCCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icccs) | [ICCPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iccps) | [ICDCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcn) | [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) (CCF-B) | [ICENAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icenat) | [ICIN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icin) | [ICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icn) | [ICNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnc) | [ICNP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnp) (CCF-B) | [ICOIN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icoin) | [ICPADS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpads) (CCF-C) | [ICPP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpp) (CCF-B) | [ICUFN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icufn) | [IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking) (CCF-C) | [IFIP Performance](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-performance) | [IMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#imc) (CCF-B) | [INFOCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#infocom) (CCF-A) | [IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iot) | [IoTDI](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iotdi) | [IPCCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipccc) (CCF-C) | [IPDPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipdps) (CCF-B) | [IPSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipsn) (CCF-B) | [ISCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iscc) | [ISNCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isncc) | [ISPACS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ispacs) | [ISPLC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isplc) | [ITC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#itc) | [IWCMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwcmc) | [IWQoS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwqos) (CCF-B) | [LANMAN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lanman) | [LATINCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#latincom) | [LCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lcn) (CCF-C) | [MASCOTS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mascots) (CCF-C) | [MASS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mass) (CCF-C) | [MeditCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#meditcom) | [MILCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#milcom) | [MobiCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobicom) (CCF-A) | [MobiHoc](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobihoc) (CCF-B) | [Mobiquitous](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobiquitous) | [MobiSys](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobisys) (CCF-B) | [MobiWac](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobiwac) | [MSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#msn) | [MSWIM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mswim) (CCF-C) | [NaNA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nana) | [NetSoft](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#netsoft) | [NFV-SDN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nfv-sdn) | [NOMS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#noms) (CCF-C) | [NPC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#npc) (CCF-C) | [NSDI](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nsdi) (CCF-A) | [PAM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pam) (CCF-C) | [PDCAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pdcat) | [PDP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pdp) | [PEMWN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pemwn) | [PERCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#percom) (CCF-B) | [PIMRC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pimrc) | [PODC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#podc) (CCF-B) | [RTAS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#rtas) (CCF-B) | [RTNS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#rtns) | [RTSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#rtss) (CCF-A) | [SAGC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sagc) | [SCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#scc) (CCF-C) | [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec) | [SECON](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#secon) (CCF-B) | [SenSys](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sensys) (CCF-B) | [SIGCOMM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigcomm) (CCF-A) | [Sigmetrics](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigmetrics) (CCF-B) | [SmartGridComm](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#smartgridcomm) | [SMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#smc) (CCF-C) | [SoCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#socc) (CCF-B) | [SOSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sosr) | [SPAWC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#spawc) | [SRDS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#srds) (CCF-B) | [TMA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#tma) | [TrustCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#trustcom) (CCF-C) | [UCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ucc) | [UEMCON](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#uemcon) | [UIC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#uic) | [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A) | [VTC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#vtc) | [WASA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wasa) (CCF-C) | [WCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wcnc) | [WCSP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wcsp) | [WF-IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wf-iot) | [WiMob](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wimob) | [WiOpt](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wiopt) | [WONS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wons) | [WoWMoM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wowmom) |
+| [ACSSC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#acssc) | [AINA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#aina) | [Allerton](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#allerton) | [ANTS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ants) | [APCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apcc) | [APNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnet) | [APNOMS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#apnoms) | [BlackSeaCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#blackseacom) | [BMSB](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#bmsb) | [CAMAD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#camad) | [CCGrid](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ccgrid) (CCF-C) | [CCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ccnc) | [CLOUD](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloud) (CCF-C) | [CloudCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloudcom) | [CLUSTER](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cluster) (CCF-B) | [CollaborateCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#collaborateCom) (CCF-C) | [CoNEXT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#conext) (CCF-B) | [CQR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cqr) | [CIoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ciot) | [CloudNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cloudnet) | [CNSM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cnsm) | [COMSNETS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#comsnets) | [CSCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#cscn) | [CSPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#csps) | [DCOSS-IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dcoss-iot) | [DEBS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#debs) | [DISC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#disc) | [DisCoTec](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#discotec) | [DRCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#drcn) | [DSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#dsn) (CCF-B) | [EDGE](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#edge) | [EUC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#euc) | [EuCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#eucnc) | [Euro-Par](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#euro-par) | [EW](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ew) | [EWSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ewsn) | [FNWF](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#fnwf) | [GLOBECOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#globecom) (CCF-C) | [HotCloudPerf](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotcloudperf) | [HotICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hoticn) | [HotNets](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hotnets) (CCF-C) | [HPCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpcc) (CCF-C) | [HPDC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpdc) (CCF-B) | [HPSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#hpsr) | [ICC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icc) (CCF-C)| [ICCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iccc) | [ICCCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icccn) (CCF-C) | [ICCCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icccs) | [ICCPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iccps) | [ICDCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcn) | [ICDCS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icdcs) (CCF-B) | [ICENAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icenat) | [ICFEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icfec) | [ICIN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icin) | [ICN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icn) | [ICNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnc) | [ICNP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icnp) (CCF-B) | [ICOIN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icoin) | [ICPADS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpads) (CCF-C) | [ICPP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icpp) (CCF-B) | [ICUFN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#icufn) | [IFIP Networking](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-networking) (CCF-C) | [IFIP Performance](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ifip-performance) | [IMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#imc) (CCF-B) | [INFOCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#infocom) (CCF-A) | [IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iot) | [IoTDI](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iotdi) | [IPCCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipccc) (CCF-C) | [IPDPS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipdps) (CCF-B) | [IPSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ipsn) (CCF-B) | [ISCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iscc) | [ISNCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isncc) | [ISPACS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ispacs) | [ISPLC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#isplc) | [ITC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#itc) | [IWCMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwcmc) | [IWQoS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#iwqos) (CCF-B) | [LANMAN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lanman) | [LATINCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#latincom) | [LCN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#lcn) (CCF-C) | [MASCOTS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mascots) (CCF-C) | [MASS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mass) (CCF-C) | [MeditCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#meditcom) | [MeditComNet](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#meditcomnet) | [MILCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#milcom) | [MobiCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobicom) (CCF-A) | [MobiHoc](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobihoc) (CCF-B) | [Mobiquitous](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobiquitous) | [MobiSys](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobisys) (CCF-B) | [MobiWac](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mobiwac) | [MSN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#msn) | [MSWIM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#mswim) (CCF-C) | [NaNA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nana) | [NetSoft](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#netsoft) | [NFV-SDN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nfv-sdn) | [NOMS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#noms) (CCF-C) | [NPC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#npc) (CCF-C) | [NSDI](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#nsdi) (CCF-A) | [PAM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pam) (CCF-C) | [PDCAT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pdcat) | [PDP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pdp) | [PEMWN](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pemwn) | [PERCOM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#percom) (CCF-B) | [PIMRC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#pimrc) | [PODC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#podc) (CCF-B) | [RTAS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#rtas) (CCF-B) | [RTNS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#rtns) | [RTSS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#rtss) (CCF-A) | [SAGC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sagc) | [SCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#scc) (CCF-C) | [SEC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sec) | [SECON](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#secon) (CCF-B) | [SenSys](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sensys) (CCF-B) | [SIGCOMM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigcomm) (CCF-A) | [Sigmetrics](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sigmetrics) (CCF-B) | [SmartGridComm](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#smartgridcomm) | [SMC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#smc) (CCF-C) | [SoCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#socc) (CCF-B) | [SOSR](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#sosr) | [SPAWC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#spawc) | [SRDS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#srds) (CCF-B) | [TMA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#tma) | [TrustCom](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#trustcom) (CCF-C) | [UCC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#ucc) | [UEMCON](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#uemcon) | [UIC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#uic) | [USENIX ATC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#usenix-atc) (CCF-A) | [VNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#vnc) | [VTC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#vtc) | [WASA](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wasa) (CCF-C) | [WCNC](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wcnc) | [WCSP](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wcsp) | [WF-IoT](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wf-iot) | [WiMob](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wimob) | [WiOpt](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wiopt) | [WONS](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wons) | [WoWMoM](https://github.com/jwwthu/network-communication-conferences/blob/main/README.md#wowmom) |
 
-# January 2023
+Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the new name for DCOSS.
+
+# Feb. 2023
+## SIGMETRICS
+| Conference Name | ACM SIGMETRICS |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-01 |
+| Conference Date | 2023-06-19 - 2023-06-23 |
+| Location | Orlando, Florida, USA |
+| Website | [Link](https://www.sigmetrics.org/sigmetrics2023/index.html) |
+| Acceptance Rate | 2022: 19.47% (59/303) <br> 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
+
+## DisCoTec
+| Conference Name | International Federated Conference on Distributed Computing Techniques |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-03 |
+| Conference Date | 2023-06-19 - 2023-06-23 |
+| Location | Campus de Campolide, Lisboa |
+| Website | [Link](http://www.discotec.org/2023/) |
+| Acceptance Rate | 2022: 50% (11/22) <br> 2021: 46.67% (7/15) <br> 2020: 40% (12/30) |
+
+## DCOSS-IoT
+| Conference Name | International Conference on Distributed Computing in Smart Systems and the Internet of Things |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-06 |
+| Conference Date | 2023-06-19 - 2023-06-21 |
+| Location | Coral Bay, Pafos, Cyprus |
+| Website | [Link](https://dcoss.org/) |
+| Acceptance Rate | 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
+
+## IWQoS
+| Conference Name | IEEE/ACM International Symposium on Quality of Service |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-07 |
+| Conference Date | 2023-06-19 - 2023-06-21 |
+| Location | Orlando, FL, USA |
+| Website | [Link](https://iwqos2023.ieee-iwqos.org/) |
+| Acceptance Rate | 2020: 29% <br> 2018: 20.80% (26/125) + 25 short  |
+
+## CLOUD
+| Conference Name | IEEE International Conference on Cloud Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-12 |
+| Conference Date | 2023-07-02 - 2023-07-08 |
+| Location | CHICAGO, ILLINOIS USA |
+| Website | [Link](https://conferences.computer.org/cloud/2023/) |
+| Acceptance Rate | 2022: 22.40% (43/192) <br> 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
+
+## EDGE
+| Conference Name | IEEE International Conference on Edge Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-12 |
+| Conference Date | 2023-07-02 - 2023-07-08 |
+| Location | CHICAGO, ILLINOIS, USA |
+| Website | [Link](https://conferences.computer.org/edge/2023/) |
+| Acceptance Rate | 2022: 28.57% (18/63)<br> 2020: 29.50% (18/61) <br> 2018: 18.00% (9/50) |
+
+## SIGCOMM
+| Conference Name | ACM SIGCOMM Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-15 |
+| Conference Date | 2023-09-10 - 2023-09-14 |
+| Location | New York City, US |
+| Website | [Link](https://conferences.sigcomm.org/sigcomm/2023/) |
+| Acceptance Rate | 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
+
+## ICCCN
+| Conference Name | International Conference on Computer Communications and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-21 |
+| Conference Date | 2023-07-24 - 2023-07-27 |
+| Location | Waikiki Beach, Honolulu, HI, USA |
+| Website | [Link](http://www.icccn.org/) |
+| Acceptance Rate | 2022: 30% (39/130) <br> 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
+
+## DEBS
+| Conference Name | ACM International Conference on Distributed and Event-based Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-24 |
+| Conference Date | 2023-06-27 - 2023-06-30 |
+| Location | Neuchatel, Switzerland |
+| Website | [Link](https://2023.debs.org/) |
+| Acceptance Rate | 2022: 52.63% (10/19) <br> 2021: 26.92% (7/26) <br> 2020: 25.58% (11/43) <br> 2019: 27.66% (13/47) <br> 2018: 38.71% (12/31) <br> 2017: 36.67% (22/60) |
+
+## Euro-Par
+| Conference Name | International European Conference on Parallel and Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-24 |
+| Conference Date | 2023-08-28 - 2023-09-01 |
+| Location | Limassol, Cyprus |
+| Website | [Link](https://2023.euro-par.org/) |
+| Acceptance Rate | 2022: 24.51% (25/102) <br> 2021: 27.94% (38/136) <br> 2020: 24.68% (39/158) |
+
+## BlackSeaCom
+| Conference Name | IEEE International Black Sea Conference on Communications and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2023-02-28 |
+| Conference Date | 2023-07-05 - 2023-07-07 |
+| Location | Istanbul, Turkey |
+| Website | [Link](https://blackseacom2023.ieee-blackseacom.org/) |
+| Acceptance Rate | 2020: 44% <br> 2019: 48.89% (44/90) |
+
+# Jan. 2023
+## ICFEC
+| Conference Name | IEEE International Conference on Fog and Edge Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-01-07 |
+| Conference Date | 2023-05-01 - 2023-05-04 |
+| Location | Bangalore, India |
+| Website | [Link](http://icfec2023.ontariotechu.ca/) |
+| Acceptance Rate | 2022: 19.15% (9/47) <br> 2021: 17.07% (7/41) |
+
 ## NetSoft
 | Conference Name | IEEE International Conference on Network Softwarization |
 | :------------- | :------------- |
@@ -65,6 +176,15 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Website | [Link](https://www.usenix.org/conference/atc23) |
 | Acceptance Rate | 2022: 16.5% (64/394) <br> 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
 
+## VNC
+| Conference Name | IEEE Vehicular Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2023-01-15 |
+| Conference Date | 2023-04-26 - 2023-04-28 |
+| Location | Istanbul, Türkiye |
+| Website | [Link](https://ieee-vnc.org/2023/) |
+| Acceptance Rate | 2021: ~40% |
+
 ## ICDCS
 | Conference Name | International Conference on Distributed Computing Systems |
 | :------------- | :------------- |
@@ -110,6 +230,15 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Website | [Link](https://www.hpdc.org/2023/) |
 | Acceptance Rate | 2022: 19.44% (21/108) <br> 2021: 20.65% (19/92) <br> 2020: 30.99% (22/71) <br> 2019: 20.75% (22/106) <br> 2018: 19.82% (22/111) <br> 2017: 19.00% (19/100) |
 
+## MeditComNet
+| Conference Name | Mediterranean Communication and Computer Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2023-01-27 |
+| Conference Date | 2023-06-13 - 2023-06-15 |
+| Location | PONZA ISLAND, ITALY |
+| Website | [Link](https://www.medcomnet.org/) |
+| Acceptance Rate | NA |
+
 ## IFIP Networking
 | Conference Name | The International Federation for Information Processing (IFIP) Networking Conference |
 | :------------- | :------------- |
@@ -148,12 +277,12 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Acceptance Rate | 2022: 18.7% (49/262) <br> 2021: 16.27% (48/295) <br> 2020: 16.49% (48/291) <br> 2019: 21.43% (54/252) <br> 2018: 27.19% (62/228) |
 
 ## CCGrid
-| Conference Name | IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing |
+| Conference Name | IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing |
 | :------------- | :------------- |
-| Submission Deadline | 2022-12-09 |
+| Submission Deadline | 2022-12-12 |
 | Conference Date | 2023-05-01 - 2023-05-04 |
 | Location | Bangalore, India |
-| Website | [Link](http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023/index.html) |
+| Website | [Link](https://ccgrid2023.iisc.ac.in/) |
 | Acceptance Rate | 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
 
 ## MobiSys
@@ -939,15 +1068,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Acceptance Rate | 2021: ~63.33% (~57/90) <br> 2019: 57.56% (99/172) |
 
 # Apr. 2022
-## EDGE
-| Conference Name  | IEEE International Conference on Edge Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2022-04-01 |
-| Conference Date | 2022-07-10 - 2022-07-16 |
-| Location | Barcelona, Spain/Hybrid |
-| Website | [Link](https://conferences.computer.org/edge/2022/) |
-| Acceptance Rate | 2020: 29.50% (18/61) <br> 2018: 18.00% (9/50) |
-
 ## LCN
 | Conference Name  | IEEE Conference on Local Computer Networks |
 | :------------- | :------------- |
@@ -1021,15 +1141,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Acceptance Rate | Not available |
 
 # Mar. 2022
-## CLOUD
-| Conference Name  | IEEE International Conference on Cloud Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2022-03-01 |
-| Conference Date | 2022-07-10 - 2022-07-16 |
-| Location | UPC-BARCELONATECH, BARCELONA - SPAIN |
-| Website | [Link](https://conferences.computer.org/cloud/2022/) |
-| Acceptance Rate | 2022: 22.40% (43/192) <br> 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
-
 ## SCC
 | Conference Name  | IEEE International Conference on Services Computing |
 | :------------- | :------------- |
@@ -1066,15 +1177,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Website | [Link](https://www.sigmobile.org/mobihoc/2022/) |
 | Acceptance Rate | 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
 
-## DEBS
-| Conference Name  | ACM International Conference on Distributed and Event-based Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2022-03-11 |
-| Conference Date | 2022-06-27 - 2022-07-01 |
-| Location | Copenhagen, Denmark |
-| Website | [Link](https://2022.debs.org/) |
-| Acceptance Rate | 2021: 26.92% (7/26) <br> 2020: 25.58% (11/43) <br> 2019: 27.66% (13/47) <br> 2018: 38.71% (12/31) <br> 2017: 36.67% (22/60) |
-
 ## APNet
 | Conference Name  | Asia-Pacific Workshop on Networking |
 | :------------- | :------------- |
@@ -1083,15 +1185,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Location | Fuzhou, China |
 | Website | [Link](https://conferences.sigcomm.org/events/apnet2022/index.html) |
 | Acceptance Rate | Not available |
-
-## BlackSeaCom
-| Conference Name  | IEEE International Black Sea Conference on Communications and Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2022-03-14 |
-| Conference Date | 2022-06-06 - 2022-06-09 |
-| Location | Sofia, Bulgaria |
-| Website | [Link](https://blackseacom2022.ieee-blackseacom.org/) |
-| Acceptance Rate | 2020: 44% <br> 2019: 48.89% (44/90) |
 
 ## ISCC
 | Conference Name  | IEEE Symposium on Computers and Communications |
@@ -1139,15 +1232,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Website | [Link](https://conferences.sigcomm.org/sigcomm/2022/) |
 | Acceptance Rate | 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
 
-## SIGMETRICS
-| Conference Name  | ACM SIGMETRICS |
-| :------------- | :------------- |
-| Submission Deadline | 2022-02-02 |
-| Conference Date | 2022-06-06 - 2022-6-10 |
-| Location | Mumbai, India |
-| Website | [Link](https://www.sigmetrics.org/sigmetrics2022/) |
-| Acceptance Rate | 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
-
 ## IFIP Performance
 | Conference Name  | International Symposium on Computer Performance, Modeling, Measurements and Evaluation |
 | :------------- | :------------- |
@@ -1156,24 +1240,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Location | Mumbai, India |
 | Website | [Link](https://www.sigmetrics.org/sigmetrics2022/) (together with ACM SIGMETRICS 2022) |
 | Acceptance Rate | 2021: 26.83% (22/82) <br> 2020: 23.53% (24/102) |
-
-## IWQoS
-| Conference Name  | IEEE/ACM International Symposium on Quality of Service |
-| :------------- | :------------- |
-| Submission Deadline | 2022-02-07 |
-| Conference Date | 2022-6-10 - 2022-06-12 |
-| Location | Online |
-| Website | [Link](https://iwqos2022.ieee-iwqos.org/) |
-| Acceptance Rate | 2020: 29% <br> 2018: 20.80% (26/125) + 25 short |
-
-## ICCCN
-| Conference Name  | International Conference on Computer Communications and Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2022-02-20 |
-| Conference Date | 2022-07-25 - 2022-07-28 |
-| Location | Waikiki Beach, Honolulu |
-| Website | [Link](http://www.icccn.org/) |
-| Acceptance Rate | 2022: 30% (39/130) <br> 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
 
 ## CQR
 | Conference Name  | IEEE International Workshop Technical Committee on Communications Quality and Reliability |
@@ -1193,15 +1259,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 | Location | Shenzhen, China |
 | Website | [Link](https://www.isncc-conf.org/) |
 | Acceptance Rate | 2021: 44% <br> 2020: 45% <br> 2019: 37% <br> 2018: 38% <br> 2017: 36% |
-
-## DCOSS
-| Conference Name  | International Conference on Distributed Computing in Sensor Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2022-01-12 |
-| Conference Date | 2022-05-30 - 2022-06-01 |
-| Location | Marina Del Rey, LA, California |
-| Website | [Link](https://dcoss.org/) |
-| Acceptance Rate | 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50)|
 
 ## SEC
 | Conference Name  | ACM/IEEE Symposium on Edge Computing |
