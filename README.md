@@ -1223,15 +1223,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
 
 # Feb. 2022
-## SIGCOMM
-| Conference Name  | ACM SIGCOMM Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2022-02-02 |
-| Conference Date | 2022-08-22 - 2021-08-26 |
-| Location | Amsterdam |
-| Website | [Link](https://conferences.sigcomm.org/sigcomm/2022/) |
-| Acceptance Rate | 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
-
 ## IFIP Performance
 | Conference Name  | International Symposium on Computer Performance, Modeling, Measurements and Evaluation |
 | :------------- | :------------- |
