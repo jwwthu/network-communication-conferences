@@ -1102,7 +1102,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-12-04 - 2022-12-08 |
 | Location | Rio de Janeiro, Brazil |
 | Website | [Link](https://globecom2022.ieee-globecom.org/) |
-| Acceptance Rate | 2021: 29.62% (908/2292) <br> 2020: 38.45% (914/2377) <br> 2019: 36.97% (1094/2959) <br> 2018: 38.99% (999/2562) <br> 2017: 39.01% (1026/2630) |
+| Acceptance Rate | 2022: 39.6% <br> 2021: 29.62% (908/2292) <br> 2020: 38.45% (914/2377) <br> 2019: 36.97% (1094/2959) <br> 2018: 38.99% (999/2562) <br> 2017: 39.01% (1026/2630) |
 
 ## NaNA
 | Conference Name  | International Conference on Networking and Network Applications |
