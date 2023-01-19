@@ -966,7 +966,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-10-03 - 2022-10-05 |
 | Location | Linz, Austria |
 | Website | [Link](http://ewsn2022.jku.at/) |
-| Acceptance Rate | 2021: 31.82% (14/44) <br> 2020: 31.11% (14/45) <br> 2017: 36.73% (18/49) |
+| Acceptance Rate | 2022: 30.43% (14/46) <br> 2021: 31.82% (14/44) <br> 2020: 31.11% (14/45) <br> 2017: 36.73% (18/49) |
 
 ## FNWF
 | Conference Name  | IEEE Future Networks World Forum (from IEEE 5G World Forum) |
