@@ -740,7 +740,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | November, 2022 |
 | Location | Boston, United States |
 | Website | [Link](https://sensys.acm.org/2022/) |
-| Acceptance Rate | 2021: 18.0% (25/139) <br> 2020: 20.1% (43/214) <br> 2019: 19.4% (28/144) <br> 2018: 15.6% (23/147) <br> 2017: 17.1% (26/152) |
+| Acceptance Rate | 2022: 24.88% (52/209) <br> 2021: 18.0% (25/139) <br> 2020: 20.1% (43/214) <br> 2019: 19.4% (28/144) <br> 2018: 15.6% (23/147) <br> 2017: 17.1% (26/152) |
 
 ## SmartGridComm
 | Conference Name | IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids |
