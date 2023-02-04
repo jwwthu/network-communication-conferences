@@ -1120,7 +1120,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-10-09 - 2022-10-12 |
 | Location | Clarion Congress Hotel Prauge, Czech Republic |
 | Website | [Link](https://ieeesmc2022.org/) |
-| Acceptance Rate | 2020: 61.74% (689/1116) <br> 2019: 60.61% (734/1211) <br> 2018: 57.40% (741/1291) <br> 2017: 50.00% (650/1300) |
+| Acceptance Rate | 2022: 55.44% (545/983) <br> 2020: 61.74% (689/1116) <br> 2019: 60.61% (734/1211) <br> 2018: 57.40% (741/1291) <br> 2017: 50.00% (650/1300) |
 
 ## WiOpt
 | Conference Name  | International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks |
@@ -1129,7 +1129,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-09-19 - 2022-09-23 |
 | Location | Turin, Italy |
 | Website | [Link](http://www.wi-opt.org/) |
-| Acceptance Rate | 2020: 50.82% (31/61) <br> 2019: 41.28% (36/87) <br> 2018: 33.04% (38/115) <br> 2017: 32.59% (44/135) |
+| Acceptance Rate | 2021: 47.69% (31/65) <br> 2020: 50.82% (31/61) <br> 2019: 41.28% (36/87) <br> 2018: 33.04% (38/115) <br> 2017: 32.59% (44/135) |
 
 ## ACSSC
 | Conference Name  | Annual Asilomar Conference on Signals, Systems, and Computers |
@@ -1220,7 +1220,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-07-11 - 2022-07-12 |
 | Location | Chicago, USA |
 | Website | [Link](https://lanman2022.ieee-lanman.org/) |
-| Acceptance Rate | 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
+| Acceptance Rate | 2022: 50% (6/12) <br> 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
 
 # Feb. 2022
 ## IFIP Performance
