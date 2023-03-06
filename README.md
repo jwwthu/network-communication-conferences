@@ -12,6 +12,16 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 
 Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the new name for DCOSS.
 
+# Aug. 2023
+## ACP
+| Conference Name | Asia Communications and Photonics Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2023-08-01 |
+| Conference Date | 2023-11-04 - 2023-11-07 |
+| Location | Wuhan, China |
+| Website | [Link](http://www.acpconf.com/) |
+| Acceptance Rate | NA |
+
 # Apr. 2023
 ## EWSN
 | Conference Name | International Conference on Embedded Wireless Systems and Networks |
@@ -83,15 +93,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-08-18 - 2023-08-21 |
 | Location | Qingdao City, China |
 | Website | [Link](http://www.nana-conference.org/) |
-| Acceptance Rate | NA |
-
-## ACP
-| Conference Name | Asia Communications and Photonics Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-04-20 |
-| Conference Date | 2023-11-04 - 2023-11-07 |
-| Location | Wuhan, China |
-| Website | [Link](http://www.acpconf.com/) |
 | Acceptance Rate | NA |
 
 ## ICPP
