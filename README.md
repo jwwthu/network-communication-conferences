@@ -822,7 +822,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-12-06 - 2022-12-09 |
 | Location | Portland, Oregon, USA |
 | Website | [Link](https://ucc-conference.org/) |
-| Acceptance Rate | 2021: 33.87% (21/62) <br> 2019: 29.17% (28/96) <br> 2018: 20.5% <br> 2017: 26.98% (17/63) |
+| Acceptance Rate | 2022: 26.53% (13/49) <br> 2021: 33.87% (21/62) <br> 2019: 29.17% (28/96) <br> 2018: 20.5% <br> 2017: 26.98% (17/63) |
 
 ## HotICN
 | Conference Name | International Conference on Hot Information-Centric Networking |
