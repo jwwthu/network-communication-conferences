@@ -895,7 +895,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-10-28 - 2022-10-30 |
 | Location | Wuhan, China |
 | Website | [Link](http://www.ieee-hust-ncc.org/2022/TrustCom/) |
-| Acceptance Rate | 2021: 28% <br> 2020: 27.96% (130/465) |
+| Acceptance Rate | 2022: 25% <br> 2021: 28% <br> 2020: 27.96% (130/465) |
 
 ## Allerton
 | Conference Name | Allerton Conference on Communication, Control, and Computing |
