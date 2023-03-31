@@ -302,7 +302,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-19 - 2023-06-21 |
 | Location | Orlando, FL, USA |
 | Website | [Link](https://iwqos2023.ieee-iwqos.org/) |
-| Acceptance Rate | 2020: 29% <br> 2018: 20.80% (26/125) + 25 short  |
+| Acceptance Rate | 2022： 23.48% (62/264) <br> 2020: 29% <br> 2018: 20.80% (26/125) + 25 short  |
 
 ## CLOUD
 | Conference Name | IEEE International Conference on Cloud Computing |
