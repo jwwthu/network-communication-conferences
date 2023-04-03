@@ -104,6 +104,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://icpp23.sci.utah.edu/) |
 | Acceptance Rate | 2022: 28.85% (88/305) <br> 2021: 26.75% (88/329) <br> 2020: 29.00% (78/269) <br> 2019: 26.17% (106/405) <br> 2018: 29.07% (91/313) |
 
+## SRDS
+| Conference Name  | Symposium on Reliable Distributed Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2023-04-22 |
+| Conference Date | 2023-09-25 - 2023-09-29 |
+| Location | Marrakech, Morocco |
+| Website | [Link](https://srds-conference.org/) |
+| Acceptance Rate | 2022: 23.08% (24/104) <br> 2021: 23.58% (25/106) <br> 2020: 24.43% (32/131) <br> 2019: 26.50% (31/117) <br> 2018: 33.75% (27/80) <br> 2017: 33.33% (24/72) |
+
 ## APCC
 | Conference Name | Asia-Pacific Conference on Communications |
 | :------------- | :------------- |
@@ -1251,15 +1260,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | Not available |
 
 # Apr. 2022
-## SRDS
-| Conference Name  | Symposium on Reliable Distributed Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2022-04-11 |
-| Conference Date | 2022-09-19 - 2022-09-22 |
-| Location | Vienna, Austria |
-| Website | [Link](https://srds-conference.org/) |
-| Acceptance Rate | 2021: 23.58% (25/106) <br> 2020: 24.43% (32/131) <br> 2019: 26.50% (31/117) <br> 2018: 33.75% (27/80) <br> 2017: 33.33% (24/72) |
-
 ## ACSSC
 | Conference Name  | Annual Asilomar Conference on Signals, Systems, and Computers |
 | :------------- | :------------- |
