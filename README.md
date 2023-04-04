@@ -44,7 +44,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 ## NSDI
 | Conference Name | USENIX Symposium on Networked Systems Design and Implementation |
 | :------------- | :------------- |
-| Submission Deadline | 2022-05-04 |
+| Submission Deadline | 2023-05-04 |
 | Conference Date | 2024-04-16 - 2024-04-18 |
 | Location | SANTA CLARA, CA, USA |
 | Website | [Link](https://www.usenix.org/conference/nsdi24) |
@@ -748,7 +748,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-03-20 - 2023-03-22 |
 | Location | Lisbon, Portugal |
 | Website | [Link](https://ciot.dnac.org/) |
-| Acceptance Rate | 2020: 45.00% (9/20) |
+| Acceptance Rate | 2022: 55.9% <br> 2020: 45.00% (9/20) |
 
 # October 2022
 ## CSCN
