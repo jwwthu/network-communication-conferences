@@ -1004,7 +1004,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-10-28 - 2022-10-30 |
 | Location | Wuhan, China |
 | Website | [Link](http://ieee-hust-ncc.org/2022/EUC/) |
-| Acceptance Rate | 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
+| Acceptance Rate | 2022: 30% <br> 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
 
 ## ICDCN
 | Conference Name | International Conference on Distributed Computing and Networking |
