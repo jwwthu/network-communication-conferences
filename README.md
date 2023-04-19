@@ -923,7 +923,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-03-13 - 2023-03-17 |
 | Location | Atlanta, USA |
 | Website | [Link](https://www.percom.org/) |
-| Acceptance Rate | 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
+| Acceptance Rate | 2023: 15.09 (24/159) <br> 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
 
 # August 2022
 ## INFOCOM
