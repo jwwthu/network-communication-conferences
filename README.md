@@ -50,7 +50,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-04-16 - 2024-04-18 |
 | Location | SANTA CLARA, CA, USA |
 | Website | [Link](https://www.usenix.org/conference/nsdi24) |
-| Acceptance Rate | 2022: 19.4% <br> 2021: 15.99% (59/369) <br> 2020: 18.3% (65/354) <br> 2019: 14.8% (49/332) <br> 2018: 15.7% (40/255) |
+| Acceptance Rate | 2023: 17.14% (96/560) <br> 2022: 19.4% <br> 2021: 15.99% (59/369) <br> 2020: 18.3% (65/354) <br> 2019: 14.8% (49/332) <br> 2018: 15.7% (40/255) |
 
 ## DISC
 | Conference Name | International Symposium on Distributed Computing |
@@ -1105,7 +1105,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-12-18 - 2022-12-21 |
 | Location | Gandhinagar, Gujarat, India |
 | Website | [Link](https://ants2022.ieee-ants.org/) |
-| Acceptance Rate | 43.10% (178/413) <br> 2018: 38.94% (139/357) |
+| Acceptance Rate | 2021: 39.26% (64/163) <br> 2019: 43.10% (178/413) <br> 2018: 38.94% (139/357) |
 
 # June 2022
 ## SenSys
