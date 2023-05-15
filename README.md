@@ -914,7 +914,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-05-09 - 2023-05-12 |
 | Location | San Antonio, Texas, USA |
 | Website | [Link](https://iccps.acm.org/2023/) |
-| Acceptance Rate | 2022: 28.41% (25/88) <br> 2021: 25.97% (20/77) <br> 2020: 23.76% (24/101) <br> 2019: 22.76% (28/123) <br> 2018: 31.91% (30/94) <br> 2017: 31.33% (26/83) |
+| Acceptance Rate | 2023: 25.61% (21/82) <br> 2022: 28.41% (25/88) <br> 2021: 25.97% (20/77) <br> 2020: 23.76% (24/101) <br> 2019: 22.76% (28/123) <br> 2018: 31.91% (30/94) <br> 2017: 31.33% (26/83) |
 
 ## RTAS
 | Conference Name | Real-Time and Embedded Technology and Applications Symposium |
