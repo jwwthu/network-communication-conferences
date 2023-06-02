@@ -676,7 +676,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-04-26 - 2023-04-28 |
 | Location | Istanbul, Türkiye |
 | Website | [Link](https://ieee-vnc.org/2023/) |
-| Acceptance Rate | 2021: ~40% |
+| Acceptance Rate | 2023:~44% <br> 2021: ~40% |
 
 ## ICDCS
 | Conference Name | International Conference on Distributed Computing Systems |
