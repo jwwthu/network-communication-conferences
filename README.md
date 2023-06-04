@@ -74,7 +74,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Name | International Conference on Computing, Networking and Communication |
 | :------------- | :------------- |
 | Submission Deadline | 2023-07-05 |
-| Conference Date | 2024-02-19 - 2023-02-22 |
+| Conference Date | 2024-02-19 - 2024-02-22 |
 | Location | Big Island, Hawaii |
 | Website | [Link](http://www.conf-icnc.org/2024/) |
 | Acceptance Rate | N/A |
