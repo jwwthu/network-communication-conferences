@@ -65,7 +65,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Name | IEEE Consumer Communications and Networking Conference |
 | :------------- | :------------- |
 | Submission Deadline | 2023-07-03 |
-| Conference Date | 2024-01-06 - 2023-01-09 |
+| Conference Date | 2024-01-06 - 2024-01-09 |
 | Location | Las Vegas, NV, USA |
 | Website | [Link](https://ccnc2024.ieee-ccnc.org/) |
 | Acceptance Rate | 2017: 34.8% <br> 2016: 32% |
