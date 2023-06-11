@@ -1186,7 +1186,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-07 - 2023-06-08 |
 | Location | TU Dortmund, Germany |
 | Website | [Link](https://rtns2023.cs.tu-dortmund.de/) |
-| Acceptance Rate | 2022: 48.84% (21/43) <br> 2019: 54.05% (20/37) |
+| Acceptance Rate | 2023: 61.76% (21/34) <br> 2022: 48.84% (21/43) <br> 2019: 54.05% (20/37) |
 
 ## PERCOM
 | Conference Name | IEEE International Conference on Pervasive Computing and Communications |
