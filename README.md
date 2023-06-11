@@ -603,7 +603,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-07 |
 | Location | Vancouver, Canada |
 | Website | [Link](https://nossdav.org/2023/) |
-| Acceptance Rate | 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
+| Acceptance Rate | 2023: 28.57% (10/35) <br> 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
 
 ## COINS
 | Conference Name | IEEE International Conference on Omni-layer Intelligent Systems |
