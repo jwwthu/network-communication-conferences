@@ -712,7 +712,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-19 - 2023-06-23 |
 | Location | Orlando, Florida, USA |
 | Website | [Link](https://www.sigmetrics.org/sigmetrics2023/index.html) |
-| Acceptance Rate | 2022: 19.47% (59/303) <br> 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
+| Acceptance Rate | 2023: 15.93% (54/339) <br> 2022: 19.47% (59/303) <br> 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
 
 ## DisCoTec
 | Conference Name | International Federated Conference on Distributed Computing Techniques |
