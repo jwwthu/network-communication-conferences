@@ -975,7 +975,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-18 - 2023-06-22 |
 | Location | Helsinki, Finland |
 | Website | [Link](https://www.sigmobile.org/mobisys/2023/) |
-| Acceptance Rate | 2022: 21.59% (38/176) <br> 2021: 21.69% (36/166) <br> 2020: 19.43% (34/175) |
+| Acceptance Rate | 2023: 20.71% (41/198) <br> 2022: 21.59% (38/176) <br> 2021: 21.69% (36/166) <br> 2020: 19.43% (34/175) |
 
 ## VTC
 | Conference Name | IEEE Vehicular Technology Conference |
