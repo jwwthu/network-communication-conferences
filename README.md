@@ -1168,7 +1168,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-05-08 - 2023-05-12 |
 | Location | Miami, FL, USA |
 | Website | [Link](https://noms2023.ieee-noms.org/) |
-| Acceptance Rate | 2020: 29.63% (72/243) <br> 2018: 29.63% (56/189) |
+| Acceptance Rate | 2023: 22.34% (44/197) <br> 2020: 29.63% (72/243) <br> 2018: 29.63% (56/189) |
 
 ## WCNC
 | Conference Name | IEEE Wireless Communications and Networking Conference |
