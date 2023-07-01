@@ -1161,15 +1161,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](http://www.ieee-hpcc.org/2022/) |
 | Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
 
-## UEMCON
-| Conference Name | IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2022-09-11 |
-| Conference Date | 2022-10-26 - 2022-10-29 |
-| Location | Virtual |
-| Website | [Link](https://ieee-uemcon.org/) |
-| Acceptance Rate | N/A |
-
 ## NOMS
 | Conference Name | IEEE/IFIP Network Operations and Management Symposium |
 | :------------- | :------------- |
@@ -1224,15 +1215,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Guangzhou, China |
 | Website | [Link](http://hoticn.com/) |
 | Acceptance Rate | N/A |
-
-## ICOIN
-| Conference Name | International Conference on Information Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2022-08-15 |
-| Conference Date | 2023-01-11 - 2023-01-14 |
-| Location | Bangkok, Thailand |
-| Website | [Link](http://icoin.org/main.php) |
-| Acceptance Rate | 2022: 60.24% (100/166, 61 oral + 39 poster) <br> 2019: 69.01% (98/142, 52 oral + 46 poster) |
 
 # July 2022
 ## EUC
