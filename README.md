@@ -22,7 +22,52 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-11-04 - 2023-11-07 |
 | Location | Wuhan, China |
 | Website | [Link](http://www.acpconf.com/) |
-| Acceptance Rate | NA |
+| Acceptance Rate | N/A |
+
+## UCC
+| Conference Name | IEEE/ACM International Conference on Utility and Cloud Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-08-03 |
+| Conference Date | 2023-12-04 - 2023-12-07 |
+| Location | Taormina (Messina), Italy |
+| Website | [Link](https://ucc-conference.org/) |
+| Acceptance Rate | 2022: 26.53% (13/49) <br> 2021: 33.87% (21/62) <br> 2019: 29.17% (28/96) <br> 2018: 20.5% <br> 2017: 26.98% (17/63) |
+
+## CQR
+| Conference Name  | IEEE International Workshop Technical Committee on Communications Quality and Reliability |
+| :------------- | :------------- |
+| Submission Deadline | 2023-08-07 |
+| Conference Date | 2023-10-23 - 2023-10-26 |
+| Location | Washington DC, USA |
+| Website | [Link](https://cqr2023.ieee-cqr.org/) |
+| Acceptance Rate | N/A |
+
+## ICNCC
+| Conference Name  | International Conference on Networks, Communication and Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-08-10 |
+| Conference Date | 2023-12-15 - 2023-12-17 |
+| Location | Osaka, Japan |
+| Website | [Link](http://www.icncc.org/) |
+| Acceptance Rate | N/A |
+
+## UEMCON
+| Conference Name | IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2023-08-23 |
+| Conference Date | 2023-10-12 - 2023-10-14 |
+| Location | Columbia University, USA |
+| Website | [Link](https://ieee-uemcon.org/) |
+| Acceptance Rate | N/A |
+
+## ICOIN
+| Conference Name | International Conference on Information Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2023-08-25 |
+| Conference Date | 2024-01-17 - 2024-01-19 |
+| Location | Ho Chi Minh City, Vietnam |
+| Website | [Link](https://icoin.org/) |
+| Acceptance Rate | 2022: 60.24% (100/166, 61 oral + 39 poster) <br> 2019: 69.01% (98/142, 52 oral + 46 poster) |
 
 # July 2023
 ## CloudCom
