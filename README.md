@@ -179,6 +179,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2022: 26.47% (18/68) <br> 2021: 36.84% (21/57) <br> 2020: 41.38% (24/58) |
 
 # June 2023
+## PDCAT
+| Conference Name | International Conference on Parallel and Distributed Computing, Applications and Technologies |
+| :------------- | :------------- |
+| Submission Deadline | 2023-06-05 |
+| Conference Date | 2023-08-16 - 2023-08-18 |
+| Location | Jeju, Korea |
+| Website | [Link](http://kips-cswrg.org/pdcat2023/) |
+| Acceptance Rate | N/A |
+
 ## SoCC
 | Conference Name | ACM Symposium on Cloud Computing |
 | :------------- | :------------- |
@@ -1206,15 +1215,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Penang, Malaysia |
 | Website | [Link](https://www.ispacs2022.org/) |
 | Acceptance Rate | 2018: 73.88% (99/134) |
-
-## PDCAT
-| Conference Name | International Conference on Parallel and Distributed Computing, Applications and Technologies |
-| :------------- | :------------- |
-| Submission Deadline | 2022-08-03 |
-| Conference Date | 2022-12-07 - 2022-12-09 |
-| Location | Sendai, Japan |
-| Website | [Link](https://www.hpc.is.tohoku.ac.jp/pdcat2022/) |
-| Acceptance Rate | N/A |
 
 ## UCC
 | Conference Name | IEEE/ACM International Conference on Utility and Cloud Computing |
