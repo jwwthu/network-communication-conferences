@@ -1029,7 +1029,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-05-01 - 2023-05-04 |
 | Location | Bangalore, India |
 | Website | [Link](https://ccgrid2023.iisc.ac.in/) |
-| Acceptance Rate | 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
+| Acceptance Rate | 2023: 21.09% (58/275) <br> 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
 
 ## MobiSys
 | Conference Name | ACM International Conference on Mobile Systems, Applications, and Services |
