@@ -884,7 +884,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-19 - 2023-06-23 |
 | Location | Madrid, Spain |
 | Website | [Link](https://netsoft2023.ieee-netsoft.org/) |
-| Acceptance Rate | 2022: 24.7% <br> 2021: 49.33% (74/150) |
+| Acceptance Rate | 2023: 23.8% <br> 2022: 24.7% <br> 2021: 49.33% (74/150) |
 
 ## BMSB
 | Conference Name | IEEE International Symposium on Broadband Multimedia Systems and Broadcasting |
