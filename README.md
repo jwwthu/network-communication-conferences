@@ -992,7 +992,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-12 - 2023-06-15 |
 | Location | Barcelona, Spain |
 | Website | [Link](https://networking.ifip.org/2023/) |
-| Acceptance Rate | 2022: 29.38% (47/160) <br> 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
+| Acceptance Rate | 2023: 27.08% (52/192) <br> 2022: 29.38% (47/160) <br> 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
 
 ## ICUFN
 | Conference Name | International Conference on Ubiquitous and Future Networks |
