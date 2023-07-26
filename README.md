@@ -911,7 +911,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-19 - 2023-06-23 |
 | Location | Marrakesh, Morocco |
 | Website | [Link](https://iwcmc.org/2023/) |
-| Acceptance Rate | 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
+| Acceptance Rate | 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
 
 ## PODC
 | Conference Name | ACM Symposium on Principles of Distributed Computing |
