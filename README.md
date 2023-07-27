@@ -639,7 +639,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-21 - 2023-06-23 |
 | Location | Montreal, Canada |
 | Website | [Link](http://www.wimob.org/wimob2023/) |
-| Acceptance Rate | 2022: 40% <br> 2017: 28.10% (59/210) |
+| Acceptance Rate | 2023: 38% <br> 2022: 40% <br> 2017: 28.10% (59/210) |
 
 ## MobiHoc
 | Conference Name | International Symposium on Mobile Ad Hoc Networking and Computing |
@@ -966,6 +966,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Coimbra, Portugal |
 | Website | [Link](https://hotcloudperf.spec.org/) |
 | Acceptance Rate | 2020: 23.16% (22/95) <br> 2017: 32.76% (19/58) <br> 2016: 30.88% (21/68) |
+
+## EuCNC
+| Conference Name | European Conference on Networks and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2023-01-27 |
+| Conference Date | 2023-06-06 - 2023-06-09 |
+| Location | Gothenburg, Sweden |
+| Website | [Link](https://www.eucnc.eu/) |
+| Acceptance Rate | 2021: 50% <br> 2020: 50% <br> 2017: 46.06% (146/317) |
 
 ## HPDC
 | Conference Name | ACM International Symposium on High Performance Distributed Computing |
