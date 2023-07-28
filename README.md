@@ -267,7 +267,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-08-28 - 2023-08-31 |
 | Location | Portsmouth, UK |
 | Website | [Link](https://ieee-smart-world-congress.org/program/uic2023/overview) |
-| Acceptance Rate | N/A |
+| Acceptance Rate | 2022: 18.0% (regular research paper) and 21.0% (research paper) |
 
 ## EW
 | Conference Name | European Wireless Conference |
