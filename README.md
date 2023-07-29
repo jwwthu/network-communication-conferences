@@ -14,6 +14,61 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 
 Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the new name for DCOSS.
 
+# September 2023
+## HPCC
+| Conference Name | IEEE International Conference on High Performance Computing and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2023-09-01 |
+| Conference Date | 2023-12-17 - 2023-12-21 |
+| Location | Ocean Flower Island, Hainan, China |
+| Website | [Link](http://www.ieee-hpcc.org/2023/) |
+| Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
+
+## ICPADS
+| Conference Name | International Conference on Parallel and Distributed Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2023-09-01 |
+| Conference Date | 2023-12-17 - 2023-12-21 |
+| Location | Ocean Flower Island, Hainan, China |
+| Website | [Link](https://ieee-cybermatics.org/2023/icpads/) |
+| Acceptance Rate | 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
+
+## WCNC
+| Conference Name | IEEE Wireless Communications and Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2023-09-11|
+| Conference Date | 2024-04-21 - 2024-04-24 |
+| Location | Dubai, United Arab Emirates |
+| Website | [Link](https://wcnc2023.ieee-wcnc.org/) |
+| Acceptance Rate | 2022: 48.65% (361/742) <br> 2020: 36.69% (400/1093) |
+
+## NSDI
+| Conference Name | USENIX Symposium on Networked Systems Design and Implementation |
+| :------------- | :------------- |
+| Submission Deadline | 2023-09-14 (Fall Deadline) |
+| Conference Date | 2024-04-16 - 2024-04-18 |
+| Location | SANTA CLARA, CA, USA |
+| Website | [Link](https://www.usenix.org/conference/nsdi24) |
+| Acceptance Rate | 2023: 17.14% (96/560) <br> 2022: 19.4% <br> 2021: 15.99% (59/369) <br> 2020: 18.3% (65/354) <br> 2019: 14.8% (49/332) <br> 2018: 15.7% (40/255) |
+
+## COMSNETS
+| Conference Name | International Conference on COMmunication Systems & NETworkS |
+| :------------- | :------------- |
+| Submission Deadline | 2023-09-15 |
+| Conference Date | 2024-01-03 - 2024-01-07 |
+| Location | Bangalore, India |
+| Website | [Link](https://www.comsnets.org/) |
+| Acceptance Rate | N/A |
+
+## NOMS
+| Conference Name | IEEE/IFIP Network Operations and Management Symposium |
+| :------------- | :------------- |
+| Submission Deadline | 2023-09-29 |
+| Conference Date | 2024-05-06 - 2024-05-10 |
+| Location | Seoul, South Korea |
+| Website | [Link](https://noms2024.ieee-noms.org/) |
+| Acceptance Rate | 2023: 22.34% (44/197) <br> 2020: 29.63% (72/243) <br> 2018: 29.63% (56/189) |
+
 # August 2023
 ## ACP
 | Conference Name | Asia Communications and Photonics Conference |
@@ -395,15 +450,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Dubrovnik, Croatia |
 | Website | [Link](https://meditcom2023.ieee-meditcom.org/) |
 | Acceptance Rate | NA |
-
-## NSDI
-| Conference Name | USENIX Symposium on Networked Systems Design and Implementation |
-| :------------- | :------------- |
-| Submission Deadline | 2023-05-04 |
-| Conference Date | 2024-04-16 - 2024-04-18 |
-| Location | SANTA CLARA, CA, USA |
-| Website | [Link](https://www.usenix.org/conference/nsdi24) |
-| Acceptance Rate | 2023: 17.14% (96/560) <br> 2022: 19.4% <br> 2021: 15.99% (59/369) <br> 2020: 18.3% (65/354) <br> 2019: 14.8% (49/332) <br> 2018: 15.7% (40/255) |
 
 ## DISC
 | Conference Name | International Symposium on Distributed Computing |
@@ -1197,42 +1243,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2023: 30.28% (33/109) <br> 2022: 32% <br> 2021: 25% <br> 2020: 21% <br> 2019: 28% <br> 2018: 23.6% |
 
 # September 2022
-## COMSNETS
-| Conference Name | International Conference on COMmunication Systems & NETworkS |
-| :------------- | :------------- |
-| Submission Deadline | 2022-09-01 |
-| Conference Date | 2023-01-03 - 2023-01-08 |
-| Location | Bengaluru, India |
-| Website | [Link](https://www.comsnets.org/) |
-| Acceptance Rate | N/A |
-
-## HPCC
-| Conference Name | IEEE International Conference on High Performance Computing and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2022-09-01 |
-| Conference Date | 2022-12-18 - 2022-12-20 |
-| Location | Chengdu, China |
-| Website | [Link](http://www.ieee-hpcc.org/2022/) |
-| Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
-
-## NOMS
-| Conference Name | IEEE/IFIP Network Operations and Management Symposium |
-| :------------- | :------------- |
-| Submission Deadline | 2022-09-12 |
-| Conference Date | 2023-05-08 - 2023-05-12 |
-| Location | Miami, FL, USA |
-| Website | [Link](https://noms2023.ieee-noms.org/) |
-| Acceptance Rate | 2023: 22.34% (44/197) <br> 2020: 29.63% (72/243) <br> 2018: 29.63% (56/189) |
-
-## WCNC
-| Conference Name | IEEE Wireless Communications and Networking Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2022-09-12 |
-| Conference Date | 2023-03-26 - 2023-03-29 |
-| Location | Glasgow, Scotland, UK |
-| Website | [Link](https://wcnc2023.ieee-wcnc.org/) |
-| Acceptance Rate | 2022: 48.65% (361/742) <br> 2020: 36.69% (400/1093) |
-
 ## RTNS
 | Conference Name | International Conference on Real-Time Networks and Systems |
 | :------------- | :------------- |
@@ -1279,15 +1289,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Wuhan, China |
 | Website | [Link](http://ieee-hust-ncc.org/2022/EUC/) |
 | Acceptance Rate | 2022: 30% <br> 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
-
-## ICPADS
-| Conference Name | International Conference on Parallel and Distributed Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2022-07-16 |
-| Conference Date | 2022-12-14 - 2022-12-16 |
-| Location | Nanjing, China |
-| Website | [Link](http://ieee-icpads.net/) |
-| Acceptance Rate | 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
 
 # June 2022
 ## SOSR
