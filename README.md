@@ -69,6 +69,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://icoin.org/) |
 | Acceptance Rate | 2022: 60.24% (100/166, 61 oral + 39 poster) <br> 2019: 69.01% (98/142, 52 oral + 46 poster) |
 
+## CSCN
+| Conference Name | IEEE Conference on Standards for Communications and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2023-08-31 |
+| Conference Date | 2023-11-06 - 2023-11-08 |
+| Location | Munich, Germany |
+| Website | [Link](https://cscn2023.ieee-cscn.org/) |
+| Acceptance Rate | N/A |
+
 # July 2023
 ## CloudCom
 | Conference Name | IEEE International Conference on Cloud Computing Technology and Science |
@@ -1097,15 +1106,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2022: 55.9% <br> 2020: 45.00% (9/20) |
 
 # October 2022
-## CSCN
-| Conference Name | IEEE Conference on Standards for Communications and Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-01 |
-| Conference Date | 2022-11-28 - 2022-11-30 |
-| Location | Thessaloniki, Greece |
-| Website | [Link](https://cscn2022.ieee-cscn.org/) |
-| Acceptance Rate | N/A |
-
 ## PDP
 | Conference Name | Euromicro International Conference on Parallel, Distributed, and Network-Based Processing |
 | :------------- | :------------- |
