@@ -39,7 +39,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Submission Deadline | 2023-09-11|
 | Conference Date | 2024-04-21 - 2024-04-24 |
 | Location | Dubai, United Arab Emirates |
-| Website | [Link](https://wcnc2023.ieee-wcnc.org/) |
+| Website | [Link](https://wcnc2024.ieee-wcnc.org/) |
 | Acceptance Rate | 2022: 48.65% (361/742) <br> 2020: 36.69% (400/1093) |
 
 ## NSDI
