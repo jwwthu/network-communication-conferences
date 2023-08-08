@@ -712,7 +712,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-26 - 2023-06-30 |
 | Location | Naples, Italy |
 | Website | [Link](https://tma.ifip.org/2023/) |
-| Acceptance Rate | 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
+| Acceptance Rate | 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
 
 ## NOSSDAV
 | Conference Name | International Workshop on Network and Operating Systems Support for Digital Audio and Video |
