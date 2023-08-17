@@ -240,7 +240,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-10-10 - 2023-10-13 |
 | Location | Hong Kong |
 | Website | [Link](https://events.vtsociety.org/vtc2023-fall/) |
-| Acceptance Rate | 2022-Spring: 62.59% (614/981) <br> 2021-Fall: 55.88% (461/825) <br> 2021-Spring: 59.26% (387/653) <br> 2020-Fall: 48.48% (350/722) |
+| Acceptance Rate | 2023-Spring: ~63.53% (540/850) <br> 2022-Spring: 62.59% (614/981) <br> 2021-Fall: 55.88% (461/825) <br> 2021-Spring: 59.26% (387/653) <br> 2020-Fall: 48.48% (350/722) |
 
 ## MSN
 | Conference Name | International Conference on Mobility, Sensing and Networking |
@@ -948,7 +948,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-14 - 2023-06-16 |
 | Location | Beijing, China |
 | Website | [Link](https://www.bmsb2023.com/) |
-| Acceptance Rate | 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
+| Acceptance Rate | 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
 
 ## ICCCS
 | Conference Name | International Conference on Computer and Communication Systems |
