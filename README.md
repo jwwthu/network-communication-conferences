@@ -766,7 +766,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-07-09 - 2023-07-12 |
 | Location | Tunis, Tunisia |
 | Website | [Link](https://2023.ieee-iscc.org/) |
-| Acceptance Rate | 2022: 43.79% (127/290) <br> 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
+| Acceptance Rate | 2023: 36.90% (155/420) + 43 posters/demos <br> 2022: 43.79% (127/290) <br> 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
 
 ## ISNCC
 | Conference Name | International Symposium on Networks, Computers and Communications |
