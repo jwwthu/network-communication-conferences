@@ -1152,33 +1152,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2022: 55.9% <br> 2020: 45.00% (9/20) |
 
 # October 2022
-## PDP
-| Conference Name | Euromicro International Conference on Parallel, Distributed, and Network-Based Processing |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-01 |
-| Conference Date | 2023-03-01 - 2023-03-03 |
-| Location | Naples, Italy |
-| Website | [Link](https://www.pdp2023.org/) |
-| Acceptance Rate | 2022: 37.84% (28/74) <br> 2021: 54.43% (43/79) <br> 2019: 63.73% (65/102) |
-
-## IPDPS
-| Conference Name | IEEE International Parallel and Distributed Processing Symposium |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-06 |
-| Conference Date | 2023-05-15 - 2023-05-19 |
-| Location | St. Petersburg, Florida USA |
-| Website | [Link](https://www.ipdps.org/) |
-| Acceptance Rate | 2022: 25.95% (123/474) <br> 2021: 22.73% (105/462) <br> 2020: 24.66% (110/446) <br> 2019: 27.69% (103/372) <br> 2018: 24.52% (113/461) <br> 2017: 22.83% (116/508) |
-
-## ICC
-| Conference Name | IEEE International Conference on Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-11 |
-| Conference Date | 2023-05-28 - 2023-06-01 |
-| Location | Rome, Italy |
-| Website | [Link](https://icc2023.ieee-icc.org/) |
-| Acceptance Rate | 2022: 38.04% (962/2529) <br> 2021: 40.30% (758/1881) <br> 2020: 39.88% (849/2129) <br> 2019: 39.10% (1015/2596) <br> 2018: 39.90% (970/2431) <br> 2017: 38.13% (1172/3074) |
-
 ## AINA
 | Conference Name | International Conference on Advanced Information Networking and Applications |
 | :------------- | :------------- |
@@ -1187,15 +1160,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Federal University of Juiz de Fora, Brazil |
 | Website | [Link](http://voyager.ce.fit.ac.jp/conf/aina/2023/) |
 | Acceptance Rate | N/A |
-
-## ICIN
-| Conference Name | Conference on Innovation in Clouds, Internet and Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-17 |
-| Conference Date | 2023-03-06 - 2023-03-09 |
-| Location | Paris, France |
-| Website | [Link](https://www.icin-conference.org/) |
-| Acceptance Rate | 2020: 31.88% (22/69) <br> 2019: 31.34% (21/67) <br> 2018: 28.24% (24/85) <br> 2017: 32.29% (31/96) |
 
 ## SAGC
 | Conference Name | International Conference on Space-Air-Ground Computing |
@@ -1206,24 +1170,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://www.datacom-ieee.org/sagc2022/) |
 | Acceptance Rate | N/A |
 
-## ICCPS
-| Conference Name | International Conference on Cyber-Physical Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-31 |
-| Conference Date | 2023-05-09 - 2023-05-12 |
-| Location | San Antonio, Texas, USA |
-| Website | [Link](https://iccps.acm.org/2023/) |
-| Acceptance Rate | 2023: 25.61% (21/82) <br> 2022: 28.41% (25/88) <br> 2021: 25.97% (20/77) <br> 2020: 23.76% (24/101) <br> 2019: 22.76% (28/123) <br> 2018: 31.91% (30/94) <br> 2017: 31.33% (26/83) |
-
-## RTAS
-| Conference Name | Real-Time and Embedded Technology and Applications Symposium |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-31 |
-| Conference Date | 2023-05-09 - 2023-05-12 |
-| Location | San Antonio, Texas, USA |
-| Website | [Link](http://2023.rtas.org/) |
-| Acceptance Rate | 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
-
 ## IPSN
 | Conference Name | ACM/IEEE International Conference on Information Processing in Sensor Networks |
 | :------------- | :------------- |
@@ -1232,15 +1178,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | San Antonio, Texas, USA |
 | Website | [Link](https://ipsn.acm.org/2023/) |
 | Acceptance Rate | 2023: 26.83% (22/82) <br> 2022: 30.16% (38/126) <br> 2021: 24.53% (26/106) <br> 2020: 21.77% (27/124) <br> 2019: 27.47% (25/91) <br> 2018: 26.83% (22/82) |
-
-## IoTDI
-| Conference Name | ACM/IEEE International Conference on Internet of Things Design and Implementation |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-31 |
-| Conference Date | 2023-05-09 - 2023-05-12 |
-| Location | San Antonio, Texas, USA |
-| Website | [Link](https://conferences.computer.org/iotDI/2023/) |
-| Acceptance Rate | 2023: 30.28% (33/109) <br> 2022: 32% <br> 2021: 25% <br> 2020: 21% <br> 2019: 28% <br> 2018: 23.6% |
 
 # September 2022
 ## RTNS
@@ -1251,15 +1188,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | TU Dortmund, Germany |
 | Website | [Link](https://rtns2023.cs.tu-dortmund.de/) |
 | Acceptance Rate | 2023: 61.76% (21/34) <br> 2022: 48.84% (21/43) <br> 2019: 54.05% (20/37) |
-
-## PERCOM
-| Conference Name | IEEE International Conference on Pervasive Computing and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2022-09-26 |
-| Conference Date | 2023-03-13 - 2023-03-17 |
-| Location | Atlanta, USA |
-| Website | [Link](https://www.percom.org/) |
-| Acceptance Rate | 2023: 15.09% (24/159) <br> 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
 
 # August 2022
 ## ISPACS
