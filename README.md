@@ -358,7 +358,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-05-20 - 2024-05-23 |
 | Location | Vancouver, Canada |
 | Website | [Link](https://infocom2024.ieee-infocom.org/) |
-| Acceptance Rate | 2022: 19.84% (224/1129) <br> 2021: 19.75% (251/1271) <br> 2020: 19.11% (267/1397) <br> 2019: 19.67% (288/1464) <br> 2018: 19.24% (309/1606) <br> 2017: 20.93% (292/1395) |
+| Acceptance Rate | 2023: 19.21 % (252/1312) <br> 2022: 19.84% (224/1129) <br> 2021: 19.75% (251/1271) <br> 2020: 19.11% (267/1397) <br> 2019: 19.67% (288/1464) <br> 2018: 19.24% (309/1606) <br> 2017: 20.93% (292/1395) |
 
 ## IoT
 | Conference Name | International Conference on the Internet of Things |
