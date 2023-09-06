@@ -957,7 +957,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-09-10 - 2023-09-14 |
 | Location | New York City, US |
 | Website | [Link](https://conferences.sigcomm.org/sigcomm/2023/) |
-| Acceptance Rate | 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
+| Acceptance Rate | 2023: 21.98% (71/323) <br> 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
 
 ## ICCCN
 | Conference Name | International Conference on Computer Communications and Networks |
