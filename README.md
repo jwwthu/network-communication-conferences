@@ -921,7 +921,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-19 - 2023-06-21 |
 | Location | Coral Bay, Pafos, Cyprus |
 | Website | [Link](https://dcoss.org/) |
-| Acceptance Rate | 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
+| Acceptance Rate | 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
 
 ## IWQoS
 | Conference Name | IEEE/ACM International Symposium on Quality of Service |
