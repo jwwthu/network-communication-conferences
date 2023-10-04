@@ -577,7 +577,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-09-04 - 2023-09-07 |
 | Location | Dubrovnik, Croatia |
 | Website | [Link](https://meditcom2023.ieee-meditcom.org/) |
-| Acceptance Rate | NA |
+| Acceptance Rate | 2023: 52.63% (60/114) |
 
 ## DISC
 | Conference Name | International Symposium on Distributed Computing |
