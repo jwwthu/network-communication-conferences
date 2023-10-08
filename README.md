@@ -450,7 +450,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-10-08 - 2023-10-10 |
 | Location | Reykjavik, Iceland |
 | Website | [Link](https://conferences2.sigcomm.org/acm-icn/2023/) |
-| Acceptance Rate | 2022: 47.06% (16/34) <br> 2021: 30.23% (13/43) <br> 2020: 38.46% (15/39) <br> 2019: 41.67% (15/36) <br> 2018: 29.82% (17/57) <br> 2017: 27.54% (19/69) |
+| Acceptance Rate | 2023: 43.33% (13/30) <br> 2022: 47.06% (16/34) <br> 2021: 30.23% (13/43) <br> 2020: 38.46% (15/39) <br> 2019: 41.67% (15/36) <br> 2018: 29.82% (17/57) <br> 2017: 27.54% (19/69) |
 
 ## UIC
 | Conference Name | IEEE International Conference on Ubiquitous Intelligence and Computing |
