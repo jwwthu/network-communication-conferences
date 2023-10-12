@@ -831,7 +831,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-10-23 - 2023-10-26 |
 | Location | Washington DC, USA |
 | Website | [Link](https://www.sigmobile.org/mobihoc/2023/) |
-| Acceptance Rate | 2022: 19.83% (24/121) <br> 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
+| Acceptance Rate | 2023: 21.90% (30/137) <br> 2022: 19.83% (24/121) <br> 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
 
 ## TMA
 | Conference Name | Network Traffic Measurement and Analysis Conference |
@@ -1121,7 +1121,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-07-18 - 2023-07-21 |
 | Location | Hong Kong, China |
 | Website | [Link](https://icdcs2023.icdcs.org/) |
-| Acceptance Rate | 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
+| Acceptance Rate | 2023: 18.91% (83/439) <br> 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
 
 ## HPSR
 | Conference Name | International Conference on High Performance Switching and Routing |
