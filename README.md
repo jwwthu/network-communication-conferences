@@ -104,7 +104,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-06-09 - 2024-06-13 |
 | Location | Denver, CO, USA |
 | Website | [Link](https://icc2024.ieee-icc.org/) |
-| Acceptance Rate | 2022: 38.04% (962/2529) <br> 2021: 40.30% (758/1881) <br> 2020: 39.88% (849/2129) <br> 2019: 39.10% (1015/2596) <br> 2018: 39.90% (970/2431) <br> 2017: 38.13% (1172/3074) |
+| Acceptance Rate | 2023: 39.52% (1098/2778) <br> 2022: 38.04% (962/2529) <br> 2021: 40.30% (758/1881) <br> 2020: 39.88% (849/2129) <br> 2019: 39.10% (1015/2596) <br> 2018: 39.90% (970/2431) <br> 2017: 38.13% (1172/3074) |
 
 ## PDP
 | Conference Name | Euromicro International Conference on Parallel, Distributed, and Network-Based Processing |
