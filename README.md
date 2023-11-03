@@ -722,7 +722,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-09-25 - 2023-09-27 |
 | Location | Toronto, Canada |
 | Website | [Link](https://cis.temple.edu/ieeemass2023/index.html) |
-| Acceptance Rate | 2022: 29.17% (21/72, regular) <br> 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
+| Acceptance Rate | 2023: 27.6% <br> 2022: 29.17% (21/72, regular) <br> 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
 
 ## ICSPCS
 | Conference Name | International Conference on Signal Processing and Communication Systems |
