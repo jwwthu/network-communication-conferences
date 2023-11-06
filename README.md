@@ -14,6 +14,61 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 
 Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the new name for DCOSS; (3) The full name of EDGE changes from "IEEE International Conference on Edge Computing" to "IEEE International Conference on Edge Computing and Communications".
 
+# December 2023
+## WoWMoM
+| Conference Name | IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2023-12-01 |
+| Conference Date | 2024-06-04 - 2024-06-07 |
+| Location | PERTH, WESTERN AUSTRALIA |
+| Website | [Link](https://www.cse.unsw.edu.au/~wowmom/2024/index.html) |
+| Acceptance Rate | 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
+
+## CCGrid
+| Conference Name | IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-12-04 |
+| Conference Date | 2024-05-06 - 2024-05-09 |
+| Location | Philadelphia |
+| Website | [Link](https://2024.ccgrid-conference.org/) |
+| Acceptance Rate | 2023: 21.09% (58/275) <br> 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
+
+## ICFEC
+| Conference Name | IEEE International Conference on Fog and Edge Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2023-12-04 |
+| Conference Date | 2024-05-06 - 2024-05-09 |
+| Location | Philadelphia, USA |
+| Website | [Link](https://icfec2024.ontariotechu.ca/) |
+| Acceptance Rate | 2022: 19.15% (9/47) <br> 2021: 17.07% (7/41) |
+
+## DSN
+| Conference Name | IEEE/IFIP International Conference on Dependable Systems and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2023-12-06 |
+| Conference Date | 2024-06-24 - 2024-06-27 |
+| Location | Brisbane, Australia |
+| Website | [Link](https://dsn2024uq.github.io/) |
+| Acceptance Rate | 2022: 18.7% (49/262) <br> 2021: 16.27% (48/295) <br> 2020: 16.49% (48/291) <br> 2019: 21.43% (54/252) <br> 2018: 27.19% (62/228) |
+
+## DRCN
+| Conference Name | International Conference on the Design of Reliable Communication Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2023-12-15 |
+| Conference Date | 2024-05-06 - 2024-05-09 |
+| Location | Montréal, Québec, Canada |
+| Website | [Link](https://drcn-conference.vercel.app/) |
+| Acceptance Rate | 2022: 43.48% (10/23) <br> 2021: 41.67% (20/48) <br> 2020: 42.86% (24/56) <br> 2019: 39.47% (15/38) <br> 2018: 38.46% (10/26) |
+
+## BMSB
+| Conference Name | IEEE International Symposium on Broadband Multimedia Systems and Broadcasting |
+| :------------- | :------------- |
+| Submission Deadline | 2023-12-21 |
+| Conference Date | 2024-06-19 - 2024-06-21 |
+| Location | TORONTO, Canada |
+| Website | [Link](https://bmsb2024.com/) |
+| Acceptance Rate | 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
+
 # November 2023
 ## ICCCS
 | Conference Name | International Conference on Computer and Communication Systems |
@@ -1060,15 +1115,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2020: 44% <br> 2019: 48.89% (44/90) |
 
 # Jan. 2023
-## ICFEC
-| Conference Name | IEEE International Conference on Fog and Edge Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-07 |
-| Conference Date | 2023-05-01 - 2023-05-04 |
-| Location | Bangalore, India |
-| Website | [Link](http://icfec2023.ontariotechu.ca/) |
-| Acceptance Rate | 2022: 19.15% (9/47) <br> 2021: 17.07% (7/41) |
-
 ## NetSoft
 | Conference Name | IEEE International Conference on Network Softwarization |
 | :------------- | :------------- |
@@ -1077,15 +1123,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Madrid, Spain |
 | Website | [Link](https://netsoft2023.ieee-netsoft.org/) |
 | Acceptance Rate | 2023: 23.8% <br> 2022: 24.7% <br> 2021: 49.33% (74/150) |
-
-## BMSB
-| Conference Name | IEEE International Symposium on Broadband Multimedia Systems and Broadcasting |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-10 |
-| Conference Date | 2023-06-14 - 2023-06-16 |
-| Location | Beijing, China |
-| Website | [Link](https://www.bmsb2023.com/) |
-| Acceptance Rate | 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
 
 ## IWCMC
 | Conference Name | International Wireless Communications and Mobile Computing Conference |
@@ -1194,43 +1231,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Paris, France |
 | Website | [Link](https://icufn.org/) |
 | Acceptance Rate | NA |
-
-# December 2022
-## DRCN
-| Conference Name | International Conference on the Design of Reliable Communication Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2022-12-01 |
-| Conference Date | 2023-04-17 - 2023-04-20 |
-| Location | Vilanova, Barcelona, Spain |
-| Website | [Link](https://drcn2023.upc.edu/) |
-| Acceptance Rate | 2022: 43.48% (10/23) <br> 2021: 41.67% (20/48) <br> 2020: 42.86% (24/56) <br> 2019: 39.47% (15/38) <br> 2018: 38.46% (10/26) |
-
-## DSN
-| Conference Name | IEEE/IFIP International Conference on Dependable Systems and Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2022-12-07 |
-| Conference Date | 2023-06-27 - 2023-06-30 |
-| Location | Porto, Portugal |
-| Website | [Link](https://dsn2023.dei.uc.pt/) |
-| Acceptance Rate | 2022: 18.7% (49/262) <br> 2021: 16.27% (48/295) <br> 2020: 16.49% (48/291) <br> 2019: 21.43% (54/252) <br> 2018: 27.19% (62/228) |
-
-## CCGrid
-| Conference Name | IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2022-12-12 |
-| Conference Date | 2023-05-01 - 2023-05-04 |
-| Location | Bangalore, India |
-| Website | [Link](https://ccgrid2023.iisc.ac.in/) |
-| Acceptance Rate | 2023: 21.09% (58/275) <br> 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
-
-## WoWMoM
-| Conference Name | IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2022-12-15 |
-| Conference Date | 2023-06-12 - 2023-06-15 |
-| Location | BOSTON, MASSACHUSETTS, USA |
-| Website | [Link](https://coe.northeastern.edu/Groups/wowmom2023/index.html) |
-| Acceptance Rate | 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
 
 # November 2022
 ## ISPLC
