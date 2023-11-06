@@ -133,6 +133,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://conferences.computer.org/iotDI/2024/) |
 | Acceptance Rate | 2023: 30.28% (33/109) <br> 2022: 32% <br> 2021: 25% <br> 2020: 21% <br> 2019: 28% <br> 2018: 23.6% |
 
+## IPSN
+| Conference Name | ACM/IEEE International Conference on Information Processing in Sensor Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2023-10-31 |
+| Conference Date | 2024-05-13 - 2024-05-16 |
+| Location | HONG KONG, CHINA |
+| Website | [Link](https://ipsn.acm.org/2024/) |
+| Acceptance Rate | 2023: 26.83% (22/82) <br> 2022: 30.16% (38/126) <br> 2021: 24.53% (26/106) <br> 2020: 21.77% (27/124) <br> 2019: 27.47% (25/91) <br> 2018: 26.83% (22/82) |
+
 ## RTAS
 | Conference Name | Real-Time and Embedded Technology and Applications Symposium |
 | :------------- | :------------- |
@@ -1251,15 +1260,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Sheraton Fiji Golf & Beach Resort Denarau Island Fiji |
 | Website | [Link](https://www.datacom-ieee.org/sagc2022/) |
 | Acceptance Rate | N/A |
-
-## IPSN
-| Conference Name | ACM/IEEE International Conference on Information Processing in Sensor Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2022-10-31 |
-| Conference Date | 2023-05-09 - 2023-05-12 |
-| Location | San Antonio, Texas, USA |
-| Website | [Link](https://ipsn.acm.org/2023/) |
-| Acceptance Rate | 2023: 26.83% (22/82) <br> 2022: 30.16% (38/126) <br> 2021: 24.53% (26/106) <br> 2020: 21.77% (27/124) <br> 2019: 27.47% (25/91) <br> 2018: 26.83% (22/82) |
 
 # September 2022
 ## RTNS
