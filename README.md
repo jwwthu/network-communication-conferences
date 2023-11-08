@@ -1112,7 +1112,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-07-05 - 2023-07-07 |
 | Location | Istanbul, Turkey |
 | Website | [Link](https://blackseacom2023.ieee-blackseacom.org/) |
-| Acceptance Rate | 2020: 44% <br> 2019: 48.89% (44/90) |
+| Acceptance Rate | 2023: 48.3% (56/126) for full papers and 35.7% (5/16) for special session papers <br> 2020: 44% <br> 2019: 48.89% (44/90) |
 
 # Jan. 2023
 ## NetSoft
