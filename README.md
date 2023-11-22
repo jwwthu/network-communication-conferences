@@ -659,7 +659,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-10-31 - 2023-11-03 |
 | Location | Santa Fe, New Mexico, USA |
 | Website | [Link](https://clustercomp.org/2023/) |
-| Acceptance Rate | 2022: 23.76% (43/181) <br> 2021: 29.27% (48/164) <br> 2020: 24.24% (32/132) <br> 2019: 27.66% (39/141) <br> 2018: 28.57% (44/154) <br> 2017: 21.66% (47/217) |
+| Acceptance Rate | 2023: 23.85% (31/130) <br> 2022: 23.76% (43/181) <br> 2021: 29.27% (48/164) <br> 2020: 24.24% (32/132) <br> 2019: 27.66% (39/141) <br> 2018: 28.57% (44/154) <br> 2017: 21.66% (47/217) |
 
 ## APNOMS
 | Conference Name | Asia-Pacific Network Operations and Management Symposium |
