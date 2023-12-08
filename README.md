@@ -704,7 +704,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-10-31 - 2023-11-03 |
 | Location | Glasgow, Scotland |
 | Website | [Link](https://sgc2023.ieee-smartgridcomm.org/) |
-| Acceptance Rate | NA |
+| Acceptance Rate | 2023: 94/~200 |
 
 ## RTSS
 | Conference Name | Real-Time Systems Symposium |
