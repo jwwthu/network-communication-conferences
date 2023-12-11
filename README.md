@@ -14,6 +14,106 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 
 Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the new name for DCOSS; (3) The full name of EDGE changes from "IEEE International Conference on Edge Computing" to "IEEE International Conference on Edge Computing and Communications".
 
+# January 2024
+## IWCMC
+| Conference Name | International International Wireless Communications & Mobile Computing Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-10 |
+| Conference Date | 2024-05-27 - 2024-05-31 |
+| Location | Adams Beach Hotel, Cyprus |
+| Website | [Link](https://iwcmc.net/2024/index.php) |
+| Acceptance Rate | 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
+
+## NetSoft
+| Conference Name | IEEE International Conference on Network Softwarization |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-12 |
+| Conference Date | 2024-06-24 - 2024-06-28 |
+| Location | St. Louis, USA |
+| Website | [Link](https://netsoft2024.ieee-netsoft.org/) |
+| Acceptance Rate | 2023: 23.8% <br> 2022: 24.7% <br> 2021: 49.33% (74/150) |
+
+## DCOSS-IoT
+| Conference Name | International Conference on Distributed Computing in Smart Systems and the Internet of Things |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-15 |
+| Conference Date | 2024-04-29 - 2024-05-01 |
+| Location | Abu Dhabi, United Arab Emirates |
+| Website | [Link](https://dcoss.org/) |
+| Acceptance Rate | 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
+
+## USENIX ATC
+| Conference Name | USENIX Annual Technical Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-16 |
+| Conference Date | 2024-07-10 - 2024-07-12 |
+| Location | SANTA CLARA, CA, USA |
+| Website | [Link](https://www.usenix.org/conference/atc24) |
+| Acceptance Rate | 2022: 16.5% (64/394) <br> 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
+
+## ICDCS
+| Conference Name | IEEE International Conference on Distributed Computing Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-19 |
+| Conference Date | 2024-07-16 - 2024-07-19 |
+| Location | New Jersey, USA |
+| Website | [Link](https://icdcs2024.icdcs.org/) |
+| Acceptance Rate | 2023: 18.91% (83/439) <br> 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
+
+## HPDC
+| Conference Name | ACM International Symposium on High Performance Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-25 |
+| Conference Date | 2024-06-03 - 2024-06-07 |
+| Location | Pisa, Italy |
+| Website | [Link](https://www.hpdc.org/2024/) |
+| Acceptance Rate | 2022: 19.44% (21/108) <br> 2021: 20.65% (19/92) <br> 2020: 30.99% (22/71) <br> 2019: 20.75% (22/106) <br> 2018: 19.82% (22/111) <br> 2017: 19.00% (19/100) |
+
+## EuCNC
+| Conference Name | European Conference on Networks and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-26 |
+| Conference Date | 2024-06-03 - 2024-06-06 |
+| Location | Antwerp, Belgium |
+| Website | [Link](https://www.eucnc.eu/) |
+| Acceptance Rate | 2021: 50% <br> 2020: 50% <br> 2017: 46.06% (146/317) |
+
+## NOSSDAV
+| Conference Name | International Workshop on Network and Operating Systems Support for Digital Audio and Video |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-26 |
+| Conference Date | April 2024 |
+| Location | Bari, Italy |
+| Website | [Link](https://nossdav.org/2024/) |
+| Acceptance Rate | 2023: 28.57% (10/35) <br> 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
+
+## IFIP Networking
+| Conference Name | The International Federation for Information Processing (IFIP) Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-30 |
+| Conference Date | 2024-06-03 - 2024-06-06 |
+| Location | Thessaloniki, Greece |
+| Website | [Link](https://networking.ifip.org/2024/) |
+| Acceptance Rate | 2023: 27.08% (52/192) <br> 2022: 29.38% (47/160) <br> 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
+
+## ICUFN
+| Conference Name | International Conference on Ubiquitous and Future Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-31 |
+| Conference Date | 2024-07-02 - 2024-07-05 |
+| Location | Budapest, Hungary |
+| Website | [Link](https://icufn.org/) |
+| Acceptance Rate | N/A |
+
+## SIGMETRICS
+| Conference Name | ACM SIGMETRICS |
+| :------------- | :------------- |
+| Submission Deadline | 2024-01-31 |
+| Conference Date | 2024-06-10 - 2024-06-14 |
+| Location | Venice, Italy |
+| Website | [Link](https://www.sigmetrics.org/sigmetrics2024/index.html) |
+| Acceptance Rate | 2023: 15.93% (54/339) <br> 2022: 19.47% (59/303) <br> 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
+
 # December 2023
 ## WoWMoM
 | Conference Name | IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks |
@@ -906,15 +1006,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://tma.ifip.org/2023/) |
 | Acceptance Rate | 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
 
-## NOSSDAV
-| Conference Name | International Workshop on Network and Operating Systems Support for Digital Audio and Video |
-| :------------- | :------------- |
-| Submission Deadline | 2023-03-10 |
-| Conference Date | 2023-06-07 |
-| Location | Vancouver, Canada |
-| Website | [Link](https://nossdav.org/2023/) |
-| Acceptance Rate | 2023: 28.57% (10/35) <br> 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
-
 ## COINS
 | Conference Name | IEEE International Conference on Omni-layer Intelligent Systems |
 | :------------- | :------------- |
@@ -1015,15 +1106,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2021: 47.69% (31/65) <br> 2020: 50.82% (31/61) <br> 2019: 41.28% (36/87) <br> 2018: 33.04% (38/115) <br> 2017: 32.59% (44/135) |
 
 # Feb. 2023
-## SIGMETRICS
-| Conference Name | ACM SIGMETRICS |
-| :------------- | :------------- |
-| Submission Deadline | 2023-02-01 |
-| Conference Date | 2023-06-19 - 2023-06-23 |
-| Location | Orlando, Florida, USA |
-| Website | [Link](https://www.sigmetrics.org/sigmetrics2023/index.html) |
-| Acceptance Rate | 2023: 15.93% (54/339) <br> 2022: 19.47% (59/303) <br> 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
-
 ## DisCoTec
 | Conference Name | International Federated Conference on Distributed Computing Techniques |
 | :------------- | :------------- |
@@ -1032,15 +1114,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Campus de Campolide, Lisboa |
 | Website | [Link](http://www.discotec.org/2023/) |
 | Acceptance Rate | 2022: 50% (11/22) <br> 2021: 46.67% (7/15) <br> 2020: 40% (12/30) |
-
-## DCOSS-IoT
-| Conference Name | International Conference on Distributed Computing in Smart Systems and the Internet of Things |
-| :------------- | :------------- |
-| Submission Deadline | 2023-02-06 |
-| Conference Date | 2023-06-19 - 2023-06-21 |
-| Location | Coral Bay, Pafos, Cyprus |
-| Website | [Link](https://dcoss.org/) |
-| Acceptance Rate | 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
 
 ## IWQoS
 | Conference Name | IEEE/ACM International Symposium on Quality of Service |
@@ -1115,24 +1188,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2023: 48.3% (56/126) for full papers and 35.7% (5/16) for special session papers <br> 2020: 44% <br> 2019: 48.89% (44/90) |
 
 # Jan. 2023
-## NetSoft
-| Conference Name | IEEE International Conference on Network Softwarization |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-09 |
-| Conference Date | 2023-06-19 - 2023-06-23 |
-| Location | Madrid, Spain |
-| Website | [Link](https://netsoft2023.ieee-netsoft.org/) |
-| Acceptance Rate | 2023: 23.8% <br> 2022: 24.7% <br> 2021: 49.33% (74/150) |
-
-## IWCMC
-| Conference Name | International Wireless Communications and Mobile Computing Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-10 |
-| Conference Date | 2023-06-19 - 2023-06-23 |
-| Location | Marrakesh, Morocco |
-| Website | [Link](https://iwcmc.org/2023/) |
-| Acceptance Rate | 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
-
 ## PODC
 | Conference Name | ACM Symposium on Principles of Distributed Computing |
 | :------------- | :------------- |
@@ -1142,15 +1197,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://www.podc.org/) |
 | Acceptance Rate | 2022: 29.85% (40/134, regular) <br> 2021: 25.58% (44/172) <br> 2020: 25.13% (47/187) <br> 2019: 27.75% (48/173) <br> 2018: 25.15% (41/163) <br> 2017: 24.68% (38/154) |
 
-## USENIX ATC
-| Conference Name | USENIX Annual Technical Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-12 |
-| Conference Date | 2023-07-10 - 2023-07-12 |
-| Location | BOSTON, MA, USA |
-| Website | [Link](https://www.usenix.org/conference/atc23) |
-| Acceptance Rate | 2022: 16.5% (64/394) <br> 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
-
 ## VNC
 | Conference Name | IEEE Vehicular Networking Conference |
 | :------------- | :------------- |
@@ -1159,15 +1205,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Istanbul, Türkiye |
 | Website | [Link](https://ieee-vnc.org/2023/) |
 | Acceptance Rate | 2023:~44% <br> 2021: ~40% |
-
-## ICDCS
-| Conference Name | International Conference on Distributed Computing Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-21 |
-| Conference Date | 2023-07-18 - 2023-07-21 |
-| Location | Hong Kong, China |
-| Website | [Link](https://icdcs2023.icdcs.org/) |
-| Acceptance Rate | 2023: 18.91% (83/439) <br> 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
 
 ## HPSR
 | Conference Name | International Conference on High Performance Switching and Routing |
@@ -1187,24 +1224,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://hotcloudperf.spec.org/) |
 | Acceptance Rate | 2020: 23.16% (22/95) <br> 2017: 32.76% (19/58) <br> 2016: 30.88% (21/68) |
 
-## EuCNC
-| Conference Name | European Conference on Networks and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-27 |
-| Conference Date | 2023-06-06 - 2023-06-09 |
-| Location | Gothenburg, Sweden |
-| Website | [Link](https://www.eucnc.eu/) |
-| Acceptance Rate | 2021: 50% <br> 2020: 50% <br> 2017: 46.06% (146/317) |
-
-## HPDC
-| Conference Name | ACM International Symposium on High Performance Distributed Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-27 |
-| Conference Date | 2023-06-16 - 2023-06-23 |
-| Location | Orlando, Florida, United States |
-| Website | [Link](https://www.hpdc.org/2023/) |
-| Acceptance Rate | 2022: 19.44% (21/108) <br> 2021: 20.65% (19/92) <br> 2020: 30.99% (22/71) <br> 2019: 20.75% (22/106) <br> 2018: 19.82% (22/111) <br> 2017: 19.00% (19/100) |
-
 ## MeditComNet
 | Conference Name | Mediterranean Communication and Computer Networking Conference |
 | :------------- | :------------- |
@@ -1212,24 +1231,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-06-13 - 2023-06-15 |
 | Location | PONZA ISLAND, ITALY |
 | Website | [Link](https://www.medcomnet.org/) |
-| Acceptance Rate | NA |
-
-## IFIP Networking
-| Conference Name | The International Federation for Information Processing (IFIP) Networking Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-30 |
-| Conference Date | 2023-06-12 - 2023-06-15 |
-| Location | Barcelona, Spain |
-| Website | [Link](https://networking.ifip.org/2023/) |
-| Acceptance Rate | 2023: 27.08% (52/192) <br> 2022: 29.38% (47/160) <br> 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
-
-## ICUFN
-| Conference Name | International Conference on Ubiquitous and Future Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2023-01-31 |
-| Conference Date | 2023-07-04 - 2023-07-07 |
-| Location | Paris, France |
-| Website | [Link](https://icufn.org/) |
 | Acceptance Rate | NA |
 
 # November 2022
