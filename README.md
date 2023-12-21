@@ -858,7 +858,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-10-10 - 2023-10-13 |
 | Location | Reykjavik, Iceland |
 | Website | [Link](https://icnp23.cs.ucr.edu/) |
-| Acceptance Rate | 2022: 21.43% (33/154) <br> 2021: 24.68% (38/154) <br> 2018: 36.46% (35/96) <br> 2017: 18.66% (39/209) |
+| Acceptance Rate | 2023: 18.78% (34/181) <br> 2022: 21.43% (33/154) <br> 2021: 24.68% (38/154) <br> 2018: 36.46% (35/96) <br> 2017: 18.66% (39/209) |
 
 # Apr. 2023
 ## EWSN
