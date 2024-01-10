@@ -14,6 +14,79 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 
 Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the new name for DCOSS; (3) The full name of EDGE changes from "IEEE International Conference on Edge Computing" to "IEEE International Conference on Edge Computing and Communications".
 
+# Feburary 2024
+## HotCloudPerf
+| Conference Name | Workshop on Hot Topics in Cloud Computing Performance |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-01 |
+| Conference Date | May, 2024 |
+| Location | London, UK |
+| Website | [Link](https://hotcloudperf.spec.org/) |
+| Acceptance Rate | 2020: 23.16% (22/95) <br> 2017: 32.76% (19/58) <br> 2016: 30.88% (21/68) |
+
+## SIGCOMM
+| Conference Name | ACM SIGCOMM Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-02 |
+| Conference Date | 2024-08-04 - 2024-08-08 |
+| Location | Sydney, Australia |
+| Website | [Link](https://conferences.sigcomm.org/sigcomm/2024/) |
+| Acceptance Rate | 2023: 21.98% (71/323) <br> 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
+
+## EWSN
+| Conference Name | International Conference on Embedded Wireless Systems and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-04 |
+| Conference Date | 2024-12-10 - 2024-12-13 |
+| Location | St. Regis Abu Dhabi, Abu Dhabi, UAE |
+| Website | [Link](https://ewsn24.tii.ae/) |
+| Acceptance Rate | 2022: 30.43% (14/46) <br> 2021: 31.82% (14/44) <br> 2020: 31.11% (14/45) <br> 2017: 36.73% (18/49) |
+
+## DisCoTec
+| Conference Name | International Federated Conference on Distributed Computing Techniques |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-09 |
+| Conference Date | 2024-06-17 - 2024-06-21 |
+| Location | Groningen, The Netherlands |
+| Website | [Link](https://www.discotec.org/2024/) |
+| Acceptance Rate | 2022: 50% (11/22) <br> 2021: 46.67% (7/15) <br> 2020: 40% (12/30) |
+
+## PIMRC
+| Conference Name | IEEE International Symposium on Personal, Indoor and Mobile Radio Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-10 |
+| Conference Date | 2024-09-02 - 2024-09-05 |
+| Location | Valencia, Spain |
+| Website | [Link](https://pimrc2024.ieee-pimrc.org/) |
+| Acceptance Rate | 2020: 50.00% (261/522) <br> 2019: 50.00% (268/536) |
+
+## BlackSeaCom
+| Conference Name | IEEE International Black Sea Conference on Communications and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-15 |
+| Conference Date | 2024-05-27 - 2024-05-30 |
+| Location | Tbilisi, Georgia |
+| Website | [Link](https://blackseacom2024.ieee-blackseacom.org/) |
+| Acceptance Rate | 2023: 48.3% (56/126) for full papers and 35.7% (5/16) for special session papers <br> 2020: 44% <br> 2019: 48.89% (44/90) |
+
+## PODC
+| Conference Name | ACM Symposium on Principles of Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-15 |
+| Conference Date | 2024-06-17 - 2024-06-21 |
+| Location | Nantes, France |
+| Website | [Link](https://www.podc.org/) |
+| Acceptance Rate | 2022: 29.85% (40/134, regular) <br> 2021: 25.58% (44/172) <br> 2020: 25.13% (47/187) <br> 2019: 27.75% (48/173) <br> 2018: 25.15% (41/163) <br> 2017: 24.68% (38/154) |
+
+## DEBS
+| Conference Name | ACM International Conference on Distributed and Event-based Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2024-02-22 |
+| Conference Date | 2024-06-25 - 2024-06-28 |
+| Location | Lyon, France |
+| Website | [Link](https://2024.debs.org/) |
+| Acceptance Rate | 2022: 52.63% (10/19) <br> 2021: 26.92% (7/26) <br> 2020: 25.58% (11/43) <br> 2019: 27.66% (13/47) <br> 2018: 38.71% (12/31) <br> 2017: 36.67% (22/60) |
+
 # January 2024
 ## IWCMC
 | Conference Name | International International Wireless Communications & Mobile Computing Conference |
