@@ -868,7 +868,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-10-16 - 2023-10-18 |
 | Location | New York, USA |
 | Website | [Link](https://mascots.iitis.pl/) |
-| Acceptance Rate | 2022: <30% <br> 2021: 32.89% (25/76) <br> 2020: 27% <br> 2019: 31.97% (39/122) <br> 2017: 30.95% (26/84) |
+| Acceptance Rate | 2023: 29% <br> 2022: <30% <br> 2021: 32.89% (25/76) <br> 2020: 27% <br> 2019: 31.97% (39/122) <br> 2017: 30.95% (26/84) |
 
 ## MILCOM
 | Conference Name | IEEE Military Communications Conference |
