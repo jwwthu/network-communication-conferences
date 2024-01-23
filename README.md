@@ -641,7 +641,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-01-04 - 2024-01-07 |
 | Location | IIT Madras, India |
 | Website | [Link](http://cse.iitm.ac.in/~icdcn2024/) |
-| Acceptance Rate | 2023: 31.34% (21/67) <br> 2022: 35.29% (24/68) <br> 2021: 35.29% (24/68) <br> 2020: 32/58% (29/89) <br> 2019: 41.05% (39/95) |
+| Acceptance Rate | 2024: 37.10% (23/62) <br> 2023: 31.34% (21/67) <br> 2022: 35.29% (24/68) <br> 2021: 35.29% (24/68) <br> 2020: 32/58% (29/89) <br> 2019: 41.05% (39/95) |
 
 ## CAMAD
 | Conference Name | IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks |
