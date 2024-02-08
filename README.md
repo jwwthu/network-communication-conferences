@@ -908,7 +908,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-12-06 - 2023-12-09 |
 | Location | Wilmington, DE |
 | Website | [Link](http://acm-ieee-sec.org/2023/) |
-| Acceptance Rate | 2022: 27.27% (21/77) <br> 2020: 21.88% (21/96) <br> 2019: 33.90% (20/59) <br> 2018: 38.33% (23/60) <br> 2017: 48.78% (20/41) <br> 2016: 52.38% (11/21) |
+| Acceptance Rate | 2023: 25.35% (18/71) <br> 2022: 27.27% (21/77) <br> 2020: 21.88% (21/96) <br> 2019: 33.90% (20/59) <br> 2018: 38.33% (23/60) <br> 2017: 48.78% (20/41) <br> 2016: 52.38% (11/21) |
 
 ## CNSM
 | Conference Name | International Conference on Network and Service Management |
@@ -1053,7 +1053,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-12-05 - 2023-12-08 |
 | Location | Taipei, Taiwan |
 | Website | [Link](http://2023.rtss.org/) |
-| Acceptance Rate | 2022: 28.90% (37/128) <br> 2021: 29.32% (39/133) <br> 2020: 20.00% (28/140) <br> 2019: 24.38% (39/160) <br> 2018: 22.29% (37/166) <br> 2017: 23.66% (31/131) |
+| Acceptance Rate | 2023: 25.40% (32/126) <br> 2022: 28.90% (37/128) <br> 2021: 29.32% (39/133) <br> 2020: 20.00% (28/140) <br> 2019: 24.38% (39/160) <br> 2018: 22.29% (37/166) <br> 2017: 23.66% (31/131) |
 
 ## IMC
 | Conference Name | Internet Measurement Conference |
