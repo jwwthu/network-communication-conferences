@@ -1276,6 +1276,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 # November 2022
 ## ISPLC
 * ISPLC has been merged into SmartGridComm since 2024.
+
 | Conference Name | IEEE International Symposium on Power Line Communications and its Applications |
 | :------------- | :------------- |
 | Submission Deadline | 2022-11-01 |
