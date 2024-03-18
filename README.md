@@ -154,6 +154,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://lanman2024.ieee-lanman.org/) |
 | Acceptance Rate | 2022: 50% (6/12) <br> 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
 
+## MobiHoc
+| Conference Name | International Symposium on Mobile Ad Hoc Networking and Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-03-31 |
+| Conference Date | 2024-10-07 - 2024-10-10 |
+| Location | Athens, Greece |
+| Website | [Link](https://www.sigmobile.org/mobihoc/2024/) |
+| Acceptance Rate | 2023: 21.90% (30/137) <br> 2022: 19.83% (24/121) <br> 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
+
 # Feburary 2024
 ## HotCloudPerf
 | Conference Name | Workshop on Hot Topics in Cloud Computing Performance |
@@ -1209,15 +1218,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Montreal, Canada |
 | Website | [Link](http://www.wimob.org/wimob2023/) |
 | Acceptance Rate | 2023: 38% <br> 2022: 40% <br> 2017: 28.10% (59/210) |
-
-## MobiHoc
-| Conference Name | International Symposium on Mobile Ad Hoc Networking and Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-03-03 |
-| Conference Date | 2023-10-23 - 2023-10-26 |
-| Location | Washington DC, USA |
-| Website | [Link](https://www.sigmobile.org/mobihoc/2023/) |
-| Acceptance Rate | 2023: 21.90% (30/137) <br> 2022: 19.83% (24/121) <br> 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
 
 ## ISCC
 | Conference Name | IEEE Symposium on Computers and Communications |
