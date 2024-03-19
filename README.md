@@ -1226,7 +1226,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-11-19 - 2023-11-22 |
 | Location | Sydney, Australia |
 | Website | [Link](https://apcc2023.org/) |
-| Acceptance Rate | 2022: 60.55% (155/256) <br> 2021: ~63.33% (~57/90) <br> 2019: 57.56% (99/172) |
+| Acceptance Rate | 2023: 64.44% (87/135) <br> 2022: 60.55% (155/256) <br> 2021: ~63.33% (~57/90) <br> 2019: 57.56% (99/172) |
 
 ## PEMWN
 | Conference Name | International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks |
