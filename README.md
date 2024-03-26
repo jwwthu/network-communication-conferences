@@ -890,7 +890,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-12-17 - 2023-12-20 |
 | Location | Jaipur, India |
 | Website | [Link](https://ants2023.ieee-ants.org/) |
-| Acceptance Rate | 2021: 39.26% (64/163) <br> 2019: 43.10% (178/413) <br> 2018: 38.94% (139/357) |
+| Acceptance Rate | 2023: 37.96% (82/216) for long papers, 21.21% (7/33) for short papers <br> 2021: 39.26% (64/163) <br> 2019: 43.10% (178/413) <br> 2018: 38.94% (139/357) |
 
 ## Mobiquitous
 | Conference Name | International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services |
