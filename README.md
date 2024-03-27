@@ -699,7 +699,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-12-17 - 2023-12-21 |
 | Location | Ocean Flower Island, Hainan, China |
 | Website | [Link](https://ieee-cybermatics.org/2023/icpads/) |
-| Acceptance Rate | 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
+| Acceptance Rate | 2023: 34.72% (192 regular research papers + 158 research papers from 1008 submissions) <br> 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
 
 ## WCNC
 | Conference Name | IEEE Wireless Communications and Networking Conference |
