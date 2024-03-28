@@ -452,7 +452,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | April 2024 |
 | Location | Bari, Italy |
 | Website | [Link](https://nossdav.org/2024/) |
-| Acceptance Rate | 2023: 28.57% (10/35) <br> 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
+| Acceptance Rate | 2024: 34.48% (10/29) <br> 2023: 28.57% (10/35) <br> 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
 
 ## RTNS
 | Conference Name | International Conference on Real-Time Networks and Systems |
