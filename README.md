@@ -726,7 +726,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-03-11 - 2024-03-15 |
 | Location | Biarritz, France |
 | Website | [Link](https://www.percom.org/) |
-| Acceptance Rate | 2023: 15.09% (24/159) <br> 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
+| Acceptance Rate | 2024: 14.56% (23/158) <br> 2023: 15.09% (24/159) <br> 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
 
 ## IPDPS
 | Conference Name | IEEE International Parallel and Distributed Processing Symposium |
