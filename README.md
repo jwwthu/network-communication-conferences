@@ -22,19 +22,83 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 * EWSN 2024
 	- WINTER DEADLINE: FEBRUARY 4, 2024
 	- SUMMER DEADLINE: JUNE 9, 2024
-* SIGMETRICS 2024
-	- Summer submission: August 9, 2023
-	- Fall submission: October 11, 2023
-	- Winter submission: January 31, 2024
-* NSDI 2024
-	- Spring deadline: May 4, 2023
-	- Fall deadline: September 14, 2023
+* SIGMETRICS 2025
+	- Summer submission: August 7, 2024
+	- Fall submission: October 9, 2024
+	- Winter submission: January 22, 2025
+* NSDI 2025
+	- Spring deadline: May 7, 2024
+	- Fall deadline: September 19
 * CoNEXT 2024
 	- November cycle: December 4th, 2023
 	- June cycle: June 14th, 2024
 * MobiCom 2024
 	- Summer: August 25, 2023
 	- Winter: March 15, 2024
+
+# August 2024
+## ACP
+| Conference Name | Asia Communications and Photonics Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-01 |
+| Conference Date | 2024-11-02 - 2024-11-05 |
+| Location | Beijing, China |
+| Website | [Link](https://www.acpconf.com/) |
+| Acceptance Rate | NA |
+
+## SIGMETRICS
+| Conference Name | ACM SIGMETRICS |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-07 |
+| Conference Date | 2025-06-09 - 2025-06-13 |
+| Location | New York, USA |
+| Website | [Link](https://www.sigmetrics.org/sigmetrics2025/) |
+| Acceptance Rate | 2023: 15.93% (54/339) <br> 2022: 19.47% (59/303) <br> 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
+
+## UCC
+| Conference Name | IEEE/ACM International Conference on Utility and Cloud Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-10 |
+| Conference Date | 2024-12-16 - 2024-12-19 |
+| Location | Sharjah, UAE |
+| Website | [Link](https://www.uccbdcat2024.org/ucc/) |
+| Acceptance Rate | 2022: 26.53% (13/49) <br> 2021: 33.87% (21/62) <br> 2019: 29.17% (28/96) <br> 2018: 20.5% <br> 2017: 26.98% (17/63) |
+
+## HPCC
+| Conference Name | IEEE International Conference on High Performance Computing and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-15 |
+| Conference Date | 2024-12-13 - 2024-12-15 |
+| Location | Wuhan, China |
+| Website | [Link](http://www.ieee-hust-ncc.org/2024/HPCC/index.html) |
+| Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
+
+## ISPACS
+| Conference Name | International Symposium on Intelligent Signal Processing and Communication Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-15 |
+| Conference Date | 2024-12-10 - 2024-12-13 |
+| Location | Kaohsiung, Taiwan |
+| Website | [Link](http://www.ieee-ispacs2024.org/date.html) |
+| Acceptance Rate | 2018: 73.88% (99/134) |
+
+## IPCCC
+| Conference Name | International Performance Computing and Communications Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-27 |
+| Conference Date | 2024-11-22 - 2024-11-24 |
+| Location | Orlando, Florida, USA |
+| Website | [Link](https://www.ipccc.org/) |
+| Acceptance Rate | 2022: 23.85% (26/109) <br> 2021: 29.08% (41/141) <br> 2020: 29.29% (29/99) <br> 2019: 28.47% (39/137) <br> 2018: 28.95% (66/228) |
+
+## UEMCON
+| Conference Name | IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-30 |
+| Conference Date | 2024-10-17 - 2024-10-19 |
+| Location | New York, USA |
+| Website | [Link](https://ieee-uemcon.org/) |
+| Acceptance Rate | NA |
 
 # July 2024
 ## CCNC
@@ -890,15 +954,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://icufn.org/) |
 | Acceptance Rate | N/A |
 
-## SIGMETRICS
-| Conference Name | ACM SIGMETRICS |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-31 |
-| Conference Date | 2024-06-10 - 2024-06-14 |
-| Location | Venice, Italy |
-| Website | [Link](https://www.sigmetrics.org/sigmetrics2024/index.html) |
-| Acceptance Rate | 2023: 15.93% (54/339) <br> 2022: 19.47% (59/303) <br> 2021: 12.06% (38/315) <br> 2020: 15.38% (44/286) <br> 2019: 15.77% (50/317) <br> 2018: 20.00% (54/270) <br> 2017: 13.30% (27/203) |
-
 # December 2023
 ## WoWMoM
 | Conference Name | IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks |
@@ -1092,15 +1147,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
 
 # September 2023
-## HPCC
-| Conference Name | IEEE International Conference on High Performance Computing and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2023-09-01 |
-| Conference Date | 2023-12-17 - 2023-12-21 |
-| Location | Ocean Flower Island, Hainan, China |
-| Website | [Link](http://www.ieee-hpcc.org/2023/) |
-| Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
-
 ## WCNC
 | Conference Name | IEEE Wireless Communications and Networking Conference |
 | :------------- | :------------- |
@@ -1138,33 +1184,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2023: 22.34% (44/197) <br> 2020: 29.63% (72/243) <br> 2018: 29.63% (56/189) |
 
 # August 2023
-## ACP
-| Conference Name | Asia Communications and Photonics Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-08-01 |
-| Conference Date | 2023-11-04 - 2023-11-07 |
-| Location | Wuhan, China |
-| Website | [Link](http://www.acpconf.com/) |
-| Acceptance Rate | N/A |
-
-## UCC
-| Conference Name | IEEE/ACM International Conference on Utility and Cloud Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-08-03 |
-| Conference Date | 2023-12-04 - 2023-12-07 |
-| Location | Taormina (Messina), Italy |
-| Website | [Link](https://ucc-conference.org/) |
-| Acceptance Rate | 2022: 26.53% (13/49) <br> 2021: 33.87% (21/62) <br> 2019: 29.17% (28/96) <br> 2018: 20.5% <br> 2017: 26.98% (17/63) |
-
-## UEMCON
-| Conference Name | IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-08-23 |
-| Conference Date | 2023-10-12 - 2023-10-14 |
-| Location | Columbia University, USA |
-| Website | [Link](https://ieee-uemcon.org/) |
-| Acceptance Rate | N/A |
-
 ## ICOIN
 | Conference Name | International Conference on Information Networking |
 | :------------- | :------------- |
@@ -1192,15 +1211,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Exeter, UK |
 | Website | [Link](https://hpcn.exeter.ac.uk/euc2023/) |
 | Acceptance Rate | 2022: 30% <br> 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
-
-## IPCCC
-| Conference Name | International Performance Computing and Communications Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-07-01 |
-| Conference Date | 2023-11-17 - 2023-11-19 |
-| Location | Anaheim, California, USA |
-| Website | [Link](https://www.ipccc.org/) |
-| Acceptance Rate | 2022: 23.85% (26/109) <br> 2021: 29.08% (41/141) <br> 2020: 29.29% (29/99) <br> 2019: 28.47% (39/137) <br> 2018: 28.95% (66/228) |
 
 ## TrustCom
 | Conference Name | IEEE International Conference on Trust, Security and Privacy in Computing and Communications |
@@ -1328,15 +1338,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | N/A |
 
 # August 2022
-## ISPACS
-| Conference Name | International Symposium on Intelligent Signal Processing and Communication Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2022-08-01 |
-| Conference Date | 2022-11-22 - 2022-11-25 |
-| Location | Penang, Malaysia |
-| Website | [Link](https://www.ispacs2022.org/) |
-| Acceptance Rate | 2018: 73.88% (99/134) |
-
 ## HotICN
 | Conference Name | International Conference on Hot Information-Centric Networking |
 | :------------- | :------------- |
