@@ -64,6 +64,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://sensys.acm.org/2024/) |
 | Acceptance Rate | 2022: 24.88% (52/209) <br> 2021: 18.0% (25/139) <br> 2020: 20.1% (43/214) <br> 2019: 19.4% (28/144) <br> 2018: 15.6% (23/147) <br> 2017: 17.1% (26/152) |
 
+## ICPADS
+| Conference Name | International Conference on Parallel and Distributed Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2024-07-07 |
+| Conference Date | 2024-10-10 - 2024-10-14 |
+| Location | Belgrade, Serbia |
+| Website | [Link](https://attend.ieee.org/icpads/) |
+| Acceptance Rate | 2023: 34.72% (192 regular research papers + 158 research papers from 1008 submissions) <br> 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
+
 ## ALLERTON
 | Conference Name | Allerton Conference on Communication, Control, and Computing |
 | :------------- | :------------- |
@@ -180,6 +189,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Bangkok, Thailand |
 | Website | [Link](https://www.icncc.org/) |
 | Acceptance Rate | NA |
+
+## INFOCOM
+| Conference Name | IEEE International Conference on Computer Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2024-07-31 |
+| Conference Date | 2025-05-19 - 2025-05-22 |
+| Location | London, United Kingdom |
+| Website | [Link](https://infocom2025.ieee-infocom.org/) |
+| Acceptance Rate | 2024: 19.59% (256/1307) <br> 2023: 19.21 % (252/1312) <br> 2022: 19.84% (224/1129) <br> 2021: 19.75% (251/1271) <br> 2020: 19.11% (267/1397) <br> 2019: 19.67% (288/1464) <br> 2018: 19.24% (309/1606) <br> 2017: 20.93% (292/1395) |
 
 # June 2024
 ## CAMAD
@@ -1083,15 +1101,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](http://www.ieee-hpcc.org/2023/) |
 | Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
 
-## ICPADS
-| Conference Name | International Conference on Parallel and Distributed Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2023-09-01 |
-| Conference Date | 2023-12-17 - 2023-12-21 |
-| Location | Ocean Flower Island, Hainan, China |
-| Website | [Link](https://ieee-cybermatics.org/2023/icpads/) |
-| Acceptance Rate | 2023: 34.72% (192 regular research papers + 158 research papers from 1008 submissions) <br> 2021: 65.73% (117/178) <br> 2020: 41.67% (65/156) <br> 2019: 27.75% (96/346) <br> 2018: 41% <br> 2017: 32.8% |
-
 ## WCNC
 | Conference Name | IEEE Wireless Communications and Networking Conference |
 | :------------- | :------------- |
@@ -1201,15 +1210,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Exeter, UK |
 | Website | [Link](https://hpcn.exeter.ac.uk/trustcom2023/) |
 | Acceptance Rate | 2022: 25% <br> 2021: 28% <br> 2020: 27.96% (130/465) |
-
-## INFOCOM
-| Conference Name | IEEE International Conference on Computer Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2023-07-31 |
-| Conference Date | 2024-05-20 - 2024-05-23 |
-| Location | Vancouver, Canada |
-| Website | [Link](https://infocom2024.ieee-infocom.org/) |
-| Acceptance Rate | 2024: 19.59% (256/1307) <br> 2023: 19.21 % (252/1312) <br> 2022: 19.84% (224/1129) <br> 2021: 19.75% (251/1271) <br> 2020: 19.11% (267/1397) <br> 2019: 19.67% (288/1464) <br> 2018: 19.24% (309/1606) <br> 2017: 20.93% (292/1395) |
 
 # June 2023
 ## PDCAT
