@@ -1182,7 +1182,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2023-11-01 - 2023-11-03 |
 | Location | Exeter, UK |
 | Website | [Link](https://hpcn.exeter.ac.uk/euc2023/) |
-| Acceptance Rate | 2021: 50% <br> 2020: 50% <br> 2017: 46.06% (146/317) |
+| Acceptance Rate | 2022: 30% <br> 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
 
 ## IPCCC
 | Conference Name | International Performance Computing and Communications Conference |
@@ -1345,16 +1345,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Guangzhou, China |
 | Website | [Link](http://hoticn.com/) |
 | Acceptance Rate | N/A |
-
-# July 2022
-## EUC
-| Conference Name | IEEE international conference on embedded and ubiquitous computing |
-| :------------- | :------------- |
-| Submission Deadline | 2022-07-01 |
-| Conference Date | 2022-10-28 - 2022-10-30 |
-| Location | Wuhan, China |
-| Website | [Link](http://ieee-hust-ncc.org/2022/EUC/) |
-| Acceptance Rate | 2022: 30% <br> 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
 
 # June 2022
 ## SOSR
