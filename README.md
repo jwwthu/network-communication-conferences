@@ -1007,7 +1007,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-06-19 - 2024-06-21 |
 | Location | TORONTO, Canada |
 | Website | [Link](https://bmsb2024.com/) |
-| Acceptance Rate | 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
+| Acceptance Rate | 2024: ~74.12% (126/170) <br> 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
 
 # November 2023
 ## ICCCS
