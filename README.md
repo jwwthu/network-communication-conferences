@@ -73,6 +73,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](http://www.ieee-hust-ncc.org/2024/HPCC/index.html) |
 | Acceptance Rate | 2021: 21.20% (71/335) + 33 short <br> 2020: 15.83% (60/379) + 82 short <br> 2019: 24.6% <br> 2017: 35.23% (62/176) + 8 poster |
 
+## NPC
+| Conference Name | Annual IFIP International Conference on Network and Parallel Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-15 |
+| Conference Date | 2024-12-07 - 2024-12-08 |
+| Location | Haikou, China |
+| Website | [Link](https://www.npc-conference.com/#/npc2024) |
+| Acceptance Rate | N/A |
+
 ## ISPACS
 | Conference Name | International Symposium on Intelligent Signal Processing and Communication Systems |
 | :------------- | :------------- |
@@ -1355,14 +1364,5 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2022-10-18 - 2022-10-20 |
 | Location | San Jose, California |
 | Website | [Link](https://conferences.sigcomm.org/sosr/2022/) |
-| Acceptance Rate | N/A |
-
-## NPC
-| Conference Name | Annual IFIP International Conference on Network and Parallel Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2022-06-30 |
-| Conference Date | 2022-09-24 - 2022-09-25 |
-| Location | Jinan, China |
-| Website | [Link](https://npc2022.jlu.edu.cn/) |
 | Acceptance Rate | N/A |
 
