@@ -118,6 +118,15 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://ieee-uemcon.org/) |
 | Acceptance Rate | NA |
 
+## WONS
+| Conference Name | Wireless On-demand Network systems and Services Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-08-31 |
+| Conference Date | 2025-01-27 - 2025-01-29 |
+| Location | Hintertux, Zillertal, Tyrol, Austria |
+| Website | [Link](https://2025.wons-conference.org/) |
+| Acceptance Rate | Long Paper: <br> 2022: 31.58% (12/38) <br> 2021: 37.04% (20/54) <br> 2019: 43.40% (23/53) <br> 2018: 39.29% (22/56) |
+
 # July 2024
 ## CCNC
 | Conference Name | IEEE Consumer Communications and Networking Conference |
@@ -1045,15 +1054,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Virtual |
 | Website | [Link](https://pam2024.cs.northwestern.edu/) |
 | Acceptance Rate | 2022: 24.19% (15/62 + 15 short) <br> 2021: 44% (33/75) <br> 2020: 29.23% (19/65) <br> 2019: 26.67% (20/75) <br> 2018: 40.82% (20/49) |
-
-## WONS
-| Conference Name | Wireless On-demand Network systems and Services Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-11-07 |
-| Conference Date | 2024-01-29 - 2024-01-31 |
-| Location | Avoriaz, France |
-| Website | [Link](http://2024.wons-conference.org/) |
-| Acceptance Rate | Long Paper: <br> 2022: 31.58% (12/38) <br> 2021: 37.04% (20/54) <br> 2019: 43.40% (23/53) <br> 2018: 39.29% (22/56) |
 
 ## AINA
 | Conference Name | International Conference on Advanced Information Networking and Applications |
