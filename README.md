@@ -28,13 +28,13 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- Winter submission: January 22, 2025
 * NSDI 2025
 	- Spring deadline: May 7, 2024
-	- Fall deadline: September 19
+	- Fall deadline: September 19, 2024
 * CoNEXT 2024
 	- November cycle: December 4th, 2023
 	- June cycle: June 14th, 2024
-* MobiCom 2024
-	- Summer: August 25, 2023
-	- Winter: March 15, 2024
+* MobiCom 2025
+	- Summer: September 5, 2024
+	- Winter: March 18, 2025
 
 # September 2024
 ## TrustCom
