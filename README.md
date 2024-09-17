@@ -36,6 +36,97 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- Summer: September 5, 2024
 	- Winter: March 18, 2025
 
+# October 2024
+## EUC
+| Conference Name | International Conferences on Embedded and Ubiquitous Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-01 |
+| Conference Date | 2024-12-17 - 2024-12-21 |
+| Location | Sanya, China |
+| Website | [Link](http://ieee-aiplus.org/2024/euc/) |
+| Acceptance Rate | 2022: 30% <br> 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
+
+## PAM
+| Conference Name | Passive and Active Measurement Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-02 |
+| Conference Date | 2025-03-10 - 2025-03-12 |
+| Location | virtual |
+| Website | [Link](https://udesa.edu.ar/pam25) |
+| Acceptance Rate | 2022: 24.19% (15/62 + 15 short) <br> 2021: 44% (33/75) <br> 2020: 29.23% (19/65) <br> 2019: 26.67% (20/75) <br> 2018: 40.82% (20/49) |
+
+## ICOIN
+| Conference Name | International Conference on Information Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-04 |
+| Conference Date | 2025-01-15 - 2025-01-17 |
+| Location | Chiang Mai, Thailand |
+| Website | [Link](https://icoin.org/) |
+| Acceptance Rate | 2022: 60.24% (100/166, 61 oral + 39 poster) <br> 2019: 69.01% (98/142, 52 oral + 46 poster) |
+
+## IPDPS
+| Conference Name | IEEE International Parallel and Distributed Processing Symposium |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-10 |
+| Conference Date | 2025-06-03 - 2025-06-07 |
+| Location | Milan, Italy |
+| Website | [Link](https://www.ipdps.org/) |
+| Acceptance Rate | 2022: 25.95% (123/474) <br> 2021: 22.73% (105/462) <br> 2020: 24.66% (110/446) <br> 2019: 27.69% (103/372) <br> 2018: 24.52% (113/461) <br> 2017: 22.83% (116/508) |
+
+## ICC
+| Conference Name | IEEE International Conference on Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-11 |
+| Conference Date | 2025-06-08 - 2025-06-12 |
+| Location | Montreal, Canada |
+| Website | [Link](https://icc2025.ieee-icc.org/) |
+| Acceptance Rate | 2023: 39.52% (1098/2778) <br> 2022: 38.04% (962/2529) <br> 2021: 40.30% (758/1881) <br> 2020: 39.88% (849/2129) <br> 2019: 39.10% (1015/2596) <br> 2018: 39.90% (970/2431) <br> 2017: 38.13% (1172/3074) |
+
+## PDP
+| Conference Name | Euromicro International Conference on Parallel, Distributed, and Network-Based Processing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-20 |
+| Conference Date | 2025-03-12 - 2025-03-14 |
+| Location | Torino, Italy |
+| Website | [Link](https://pdp2025.org/) |
+| Acceptance Rate | 2022: 37.84% (28/74) <br> 2021: 54.43% (43/79) <br> 2019: 63.73% (65/102) |
+
+## ICIN
+| Conference Name | Conference on Innovation in Clouds, Internet and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-25 |
+| Conference Date | 2025-03-11 - 2025-03-14 |
+| Location | Paris, France |
+| Website | [Link](https://www.icin-conference.org/) |
+| Acceptance Rate | 2020: 31.88% (22/69) <br> 2019: 31.34% (21/67) <br> 2018: 28.24% (24/85) <br> 2017: 32.29% (31/96) |
+
+## ICCCS
+| Conference Name | International Conference on Computer and Communication Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-30 |
+| Conference Date | 2025-04-18 - 2025-04-21 |
+| Location | Chengdu, China |
+| Website | [Link](https://www.icccs.org/) |
+| Acceptance Rate | 2022: 54.36% (162/298) <br> 2021: 53.80% (198/368) <br> 2020: 54.86% (192/350) <br> 2019: 59.84% (152/254) |
+
+## ICCPS
+| Conference Name | ACM/IEEE International Conference on Cyber-Physical Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-31 |
+| Conference Date | 2025-05-06 - 2025-05-09 |
+| Location | Irvine, California, USA |
+| Website | [Link](https://iccps.acm.org/2025/) |
+| Acceptance Rate | 2023: 25.61% (21/82) <br> 2022: 28.41% (25/88) <br> 2021: 25.97% (20/77) <br> 2020: 23.76% (24/101) <br> 2019: 22.76% (28/123) <br> 2018: 31.91% (30/94) <br> 2017: 31.33% (26/83) |
+
+## RTAS
+| Conference Name | IEEE Real-Time and Embedded Technology and Applications Symposium |
+| :------------- | :------------- |
+| Submission Deadline | 2024-10-31 |
+| Conference Date | 2025-05-06 - 2025-05-09 |
+| Location | Irvine, California, USA |
+| Website | [Link](https://2025.rtas.org/) |
+| Acceptance Rate | 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
+
 # September 2024
 ## TrustCom
 | Conference Name | IEEE International Conference on Trust, Security and Privacy in Computing and Communications |
@@ -1110,24 +1201,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2024: ~74.12% (126/170) <br> 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
 
 # November 2023
-## ICCCS
-| Conference Name | International Conference on Computer and Communication Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2023-11-01 |
-| Conference Date | 2024-04-19 - 2024-04-22 |
-| Location | Xi'an, China |
-| Website | [Link](http://www.icccs.org/) |
-| Acceptance Rate | 2022: 54.36% (162/298) <br> 2021: 53.80% (198/368) <br> 2020: 54.86% (192/350) <br> 2019: 59.84% (152/254) |
-
-## PAM
-| Conference Name | Passive and Active Measurement Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2023-11-02 |
-| Conference Date | 2024-03-11 - 2024-03-13 |
-| Location | Virtual |
-| Website | [Link](https://pam2024.cs.northwestern.edu/) |
-| Acceptance Rate | 2022: 24.19% (15/62 + 15 short) <br> 2021: 44% (33/75) <br> 2020: 29.23% (19/65) <br> 2019: 26.67% (20/75) <br> 2018: 40.82% (20/49) |
-
 ## AINA
 | Conference Name | International Conference on Advanced Information Networking and Applications |
 | :------------- | :------------- |
@@ -1156,51 +1229,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2023: 20.71% (41/198) <br> 2022: 21.59% (38/176) <br> 2021: 21.69% (36/166) <br> 2020: 19.43% (34/175) |
 
 # October 2023
-## IPDPS
-| Conference Name | IEEE International Parallel and Distributed Processing Symposium |
-| :------------- | :------------- |
-| Submission Deadline | 2023-10-05 |
-| Conference Date | 2024-05-27 - 2024-05-31 |
-| Location | San Francisco, California USA |
-| Website | [Link](https://www.ipdps.org/) |
-| Acceptance Rate | 2022: 25.95% (123/474) <br> 2021: 22.73% (105/462) <br> 2020: 24.66% (110/446) <br> 2019: 27.69% (103/372) <br> 2018: 24.52% (113/461) <br> 2017: 22.83% (116/508) |
-
-## ICIN
-| Conference Name | Conference on Innovation in Clouds, Internet and Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2023-10-08 |
-| Conference Date | 2024-03-11 - 2024-03-14 |
-| Location | Paris, France |
-| Website | [Link](https://www.icin-conference.org/) |
-| Acceptance Rate | 2020: 31.88% (22/69) <br> 2019: 31.34% (21/67) <br> 2018: 28.24% (24/85) <br> 2017: 32.29% (31/96) |
-
-## ICC
-| Conference Name | IEEE International Conference on Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2023-10-11 |
-| Conference Date | 2024-06-09 - 2024-06-13 |
-| Location | Denver, CO, USA |
-| Website | [Link](https://icc2024.ieee-icc.org/) |
-| Acceptance Rate | 2023: 39.52% (1098/2778) <br> 2022: 38.04% (962/2529) <br> 2021: 40.30% (758/1881) <br> 2020: 39.88% (849/2129) <br> 2019: 39.10% (1015/2596) <br> 2018: 39.90% (970/2431) <br> 2017: 38.13% (1172/3074) |
-
-## PDP
-| Conference Name | Euromicro International Conference on Parallel, Distributed, and Network-Based Processing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-10-16 |
-| Conference Date | 2024-03-20 - 2024-03-22 |
-| Location | Dublin |
-| Website | [Link](https://pdp2024.org/) |
-| Acceptance Rate | 2022: 37.84% (28/74) <br> 2021: 54.43% (43/79) <br> 2019: 63.73% (65/102) |
-
-## ICCPS
-| Conference Name | International Conference on Cyber-Physical Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2023-10-31 |
-| Conference Date | 2024-05-13 - 2024-05-16 |
-| Location | Hong Kong |
-| Website | [Link](https://iccps.acm.org/2024/) |
-| Acceptance Rate | 2023: 25.61% (21/82) <br> 2022: 28.41% (25/88) <br> 2021: 25.97% (20/77) <br> 2020: 23.76% (24/101) <br> 2019: 22.76% (28/123) <br> 2018: 31.91% (30/94) <br> 2017: 31.33% (26/83) |
-
 ## IoTDI
 | Conference Name | ACM/IEEE Conference on Internet of Things Design and Implementation |
 | :------------- | :------------- |
@@ -1218,35 +1246,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | HONG KONG, CHINA |
 | Website | [Link](https://ipsn.acm.org/2024/) |
 | Acceptance Rate | 2023: 26.83% (22/82) <br> 2022: 30.16% (38/126) <br> 2021: 24.53% (26/106) <br> 2020: 21.77% (27/124) <br> 2019: 27.47% (25/91) <br> 2018: 26.83% (22/82) |
-
-## RTAS
-| Conference Name | Real-Time and Embedded Technology and Applications Symposium |
-| :------------- | :------------- |
-| Submission Deadline | 2023-10-31 |
-| Conference Date | 2024-05-13 - 2024-05-16 |
-| Location | Hong Kong |
-| Website | [Link](http://2024.rtas.org/) |
-| Acceptance Rate | 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
-
-# August 2023
-## ICOIN
-| Conference Name | International Conference on Information Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2023-08-25 |
-| Conference Date | 2024-01-17 - 2024-01-19 |
-| Location | Ho Chi Minh City, Vietnam |
-| Website | [Link](https://icoin.org/) |
-| Acceptance Rate | 2022: 60.24% (100/166, 61 oral + 39 poster) <br> 2019: 69.01% (98/142, 52 oral + 46 poster) |
-
-# July 2023
-## EUC
-| Conference Name | IEEE international conference on embedded and ubiquitous computing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-07-01 |
-| Conference Date | 2023-11-01 - 2023-11-03 |
-| Location | Exeter, UK |
-| Website | [Link](https://hpcn.exeter.ac.uk/euc2023/) |
-| Acceptance Rate | 2022: 30% <br> 2021: 32% <br> 2020: 38.1% <br> 2018: 46.43% (26/56) |
 
 # June 2023
 ## ICN
