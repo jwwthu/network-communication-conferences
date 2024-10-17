@@ -71,7 +71,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-06-03 - 2025-06-07 |
 | Location | Milan, Italy |
 | Website | [Link](https://www.ipdps.org/) |
-| Acceptance Rate | 2022: 25.95% (123/474) <br> 2021: 22.73% (105/462) <br> 2020: 24.66% (110/446) <br> 2019: 27.69% (103/372) <br> 2018: 24.52% (113/461) <br> 2017: 22.83% (116/508) |
+| Acceptance Rate | 2024: 26.11% (88/337) <br> 2022: 25.95% (123/474) <br> 2021: 22.73% (105/462) <br> 2020: 24.66% (110/446) <br> 2019: 27.69% (103/372) <br> 2018: 24.52% (113/461) <br> 2017: 22.83% (116/508) |
 
 ## ICC
 | Conference Name | IEEE International Conference on Communications |
@@ -80,7 +80,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-06-08 - 2025-06-12 |
 | Location | Montreal, Canada |
 | Website | [Link](https://icc2025.ieee-icc.org/) |
-| Acceptance Rate | 2023: 39.52% (1098/2778) <br> 2022: 38.04% (962/2529) <br> 2021: 40.30% (758/1881) <br> 2020: 39.88% (849/2129) <br> 2019: 39.10% (1015/2596) <br> 2018: 39.90% (970/2431) <br> 2017: 38.13% (1172/3074) |
+| Acceptance Rate | 2024: 39.72% (939/2364) <br> 2023: 39.52% (1098/2778) <br> 2022: 38.04% (962/2529) <br> 2021: 40.30% (758/1881) <br> 2020: 39.88% (849/2129) <br> 2019: 39.10% (1015/2596) <br> 2018: 39.90% (970/2431) <br> 2017: 38.13% (1172/3074) |
 
 ## PDP
 | Conference Name | Euromicro International Conference on Parallel, Distributed, and Network-Based Processing |
@@ -125,7 +125,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-05-06 - 2025-05-09 |
 | Location | Irvine, California, USA |
 | Website | [Link](https://2025.rtas.org/) |
-| Acceptance Rate | 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
+| Acceptance Rate | 2024: 23.39% (29/124) <br> 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
 
 # September 2024
 ## TrustCom
@@ -416,7 +416,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-12-20 - 2024-12-22 |
 | Location | Harbin, China |
 | Website | [Link](https://ieee-msn.org/2024/) |
-| Acceptance Rate | 2022: 27.31% (62/227) <br> 2021: 38.20% (68/178) <br> 2020: 37.02% (67/181) <br> 2019: 50% (46/92) |
+| Acceptance Rate | 2023: 39.39% (91/231) <br> 2022: 27.31% (62/227) <br> 2021: 38.20% (68/178) <br> 2020: 37.02% (67/181) <br> 2019: 50% (46/92) |
 
 ## CloudNet
 | Conference Name | IEEE International Conference on Cloud Networking |
@@ -698,7 +698,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-11-10 - 2024-11-13 |
 | Location | Ottawa, Canada |
 | Website | [Link](https://wfiot2024.iot.ieee.org/) |
-| Acceptance Rate | 2021: 64.31% (164/255) <br> 2018: 49.49% (145/293) |
+| Acceptance Rate | 2023: 51.02% (100/196) <br> 2021: 64.31% (164/255) <br> 2018: 49.49% (145/293) |
 
 ## NaNA
 | Conference Name | International Conference on Networking and Network Applications |
@@ -734,7 +734,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-09-10 - 2024-09-13 |
 | Location | Cape Town, South Africa |
 | Website | [Link](https://spawc2024.org/) |
-| Acceptance Rate | 2017: 69.53% (178/256) |
+| Acceptance Rate | 2024: 35.41% (91/257) <br> 2017: 69.53% (178/256) |
 
 ## ISNCC
 | Conference Name | International Symposium on Networks, Computers and Communications |
@@ -770,7 +770,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-10-08 - 2024-10-10 |
 | Location | Caen, Normandy, France |
 | Website | [Link](https://www.ieeelcn.org/) |
-| Acceptance Rate | 2023: 26.67% (28/105) <br> 2022: 26.26% (26/99) <br> 2021: 19.44% (35/180) <br> 2020: 22.96% (31/135) <br> 2019: 28.89% (39/135) <br> 2018: 27.95% (45/161) <br> 2017: 28.43% (56/197) |
+| Acceptance Rate | 2024: 26.52% (35/132) <br> 2023: 26.67% (28/105) <br> 2022: 26.26% (26/99) <br> 2021: 19.44% (35/180) <br> 2020: 22.96% (31/135) <br> 2019: 28.89% (39/135) <br> 2018: 27.95% (45/161) <br> 2017: 28.43% (56/197) |
 
 ## VTC
 | Conference Name | IEEE Vehicular Technology Conference |
@@ -844,7 +844,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-05-21 - 2024-05-24 |
 | Location | Dresden, Germany |
 | Website | [Link](https://tma.ifip.org/2024/) |
-| Acceptance Rate | 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
+| Acceptance Rate | 2024: 39.47% (15/38) <br> 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
 
 ## APNet
 | Conference Name | Asia-Pacific Workshop on Networking |
@@ -944,7 +944,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-08-04 - 2024-08-08 |
 | Location | Sydney, Australia |
 | Website | [Link](https://conferences.sigcomm.org/sigcomm/2024/) |
-| Acceptance Rate | 2023: 21.98% (71/323) <br> 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
+| Acceptance Rate | 2024: 16.94% (62/366) <br> 2023: 21.98% (71/323) <br> 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
 
 ## EWSN
 | Conference Name | International Conference on Embedded Wireless Systems and Networks |
@@ -1062,7 +1062,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-04-29 - 2024-05-01 |
 | Location | Abu Dhabi, United Arab Emirates |
 | Website | [Link](https://dcoss.org/) |
-| Acceptance Rate | 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
+| Acceptance Rate | 2024: 37% (37/100, 27 full papers + 10 short papers) 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
 
 ## USENIX ATC
 | Conference Name | USENIX Annual Technical Conference |
@@ -1080,7 +1080,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-07-16 - 2024-07-19 |
 | Location | New Jersey, USA |
 | Website | [Link](https://icdcs2024.icdcs.org/) |
-| Acceptance Rate | 2023: 18.91% (83/439) <br> 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
+| Acceptance Rate | 2024: 21.92% (121/552) <br> 2023: 18.91% (83/439) <br> 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
 
 ## MeditComNet
 | Conference Name | Mediterranean Communication and Computer Networking Conference |
@@ -1153,7 +1153,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-06-04 - 2024-06-07 |
 | Location | PERTH, WESTERN AUSTRALIA |
 | Website | [Link](https://www.cse.unsw.edu.au/~wowmom/2024/index.html) |
-| Acceptance Rate | 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
+| Acceptance Rate | 2024: 34.18% (27/79) <br> 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
 
 ## CCGrid
 | Conference Name | IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing |
@@ -1162,7 +1162,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-05-06 - 2024-05-09 |
 | Location | Philadelphia |
 | Website | [Link](https://2024.ccgrid-conference.org/) |
-| Acceptance Rate | 2023: 21.09% (58/275) <br> 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
+| Acceptance Rate | 2024: 26.29% (51/194) <br> 2023: 21.09% (58/275) <br> 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
 
 ## ICFEC
 | Conference Name | IEEE International Conference on Fog and Edge Computing |
@@ -1217,7 +1217,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-05-12 - 2024-05-16 |
 | Location | Washington, DC |
 | Website | [Link](https://dyspan2024.ieee-dyspan.org/) |
-| Acceptance Rate | N/A |
+| Acceptance Rate | 2024: 56.32% (49/87, 40 regular and 9 short papers) |
 
 ## MobiSys
 | Conference Name | ACM International Conference on Mobile Systems, Applications, and Services |
