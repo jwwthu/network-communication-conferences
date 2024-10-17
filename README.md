@@ -39,6 +39,34 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- Nov 21st, 2024
 	- May 15th, 2025
 
+# November 2024
+## AINA
+| Conference Name | International Conference on Advanced Information Networking and Applications |
+| :------------- | :------------- |
+| Submission Deadline | 2024-11-05 |
+| Conference Date | 2025-04-09 - 2025-04-11 |
+| Location | Barcelona, Spain |
+| Website | [Link](https://voyager.ce.fit.ac.jp/conf/aina/2025/) |
+| Acceptance Rate | N/A |
+
+## IMC
+| Conference Name | ACM Internet Measurement Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2024-11-21 |
+| Conference Date | 2025-10-28 - 2025-10-31 |
+| Location | Madison, WI, USA |
+| Website | [Link](https://conferences.sigcomm.org/imc/2025/) |
+| Acceptance Rate | 2022: long 26.57% (38/143); short 26.09% (18/69) <br> 2021: 27.04% (53/196) <br> 2020: 24.54% (53/216) <br> 2019: 19.80% (39/197) <br> 2018: 24.71% (43/174) <br> 2017: 22.34% (42/188) |
+
+## WoWMoM
+| Conference Name | IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2024-11-22 |
+| Conference Date | 2025-05-27 - 2025-05-30 |
+| Location | Fort Worth, Texas |
+| Website | [Link](https://wowmomconference2025.uta.edu/) |
+| Acceptance Rate | 2024: 34.18% (27/79) <br> 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
+
 # October 2024
 ## EUC
 | Conference Name | International Conferences on Embedded and Ubiquitous Computing |
@@ -603,15 +631,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://www.disc-conference.org/wp/disc2024/) |
 | Acceptance Rate | 2020: 22.94% (39/170) <br> 2019: 23.45% (34/145) <br> 2018: 23.60% (38/161) <br> 2017: 24.38% (39/160) |
 
-## IMC
-| Conference Name | ACM Internet Measurement Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-15 |
-| Conference Date | 2024-11-04 - 2024-11-06 |
-| Location | Madrid, Spain |
-| Website | [Link](https://conferences.sigcomm.org/imc/2024/) |
-| Acceptance Rate | 2022: long 26.57% (38/143); short 26.09% (18/69) <br> 2021: 27.04% (53/196) <br> 2020: 24.54% (53/216) <br> 2019: 19.80% (39/197) <br> 2018: 24.71% (43/174) <br> 2017: 22.34% (42/188) |
-
 ## WiMob
 | Conference Name | IEEE International Conference on Wireless and Mobile Computing Networking and Communications |
 | :------------- | :------------- |
@@ -1149,15 +1168,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | N/A |
 
 # December 2023
-## WoWMoM
-| Conference Name | IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2023-12-01 |
-| Conference Date | 2024-06-04 - 2024-06-07 |
-| Location | PERTH, WESTERN AUSTRALIA |
-| Website | [Link](https://www.cse.unsw.edu.au/~wowmom/2024/index.html) |
-| Acceptance Rate | 2024: 34.18% (27/79) <br> 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
-
 ## CCGrid
 | Conference Name | IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing |
 | :------------- | :------------- |
@@ -1204,15 +1214,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2024: ~74.12% (126/170) <br> 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
 
 # November 2023
-## AINA
-| Conference Name | International Conference on Advanced Information Networking and Applications |
-| :------------- | :------------- |
-| Submission Deadline | 2023-11-15 |
-| Conference Date | 2024-04-17 - 2024-04-19 |
-| Location | Kitakyushu, Japan |
-| Website | [Link](http://voyager.ce.fit.ac.jp/conf/aina/2024/) |
-| Acceptance Rate | N/A |
-
 ## DySPAN
 | Conference Name | IEEE International Symposium on Dynamic Spectrum Access Networks |
 | :------------- | :------------- |
