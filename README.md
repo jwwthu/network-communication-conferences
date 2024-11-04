@@ -1056,7 +1056,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-06-26 - 2024-06-29 |
 | Location | Paris, France |
 | Website | [Link](https://2024.ieee-iscc.org/) |
-| Acceptance Rate | 2023: 36.90% (155/420) + 43 posters/demos <br> 2022: 43.79% (127/290) <br> 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
+| Acceptance Rate | 2024: 39.45% (86/218) <br> 2023: 36.90% (155/420) <br> 2022: 43.79% (127/290) <br> 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
 
 # January 2024
 ## IWCMC
