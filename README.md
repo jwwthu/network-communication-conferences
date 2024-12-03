@@ -19,9 +19,9 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- 1st Round: January 26, 2024
 	- 2nd Round: June 7, 2024
 	- 3rd Round: August 16, 2024
-* EWSN 2024
-	- WINTER DEADLINE: FEBRUARY 4, 2024
-	- SUMMER DEADLINE: JUNE 9, 2024
+* EWSN 2025
+	- WINTER DEADLINE: December 16, 2024
+	- SPRING DEADLINE: April 24, 2025
 * SIGMETRICS 2025
 	- Summer submission: August 7, 2024
 	- Fall submission: October 9, 2024
