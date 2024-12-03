@@ -39,6 +39,79 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- Nov 21st, 2024
 	- May 15th, 2025
 
+# December 2024
+## DSN
+| Conference Name | IEEE/IFIP International Conference on Dependable Systems and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-04 |
+| Conference Date | 2025-06-23 - 2025-06-26 |
+| Location | Naples, Italy |
+| Website | [Link](https://dsn2025.github.io/) |
+| Acceptance Rate | 2022: 18.7% (49/262) <br> 2021: 16.27% (48/295) <br> 2020: 16.49% (48/291) <br> 2019: 21.43% (54/252) <br> 2018: 27.19% (62/228) |
+
+## BMSB
+| Conference Name | IEEE International Symposium on Broadband Multimedia Systems and Broadcasting |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-06 |
+| Conference Date | 2025-06-11 - 2025-06-13 |
+| Location | Dublin City University, Ireland |
+| Website | [Link](https://www.eeng.dcu.ie/~bmsb2025/) |
+| Acceptance Rate | 2024: ~74.12% (126/170) <br> 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
+
+## MobiSys
+| Conference Name | ACM International Conference on Mobile Systems, Applications, and Services |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-09 |
+| Conference Date | 2025-06-23 - 2025-06-27 |
+| Location | Anaheim, California, US |
+| Website | [Link](https://www.sigmobile.org/mobisys/2025/) |
+| Acceptance Rate | 2023: 20.71% (41/198) <br> 2022: 21.59% (38/176) <br> 2021: 21.69% (36/166) <br> 2020: 19.43% (34/175) |
+
+## ICDCS
+| Conference Name | IEEE International Conference on Distributed Computing Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-11 |
+| Conference Date | 2025-07-20 - 2025-07-23 |
+| Location | Glasgow, Scotland |
+| Website | [Link](https://icdcs2025.icdcs.org/) |
+| Acceptance Rate | 2024: 21.92% (121/552) <br> 2023: 18.91% (83/439) <br> 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
+
+## CCGrid
+| Conference Name | IEEE/ACM International Symposium on Cluster, Cloud, and Internet Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-13 |
+| Conference Date | 2025-05-19 - 2025-05-22 |
+| Location | Tromsø, Norway |
+| Website | [Link](https://site.uit.no/ccgrid2025/) |
+| Acceptance Rate | 2024: 26.29% (51/194) <br> 2023: 21.09% (58/275) <br> 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
+
+## DySPAN
+| Conference Name | IEEE International Symposium on Dynamic Spectrum Access Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-15 |
+| Conference Date | 2025-05-12 - 2025-05-15 |
+| Location | London, United Kingdom |
+| Website | [Link](https://dyspan2025.ieee-dyspan.org/) |
+| Acceptance Rate | 2024: 56.32% (49/87, 40 regular and 9 short papers) |
+
+## EWSN
+| Conference Name | International Conference on Embedded Wireless Systems and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-16 |
+| Conference Date | 2025-09-22 - 2025-09-24 |
+| Location | Leuven, Belgium |
+| Website | [Link](https://www.ewsn25.cs.kuleuven.be/) |
+| Acceptance Rate | 2022: 30.43% (14/46) <br> 2021: 31.82% (14/44) <br> 2020: 31.11% (14/45) <br> 2017: 36.73% (18/49) |
+
+## ITC
+| Conference Name | International Teletraffic Congress |
+| :------------- | :------------- |
+| Submission Deadline | 2024-12-16 |
+| Conference Date | 2025-05-26 - 2025-05-30 |
+| Location | Trondheim |
+| Website | [Link](https://itc36.itc-conference.org/) |
+| Acceptance Rate | 2021: 40.74% (11/27) <br> 2020: 34.48% (20/58) <br> 2019: 44.12% (15/34) <br> 2018: 39.13% (18/46) <br> 2017: 30.77% (28/91) |
+
 # November 2024
 ## AINA
 | Conference Name | International Conference on Advanced Information Networking and Applications |
@@ -968,15 +1041,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://conferences.sigcomm.org/sigcomm/2024/) |
 | Acceptance Rate | 2024: 16.94% (62/366) <br> 2023: 21.98% (71/323) <br> 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
 
-## EWSN
-| Conference Name | International Conference on Embedded Wireless Systems and Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-04 |
-| Conference Date | 2024-12-10 - 2024-12-13 |
-| Location | St. Regis Abu Dhabi, Abu Dhabi, UAE |
-| Website | [Link](https://ewsn24.tii.ae/) |
-| Acceptance Rate | 2022: 30.43% (14/46) <br> 2021: 31.82% (14/44) <br> 2020: 31.11% (14/45) <br> 2017: 36.73% (18/49) |
-
 ## DisCoTec
 | Conference Name | International Federated Conference on Distributed Computing Techniques |
 | :------------- | :------------- |
@@ -1095,15 +1159,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://www.usenix.org/conference/atc24) |
 | Acceptance Rate | 2022: 16.5% (64/394) <br> 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
 
-## ICDCS
-| Conference Name | IEEE International Conference on Distributed Computing Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-19 |
-| Conference Date | 2024-07-16 - 2024-07-19 |
-| Location | New Jersey, USA |
-| Website | [Link](https://icdcs2024.icdcs.org/) |
-| Acceptance Rate | 2024: 21.92% (121/552) <br> 2023: 18.91% (83/439) <br> 2022: 19.72% (113/573) <br> 2021: 19.84% (97/489) <br> 2020: 17.98% (105/584) <br> 2019: 19.61% (131/668) <br> 2018: 20.63% (78/378) <br> 2017: 16.76% (89/531) |
-
 ## MeditComNet
 | Conference Name | Mediterranean Communication and Computer Networking Conference |
 | :------------- | :------------- |
@@ -1168,15 +1223,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | N/A |
 
 # December 2023
-## CCGrid
-| Conference Name | IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-12-04 |
-| Conference Date | 2024-05-06 - 2024-05-09 |
-| Location | Philadelphia |
-| Website | [Link](https://2024.ccgrid-conference.org/) |
-| Acceptance Rate | 2024: 26.29% (51/194) <br> 2023: 21.09% (58/275) <br> 2022: 24.83% (75/302) <br> 2021: 26.09% (60/230) <br> 2020: 28.21% (66/234) <br> 2018: 20.80% (52/250) |
-
 ## ICFEC
 | Conference Name | IEEE International Conference on Fog and Edge Computing |
 | :------------- | :------------- |
@@ -1186,15 +1232,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://icfec2024.ontariotechu.ca/) |
 | Acceptance Rate | 2022: 19.15% (9/47) <br> 2021: 17.07% (7/41) |
 
-## DSN
-| Conference Name | IEEE/IFIP International Conference on Dependable Systems and Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2023-12-06 |
-| Conference Date | 2024-06-24 - 2024-06-27 |
-| Location | Brisbane, Australia |
-| Website | [Link](https://dsn2024uq.github.io/) |
-| Acceptance Rate | 2022: 18.7% (49/262) <br> 2021: 16.27% (48/295) <br> 2020: 16.49% (48/291) <br> 2019: 21.43% (54/252) <br> 2018: 27.19% (62/228) |
-
 ## DRCN
 | Conference Name | International Conference on the Design of Reliable Communication Networks |
 | :------------- | :------------- |
@@ -1203,34 +1240,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Montréal, Québec, Canada |
 | Website | [Link](https://drcn-conference.vercel.app/) |
 | Acceptance Rate | 2022: 43.48% (10/23) <br> 2021: 41.67% (20/48) <br> 2020: 42.86% (24/56) <br> 2019: 39.47% (15/38) <br> 2018: 38.46% (10/26) |
-
-## BMSB
-| Conference Name | IEEE International Symposium on Broadband Multimedia Systems and Broadcasting |
-| :------------- | :------------- |
-| Submission Deadline | 2023-12-21 |
-| Conference Date | 2024-06-19 - 2024-06-21 |
-| Location | TORONTO, Canada |
-| Website | [Link](https://bmsb2024.com/) |
-| Acceptance Rate | 2024: ~74.12% (126/170) <br> 2023: 78.39% (243/310) <br> 2021: 79.19% (118/149) <br> 2018: 75.78% (122/161) |
-
-# November 2023
-## DySPAN
-| Conference Name | IEEE International Symposium on Dynamic Spectrum Access Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2023-11-21 |
-| Conference Date | 2024-05-12 - 2024-05-16 |
-| Location | Washington, DC |
-| Website | [Link](https://dyspan2024.ieee-dyspan.org/) |
-| Acceptance Rate | 2024: 56.32% (49/87, 40 regular and 9 short papers) |
-
-## MobiSys
-| Conference Name | ACM International Conference on Mobile Systems, Applications, and Services |
-| :------------- | :------------- |
-| Submission Deadline | 2023-11-30 |
-| Conference Date | 2024-06-03 - 2024-06-07 |
-| Location | Tokyo, Japan |
-| Website | [Link](https://www.sigmobile.org/mobisys/2024/) |
-| Acceptance Rate | 2023: 20.71% (41/198) <br> 2022: 21.59% (38/176) <br> 2021: 21.69% (36/166) <br> 2020: 19.43% (34/175) |
 
 # October 2023
 ## IoTDI
@@ -1297,15 +1306,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Evanston/Chicago, USA |
 | Website | [Link](https://performance2023.sciencesconf.org/) |
 | Acceptance Rate | 2021: 26.83% (22/82) <br> 2020: 23.53% (24/102) |
-
-## ITC
-| Conference Name | International Teletraffic Congress |
-| :------------- | :------------- |
-| Submission Deadline | 2023-05-30 |
-| Conference Date | 2023-10-03 - 2023-10-05 |
-| Location | Politecnico di Torino, Italy |
-| Website | [Link](https://itc35.itc-conference.org/) |
-| Acceptance Rate | 2021: 40.74% (11/27) <br> 2020: 34.48% (20/58) <br> 2019: 44.12% (15/34) <br> 2018: 39.13% (18/46) <br> 2017: 30.77% (28/91) |
 
 # Apr. 2023
 ## ICSPCS
