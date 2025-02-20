@@ -39,6 +39,10 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- Nov 21st, 2024
 	- May 15th, 2025
 
+* ACM WiSec 2025
+	- First Cycle deadline: Nov 21, 2024
+	- Second Cycle deadline: Mar 12, 2025
+
 # December 2024
 ## DSN
 | Conference Name | IEEE/IFIP International Conference on Dependable Systems and Networks |
