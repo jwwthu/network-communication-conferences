@@ -1321,16 +1321,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://icspcs.io.pbs.edu.pl/) |
 | Acceptance Rate | NA |
 
-# Mar. 2023
-## ISNCC
-| Conference Name | International Symposium on Networks, Computers and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2023-03-19 |
-| Conference Date | 2023-10-23 - 2023-10-26 |
-| Location | Doha, Qatar |
-| Website | [Link](https://www.isncc-conf.org/) |
-| Acceptance Rate | 2021: 44% <br> 2020: 45% <br> 2019: 37% <br> 2018: 38% <br> 2017: 36% |
-
 # November 2022
 ## ISPLC
 * ISPLC has been merged into SmartGridComm since 2024.
