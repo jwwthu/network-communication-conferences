@@ -15,10 +15,10 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the new name for DCOSS; (3) The full name of EDGE changes from "IEEE International Conference on Edge Computing" to "IEEE International Conference on Edge Computing and Communications"; (4) Before 2023, IEEE SSE was known as IEEE SCC (Services Computing), held since 2004; (5) As of 2024, the IEEE ISPLC will be held as a symposium within IEEE SmartGridComm; (6) IFIP Performance 2024 joins ACM SIGMETRICS 2024; (7) From 2025, ACM SenSys, ACM/IEEE IPSN, and ACM/IEEE IoTDI are combined into a single premier event under the new name: SenSys: Embedded Artificial Intelligence and Sensing Systems.
 
 <b>Footnote: Some conferences have multiple deadlines per year</b>.
-* RTNS 2024
-	- 1st Round: January 26, 2024
-	- 2nd Round: June 7, 2024
-	- 3rd Round: August 16, 2024
+* RTNS 2025
+	- 1st Round: January 30, 2025
+	- 2nd Round: May 29, 2025
+	- 3rd Round: August 14, 2025
 * EWSN 2025
 	- WINTER DEADLINE: December 16, 2024
 	- SPRING DEADLINE: April 24, 2025
@@ -29,9 +29,9 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 * NSDI 2025
 	- Spring deadline: May 7, 2024
 	- Fall deadline: September 19, 2024
-* CoNEXT 2024
-	- November cycle: December 4th, 2023
-	- June cycle: June 14th, 2024
+* CoNEXT 2025
+	- November cycle: December 5th, 2024
+	- June cycle: TBA
 * MobiCom 2025
 	- Summer: September 5, 2024
 	- Winter: March 18, 2025
