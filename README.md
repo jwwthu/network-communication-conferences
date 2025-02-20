@@ -43,6 +43,370 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- First Cycle deadline: Nov 21, 2024
 	- Second Cycle deadline: Mar 12, 2025
 
+
+# March 2025
+## CLOUD
+| Conference Name | IEEE International Conference on Cloud Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-03 |
+| Conference Date | 2025-07-07 - 2025-07-12 |
+| Location | Helsinki, Finland |
+| Website | [Link](https://services.conferences.computer.org/2025/cloud/) |
+| Acceptance Rate | 2023: 20.56% (37/180) <br> 2022: 22.40% (43/192) <br> 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
+
+## EDGE
+| Conference Name | IEEE International Conference on Edge Computing and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-03 |
+| Conference Date | 2025-07-07 - 2025-07-12 |
+| Location | Helsinki, Finland |
+| Website | [Link](https://services.conferences.computer.org/2025/edge/) |
+| Acceptance Rate | 2023: 16.83% (17 full/101) + 18 short + 3 work-in-progress <br> 2022: 28.57% (18/63)<br> 2020: 29.50% (18/61) <br> 2018: 18.00% (9/50) |
+
+## SSE
+| Conference Name | IEEE International Conference on Software Services Engineering |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-03 |
+| Conference Date | 2025-07-07 - 2025-07-12 |
+| Location | Helsinki, Finland |
+| Website | [Link](https://services.conferences.computer.org/2025/sse/) |
+| Acceptance Rate | 2020: 21.80% (41/191) <br> 2019: 20.00% (20/100) <br> 2018: 20.00% (27/135) |
+
+## MeditCom
+| Conference Name | IEEE International Mediterranean Conference on Communications and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-03 |
+| Conference Date | 2025-07-07 - 2025-07-10 |
+| Location | Nice, France |
+| Website | [Link](https://meditcom2025.ieee-meditcom.org/) |
+| Acceptance Rate | 2023: 52.63% (60/114) |
+
+## IFIP Networking
+| Conference Name | The International Federation for Information Processing (IFIP) Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-07 |
+| Conference Date | May 2025 |
+| Location | Limassol, Cyprus |
+| Website | [Link](https://networking.ifip.org/2025/) |
+| Acceptance Rate | 2024: 24.62% (48/195) <br> 2023: 27.08% (52/192) <br> 2022: 29.38% (47/160) <br> 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
+
+## Euro-Par
+| Conference Name | International European Conference on Parallel and Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-09 |
+| Conference Date | 2025-08-25 - 2025-08-29 |
+| Location | Dresden, Germany |
+| Website | [Link](https://2025.euro-par.org/) |
+| Acceptance Rate | 2022: 24.51% (25/102) <br> 2021: 27.94% (38/136) <br> 2020: 24.68% (39/158) |
+
+## ACM WiSec
+| Conference Name | ACM Conference on Security and Privacy in Wireless and Mobile Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-12 |
+| Conference Date | 2025-06-30 - 2025-07-03 |
+| Location | Arlington, Virginia, USA |
+| Website | [Link](https://wisec2025.gmu.edu/) |
+| Acceptance Rate | 2024: 15.97% (23/144) <br> 2023: 20.15% (27/134) |
+
+## APNet
+| Conference Name | Asia-Pacific Workshop on Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-13 |
+| Conference Date | 2025-08-07 - 2025-08-08 |
+| Location | Shanghai, China |
+| Website | [Link](https://conferences.sigcomm.org/events/apnet2025/) |
+| Acceptance Rate | N/A |
+
+## VTC
+| Conference Name | IEEE Vehicular Technology Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-15 |
+| Conference Date | 2025-10-19 - 2025-10-22 |
+| Location | Chengdu, China |
+| Website | [Link](https://events.vtsociety.org/vtc2025-fall/) |
+| Acceptance Rate | 2023-Fall: 61.61% (374/607) <br> 2023-Spring: ~63.53% (540/850) <br> 2022-Spring: 62.59% (614/981) <br> 2021-Fall: 55.88% (461/825) <br> 2021-Spring: 59.26% (387/653) <br> 2020-Fall: 48.48% (350/722) |
+
+## PIMRC
+| Conference Name | IEEE International Symposium on Personal, Indoor and Mobile Radio Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-16 |
+| Conference Date | 2025-09-01 - 2025-09-04 |
+| Location | Istanbul, Türkiye |
+| Website | [Link](https://pimrc2025.ieee-pimrc.org/) |
+| Acceptance Rate | 2020: 50.00% (261/522) <br> 2019: 50.00% (268/536) |
+
+## MobiCom
+| Conference Name | Annual International Conference on Mobile Computing and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-18 |
+| Conference Date | 2025-11-04 - 2025-11-08 |
+| Location | Hong Kong, China |
+| Website | [Link](https://www.sigmobile.org/mobicom/2025/) |
+| Acceptance Rate | 2020: 16.15% (62/384) <br> 2019: 17.75% (33/186) <br> 2018: 16.85% (30/178) |
+
+## TMA
+| Conference Name | Network Traffic Measurement and Analysis Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-21 |
+| Conference Date | 2025-06-10 - 2025-06-13 |
+| Location | Copenhagen, Denmark |
+| Website | [Link](https://tma.ifip.org/2025/) |
+| Acceptance Rate | 2024: 39.47% (15/38) <br> 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
+
+## ICCC
+| Conference Name | IEEE/CIC International Conference on Communications in China |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-24 |
+| Conference Date | 2025-08-10 - 2025-08-13 |
+| Location | Shanghai, China |
+| Website | [Link](https://iccc2025.ieee-iccc.org/) |
+| Acceptance Rate | N/A |
+
+## MobiHoc
+| Conference Name | International Symposium on Mobile Ad Hoc Networking and Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-30 |
+| Conference Date | 2025-10-27 - 2025-10-30 |
+| Location | Houston, USA |
+| Website | [Link](https://www.sigmobile.org/mobihoc/2025/) |
+| Acceptance Rate | 2023: 21.90% (30/137) <br> 2022: 19.83% (24/121) <br> 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
+
+## SPAWC
+| Conference Name | IEEE Workshop on Signal Processing Advances in Wireless Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-31 |
+| Conference Date | 2025-07-07 - 2025-07-10 |
+| Location | Surrey, UK |
+| Website | [Link](https://2025.ieeespawc.org/) |
+| Acceptance Rate | 2024: 35.41% (91/257) <br> 2017: 69.53% (178/256) |
+
+## WF-IoT
+| Conference Name | IEEE World Forum on Internet of Things |
+| :------------- | :------------- |
+| Submission Deadline | 2025-03-31 |
+| Conference Date | 2025-10-27 - 2025-10-30 |
+| Location | Chengdu, China |
+| Website | [Link](https://wfiot2025.iot.ieee.org/) |
+| Acceptance Rate | 2023: 51.02% (100/196) <br> 2021: 64.31% (164/255) <br> 2018: 49.49% (145/293) |
+
+# February 2025
+## MedComNet
+| Conference Name | Mediterranean Communication and Computer Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-03 |
+| Conference Date | 2025-06-25 - 2025-06-27 |
+| Location | Cagliari, Italy |
+| Website | [Link](https://www.medcomnet.org/) |
+| Acceptance Rate | N/A |
+
+## DEBS
+| Conference Name | ACM International Conference on Distributed and Event-based Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-07 |
+| Conference Date | 2025-06-10 - 2025-06-13 |
+| Location | Gothenburg, Sweden |
+| Website | [Link](https://2025.debs.org/) |
+| Acceptance Rate | 2022: 52.63% (10/19) <br> 2021: 26.92% (7/26) <br> 2020: 25.58% (11/43) <br> 2019: 27.66% (13/47) <br> 2018: 38.71% (12/31) <br> 2017: 36.67% (22/60) |
+
+## DisCoTec
+| Conference Name | International Federated Conference on Distributed Computing Techniques |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-07 |
+| Conference Date | 2025-06-16 - 2025-06-20 |
+| Location | Lille, France |
+| Website | [Link](https://www.discotec.org/2025/) |
+| Acceptance Rate | 2022: 50% (11/22) <br> 2021: 46.67% (7/15) <br> 2020: 40% (12/30) |
+
+## PODC
+| Conference Name | ACM Symposium on Principles of Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-08 |
+| Conference Date | 2025-06-16 - 2025-06-20 |
+| Location | Huatulco, Mexico |
+| Website | [Link](https://www.podc.org/) |
+| Acceptance Rate | 2022: 29.85% (40/134, regular) <br> 2021: 25.58% (44/172) <br> 2020: 25.13% (47/187) <br> 2019: 27.75% (48/173) <br> 2018: 25.15% (41/163) <br> 2017: 24.68% (38/154) |
+
+## BlackSeaCom
+| Conference Name | IEEE International Black Sea Conference on Communications and Networking |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-10 |
+| Conference Date | 2025-06-23 - 2025-06-26 |
+| Location | Chisinau, Moldova |
+| Website | [Link](https://blackseacom2025.ieee-blackseacom.org/) |
+| Acceptance Rate | 2023: 48.3% (56/126) for full papers and 35.7% (5/16) for special session papers <br> 2020: 44% <br> 2019: 48.89% (44/90) |
+
+## ICCCN
+| Conference Name | International Conference on Computer Communications and Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-13 |
+| Conference Date | 2025-08-04 - 2025-08-07 |
+| Location | Tokyo, Japan |
+| Website | [Link](http://www.icccn.org/) |
+| Acceptance Rate | 2023: 26.92% (49/182) <br> 2022: 30% (39/130) <br> 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
+
+## ICUFN
+| Conference Name | International Conference on Ubiquitous and Future Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-14 |
+| Conference Date | 2025-07-08 - 2025-07-11 |
+| Location | Iscte - University Institute of Lisbon, Lisbon, Portugal |
+| Website | [Link](https://icufn.org/) |
+| Acceptance Rate | N/A |
+
+## IWQOS
+| Conference Name | IEEE/ACM International Symposium on Quality of Service |
+| :------------- | :------------- |
+| Submission Deadline | 2025-02-16 |
+| Conference Date | 2025-07-02 - 2025-07-04 |
+| Location | Gold Coast, Australia |
+| Website | [Link](https://iwqos2025.ieee-iwqos.org/) |
+| Acceptance Rate | 2022: 23.48% (62/264) <br> 2020: 29% <br> 2018: 20.80% (26/125) + 25 short  |
+
+# January 2025
+## NetSoft
+| Conference Name | IEEE International Conference on Network Softwarization |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-07 |
+| Conference Date | 2025-06-23 - 2025-06-27 |
+| Location | Budapest, Hungary |
+| Website | [Link](https://netsoft2025.ieee-netsoft.org/) |
+| Acceptance Rate | 2023: 23.8% <br> 2022: 24.7% <br> 2021: 49.33% (74/150) |
+
+## ICFEC
+| Conference Name | IEEE International Conference on Fog and Edge Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-10 |
+| Conference Date | 2025-05-19 - 2025-05-22 |
+| Location | Tromsø, Norway |
+| Website | [Link](https://icfec2025.ontariotechu.ca/) |
+| Acceptance Rate | 2022: 19.15% (9/47) <br> 2021: 17.07% (7/41) |
+
+## ISCC
+| Conference Name | IEEE Symposium on Computers and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-10 |
+| Conference Date | 2025-07-02 - 2025-07-05 |
+| Location | Bologna Italy |
+| Website | [Link](https://ieee-iscc.computer.org/2025/) |
+| Acceptance Rate | 2024: 39.45% (86/218) <br> 2023: 36.90% (155/420) <br> 2022: 43.79% (127/290) <br> 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
+
+## USENIX ATC
+| Conference Name | USENIX Annual Technical Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-14 |
+| Conference Date | 2025-07-07 - 2025-07-09 |
+| Location | Boston, MA, USA |
+| Website | [Link](https://www.usenix.org/conference/atc25) |
+| Acceptance Rate | 2022: 16.5% (64/394) <br> 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
+
+## HPSR
+| Conference Name | IEEE International Conference on High Performance Switching and Routing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-15 |
+| Conference Date | 2025-05-20 - 2025-05-22 |
+| Location | Suita, Osaka, Japan |
+| Website | [Link](https://hpsr2025.ieee-hpsr.org/) |
+| Acceptance Rate | N/A |
+
+## IWCMC
+| Conference Name | International International Wireless Communications & Mobile Computing Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-15 |
+| Conference Date | 2025-05-12 - 2025-05-16 |
+| Location | Marriott Hotel Downtown, Abu Dhabi, UAE |
+| Website | [Link](https://iwcmc.net/2025/index.php) |
+| Acceptance Rate | 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
+
+## VNC
+| Conference Name | IEEE Vehicular Networking Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-15 |
+| Conference Date | 2025-06-02 - 2025-06-04 |
+| Location | Porto, Portugal |
+| Website | [Link](https://vnc2025.ieee-vnc.org/) |
+| Acceptance Rate | 2023:~44% <br> 2021: ~40% |
+
+## NOSSDAV
+| Conference Name | International Workshop on Network and Operating Systems Support for Digital Audio and Video |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-17 |
+| Conference Date | 2025-03-31 - 2025-04-03 |
+| Location | Stellenbosch, South Africa |
+| Website | [Link](https://nossdav.org/2025/) |
+| Acceptance Rate | 2024: 34.48% (10/29) <br> 2023: 28.57% (10/35) <br> 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
+
+## DRCN
+| Conference Name | International Conference on the Design of Reliable Communication Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-20 |
+| Conference Date | 2025-05-12 - 2025-05-15 |
+| Location | Ningbo, China |
+| Website | [Link](http://drcn2025.cn/) |
+| Acceptance Rate | 2022: 43.48% (10/23) <br> 2021: 41.67% (20/48) <br> 2020: 42.86% (24/56) <br> 2019: 39.47% (15/38) <br> 2018: 38.46% (10/26) |
+
+## HPDC
+| Conference Name | ACM International Symposium on High Performance Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-23 |
+| Conference Date | 2025-07-20 - 2025-07-23 |
+| Location | Notre Dame, IN, USA |
+| Website | [Link](http://hpdc.sci.utah.edu/2025/) |
+| Acceptance Rate | 2022: 19.44% (21/108) <br> 2021: 20.65% (19/92) <br> 2020: 30.99% (22/71) <br> 2019: 20.75% (22/106) <br> 2018: 19.82% (22/111) <br> 2017: 19.00% (19/100) |
+
+## EuCNC
+| Conference Name | European Conference on Networks and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-24 |
+| Conference Date | 2025-06-03 - 2025-06-06 |
+| Location | Poznan, Poland |
+| Website | [Link](https://www.eucnc.eu/) |
+| Acceptance Rate | 2021: 50% <br> 2020: 50% <br> 2017: 46.06% (146/317) |
+
+## HotCloudPerf
+| Conference Name | Workshop on Hot Topics in Cloud Computing Performance |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-24 |
+| Conference Date | 2025-05-05 - 2025-05-09 |
+| Location | Toronto, Canada |
+| Website | [Link](https://hotcloudperf.spec.org/) |
+| Acceptance Rate | 2020: 23.16% (22/95) <br> 2017: 32.76% (19/58) <br> 2016: 30.88% (21/68) |
+
+## DCOSS-IoT
+| Conference Name | International Conference on Distributed Computing in Smart Systems and the Internet of Things |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-27 |
+| Conference Date | 2025-06-09 - 2025-06-11 |
+| Location | Tuscany (Lucca), Italy |
+| Website | [Link](https://dcoss.org/) |
+| Acceptance Rate | 2024: 37% (37/100, 27 full papers + 10 short papers) 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
+
+## RTNS
+| Conference Name | International Conference on Real-Time Networks and Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-30 |
+| Conference Date | 2025-11-05 - 2025-11-07 |
+| Location | Pisa, Italy |
+| Website | [Link](https://rtns2025.retis.santannapisa.it/) |
+| Acceptance Rate | 2023: 61.76% (21/34) <br> 2022: 48.84% (21/43) <br> 2019: 54.05% (20/37) |
+
+## SIGCOMM
+| Conference Name | ACM SIGCOMM Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-31 |
+| Conference Date | 2025-09-08 - 2025-09-11 |
+| Location | Coimbra, Portugal |
+| Website | [Link](https://conferences.sigcomm.org/sigcomm/2025/) |
+| Acceptance Rate | 2024: 16.94% (62/366) <br> 2023: 21.98% (71/323) <br> 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
+
+## WASA
+| Conference Name | International Conference on Wireless Algorithms, Systems, and Applications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-01-31 |
+| Conference Date | 2025-06-24 - 2025-06-26 |
+| Location | Tokyo, Japan |
+| Website | [Link](http://wasa-conference.org/WASA2025/) |
+| Acceptance Rate | N/A |
+
 # December 2024
 ## DSN
 | Conference Name | IEEE/IFIP International Conference on Dependable Systems and Networks |
@@ -772,15 +1136,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2019: 37.93% (11/29) <br> 2018: 40.00% (12/30) <br> 2017: 35.85% (19/53) |
 
 # April 2024
-## ICCC
-| Conference Name | IEEE/CIC lnternational Conference on Communications in China |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-01 |
-| Conference Date | 2024-08-07 - 2024-08-09 |
-| Location | Hangzhou, China |
-| Website | [Link](https://iccc2024.ieee-iccc.org/) |
-| Acceptance Rate | NA |
-
 ## GLOBECOM
 | Conference Name | IEEE Global Communications Conference |
 | :------------- | :------------- |
@@ -789,15 +1144,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Cape Town, South Africa |
 | Website | [Link](https://globecom2024.ieee-globecom.org/) |
 | Acceptance Rate | 2022: 39.6% <br> 2021: 29.62% (908/2292) <br> 2020: 38.45% (914/2377) <br> 2019: 36.97% (1094/2959) <br> 2018: 38.99% (999/2562) <br> 2017: 39.01% (1026/2630) |
-
-## WF-IoT
-| Conference Name | IEEE World Forum on Internet of Things |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-01 |
-| Conference Date | 2024-11-10 - 2024-11-13 |
-| Location | Ottawa, Canada |
-| Website | [Link](https://wfiot2024.iot.ieee.org/) |
-| Acceptance Rate | 2023: 51.02% (100/196) <br> 2021: 64.31% (164/255) <br> 2018: 49.49% (145/293) |
 
 ## NaNA
 | Conference Name | International Conference on Networking and Network Applications |
@@ -825,15 +1171,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Oslo, Norway |
 | Website | [Link](https://sgc2024.ieee-smartgridcomm.org/) |
 | Acceptance Rate | 2023: 94/~200 |
-
-## SPAWC
-| Conference Name | IEEE Workshop on Signal Processing Advances in Wireless Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-11 |
-| Conference Date | 2024-09-10 - 2024-09-13 |
-| Location | Cape Town, South Africa |
-| Website | [Link](https://spawc2024.org/) |
-| Acceptance Rate | 2024: 35.41% (91/257) <br> 2017: 69.53% (178/256) |
 
 ## ISNCC
 | Conference Name | International Symposium on Networks, Computers and Communications |
@@ -871,15 +1208,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://www.ieeelcn.org/) |
 | Acceptance Rate | 2024: 26.52% (35/132) <br> 2023: 26.67% (28/105) <br> 2022: 26.26% (26/99) <br> 2021: 19.44% (35/180) <br> 2020: 22.96% (31/135) <br> 2019: 28.89% (39/135) <br> 2018: 27.95% (45/161) <br> 2017: 28.43% (56/197) |
 
-## VTC
-| Conference Name | IEEE Vehicular Technology Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-22 |
-| Conference Date | 2024-10-07 - 2024-10-10 |
-| Location | Washington DC, USA |
-| Website | [Link](https://events.vtsociety.org/vtc2024-fall/) |
-| Acceptance Rate | 2023-Fall: 61.61% (374/607) <br> 2023-Spring: ~63.53% (540/850) <br> 2022-Spring: 62.59% (614/981) <br> 2021-Fall: 55.88% (461/825) <br> 2021-Spring: 59.26% (387/653) <br> 2020-Fall: 48.48% (350/722) |
-
 ## CLUSTER
 | Conference Name | IEEE International Conference on Cluster Computing |
 | :------------- | :------------- |
@@ -890,115 +1218,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | 2024: 26.90% (39/145) <br> 2023: 23.85% (31/130) <br> 2022: 23.76% (43/181) <br> 2021: 29.27% (48/164) <br> 2020: 24.24% (32/132) <br> 2019: 27.66% (39/141) <br> 2018: 28.57% (44/154) <br> 2017: 21.66% (47/217) |
 
 # March 2024
-
-## WASA
-| Conference Name  | International Conference on Wireless Algorithms, Systems, and Applications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-01|
-| Conference Date | 2024-06-21 - 2024-06-23 |
-| Location | Qingdao, China |
-| Website | [Link](http://wasa-conference.org/WASA2024/) |
-| Acceptance Rate | N/A |
-
-## HPSR
-| Conference Name | IEEE International Conference on High Performance Switching and Routing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-01 |
-| Conference Date | 2024-07-22 - 2024-07-24 |
-| Location | Pisa, Italy |
-| Website | [Link](https://hpsr2024.ieee-hpsr.org/) |
-| Acceptance Rate | NA |
-
-## ICCCN
-| Conference Name | International Conference on Computer Communications and Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-01 |
-| Conference Date | 2024-07-29 - 2024-07-31 |
-| Location | Big Island, Hawaii, USA |
-| Website | [Link](http://www.icccn.org/) |
-| Acceptance Rate | 2023: 26.92% (49/182) <br> 2022: 30% (39/130) <br> 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
-
-## VNC
-| Conference Name | IEEE Vehicular Networking Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-01 |
-| Conference Date | 2024-05-29 - 2024-05-31 |
-| Location | Kobe, Japan |
-| Website | [Link](https://ieee-vnc.org/2024/) |
-| Acceptance Rate | 2023:~44% <br> 2021: ~40% |
-
-## MeditCom
-| Conference Name | IEEE International Mediterranean Conference on Communications and Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-03 |
-| Conference Date | 2024-07-08 - 2024-07-11 |
-| Location | Madrid, Spain |
-| Website | [Link](https://meditcom2024.ieee-meditcom.org/) |
-| Acceptance Rate | 2023: 52.63% (60/114) |
-
-## TMA
-| Conference Name | Network Traffic Measurement and Analysis Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-08 |
-| Conference Date | 2024-05-21 - 2024-05-24 |
-| Location | Dresden, Germany |
-| Website | [Link](https://tma.ifip.org/2024/) |
-| Acceptance Rate | 2024: 39.47% (15/38) <br> 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
-
-## APNet
-| Conference Name | Asia-Pacific Workshop on Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-15 |
-| Conference Date | 2024-08-03 - 2024-08-04 |
-| Location | Sydney, Australia |
-| Website | [Link](https://conferences.sigcomm.org/events/apnet2024/) |
-| Acceptance Rate | NA |
-
-## MobiCom
-| Conference Name | Annual International Conference on Mobile Computing and Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-15 |
-| Conference Date | 2024-09-30 - 2024-10-04 |
-| Location | Washington, D.C., USA |
-| Website | [Link](https://www.sigmobile.org/mobicom/2024/) |
-| Acceptance Rate | 2020: 16.15% (62/384) <br> 2019: 17.75% (33/186) <br> 2018: 16.85% (30/178) |
-
-## CLOUD
-| Conference Name | IEEE International Conference on Cloud Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-17 |
-| Conference Date | Summer 2024 |
-| Location | Shenzhen, China |
-| Website | [Link](https://cloud.conferences.computer.org/2024/) |
-| Acceptance Rate | 2023: 20.56% (37/180) <br> 2022: 22.40% (43/192) <br> 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
-
-## EDGE
-| Conference Name | IEEE International Conference on Edge Computing and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-17 |
-| Conference Date | Summer 2024 |
-| Location | Shenzhen, China |
-| Website | [Link](https://edge.conferences.computer.org/2024/) |
-| Acceptance Rate | 2023: 16.83% (17 full/101) + 18 short + 3 work-in-progress <br> 2022: 28.57% (18/63)<br> 2020: 29.50% (18/61) <br> 2018: 18.00% (9/50) |
-
-## SSE
-| Conference Name | IEEE International Conference on Software Services Engineering |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-17 |
-| Conference Date | Summer 2024 |
-| Location | Shenzhen, China |
-| Website | [Link](https://sse.conferences.computer.org/2024/) |
-| Acceptance Rate | 2020: 21.80% (41/191) <br> 2019: 20.00% (20/100) <br> 2018: 20.00% (27/135) |
-
-## Euro-Par
-| Conference Name | International European Conference on Parallel and Distributed Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-25 |
-| Conference Date | 2024-08-26 - 2024-08-30 |
-| Location | Madrid, Spain |
-| Website | [Link](https://2024.euro-par.org/) |
-| Acceptance Rate | 2022: 24.51% (25/102) <br> 2021: 27.94% (38/136) <br> 2020: 24.68% (39/158) |
-
 ## COINS
 | Conference Name | IEEE International Conference on Omni-layer Intelligent Systems |
 | :------------- | :------------- |
@@ -1017,43 +1236,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://lanman2024.ieee-lanman.org/) |
 | Acceptance Rate | 2022: 50% (6/12) <br> 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
 
-## MobiHoc
-| Conference Name | International Symposium on Mobile Ad Hoc Networking and Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-31 |
-| Conference Date | 2024-10-07 - 2024-10-10 |
-| Location | Athens, Greece |
-| Website | [Link](https://www.sigmobile.org/mobihoc/2024/) |
-| Acceptance Rate | 2023: 21.90% (30/137) <br> 2022: 19.83% (24/121) <br> 2021: 20.14% (28/139) <br> 2019: 23.72% (37/156) <br> 2017: 15.88% (27/170) |
-
 # Feburary 2024
-## HotCloudPerf
-| Conference Name | Workshop on Hot Topics in Cloud Computing Performance |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-01 |
-| Conference Date | May, 2024 |
-| Location | London, UK |
-| Website | [Link](https://hotcloudperf.spec.org/) |
-| Acceptance Rate | 2020: 23.16% (22/95) <br> 2017: 32.76% (19/58) <br> 2016: 30.88% (21/68) |
-
-## SIGCOMM
-| Conference Name | ACM SIGCOMM Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-02 |
-| Conference Date | 2024-08-04 - 2024-08-08 |
-| Location | Sydney, Australia |
-| Website | [Link](https://conferences.sigcomm.org/sigcomm/2024/) |
-| Acceptance Rate | 2024: 16.94% (62/366) <br> 2023: 21.98% (71/323) <br> 2022: 19.64% (55/280) <br> 2021: 53.57% (30/56) <br> 2020: 21.60% (54/250) <br> 2019: 14.48% (32/221) <br> 2018: 18.18% (40/220) <br> 2017: 14.40% (36/250) |
-
-## DisCoTec
-| Conference Name | International Federated Conference on Distributed Computing Techniques |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-09 |
-| Conference Date | 2024-06-17 - 2024-06-21 |
-| Location | Groningen, The Netherlands |
-| Website | [Link](https://www.discotec.org/2024/) |
-| Acceptance Rate | 2022: 50% (11/22) <br> 2021: 46.67% (7/15) <br> 2020: 40% (12/30) |
-
 ## CIoT
 | Conference Name  | Conference on Cloud and Internet of Things |
 | :------------- | :------------- |
@@ -1063,33 +1246,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://cseit2024.org/ciot/index) |
 | Acceptance Rate | 2022: 55.9% <br> 2020: 45.00% (9/20) |
 
-## PIMRC
-| Conference Name | IEEE International Symposium on Personal, Indoor and Mobile Radio Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-10 |
-| Conference Date | 2024-09-02 - 2024-09-05 |
-| Location | Valencia, Spain |
-| Website | [Link](https://pimrc2024.ieee-pimrc.org/) |
-| Acceptance Rate | 2020: 50.00% (261/522) <br> 2019: 50.00% (268/536) |
-
-## BlackSeaCom
-| Conference Name | IEEE International Black Sea Conference on Communications and Networking |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-15 |
-| Conference Date | 2024-05-27 - 2024-05-30 |
-| Location | Tbilisi, Georgia |
-| Website | [Link](https://blackseacom2024.ieee-blackseacom.org/) |
-| Acceptance Rate | 2023: 48.3% (56/126) for full papers and 35.7% (5/16) for special session papers <br> 2020: 44% <br> 2019: 48.89% (44/90) |
-
-## PODC
-| Conference Name | ACM Symposium on Principles of Distributed Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-15 |
-| Conference Date | 2024-06-17 - 2024-06-21 |
-| Location | Nantes, France |
-| Website | [Link](https://www.podc.org/) |
-| Acceptance Rate | 2022: 29.85% (40/134, regular) <br> 2021: 25.58% (44/172) <br> 2020: 25.13% (47/187) <br> 2019: 27.75% (48/173) <br> 2018: 25.15% (41/163) <br> 2017: 24.68% (38/154) |
-
 ## SMC
 | Conference Name | IEEE International Conference on Systems, Man, and Cybernetics |
 | :------------- | :------------- |
@@ -1098,152 +1254,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Borneo Convention Centre Kuching, Sarawak, Malaysia |
 | Website | [Link](https://www.ieeesmc2024.org/) |
 | Acceptance Rate | 2022: 55.44% (545/983) <br> 2020: 61.74% (689/1116) <br> 2019: 60.61% (734/1211) <br> 2018: 57.40% (741/1291) <br> 2017: 50.00% (650/1300) |
-
-## IWQOS
-| Conference Name | IEEE/ACM International Symposium on Quality of Service |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-19 |
-| Conference Date | 2024-06-19 - 2024-06-21 |
-| Location | Guangzhou, China |
-| Website | [Link](https://iwqos2024.ieee-iwqos.org/) |
-| Acceptance Rate | 2022: 23.48% (62/264) <br> 2020: 29% <br> 2018: 20.80% (26/125) + 25 short  |
-
-## DEBS
-| Conference Name | ACM International Conference on Distributed and Event-based Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-22 |
-| Conference Date | 2024-06-25 - 2024-06-28 |
-| Location | Lyon, France |
-| Website | [Link](https://2024.debs.org/) |
-| Acceptance Rate | 2022: 52.63% (10/19) <br> 2021: 26.92% (7/26) <br> 2020: 25.58% (11/43) <br> 2019: 27.66% (13/47) <br> 2018: 38.71% (12/31) <br> 2017: 36.67% (22/60) |
-
-## ISCC
-| Conference Name | IEEE Symposium on Computers and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-23 |
-| Conference Date | 2024-06-26 - 2024-06-29 |
-| Location | Paris, France |
-| Website | [Link](https://2024.ieee-iscc.org/) |
-| Acceptance Rate | 2024: 39.45% (86/218) <br> 2023: 36.90% (155/420) <br> 2022: 43.79% (127/290) <br> 2021: 39.02% (119/305) <br> 2019: 36.43% (149/409) |
-
-# January 2024
-## IWCMC
-| Conference Name | International International Wireless Communications & Mobile Computing Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-10 |
-| Conference Date | 2024-05-27 - 2024-05-31 |
-| Location | Adams Beach Hotel, Cyprus |
-| Website | [Link](https://iwcmc.net/2024/index.php) |
-| Acceptance Rate | 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
-
-## NetSoft
-| Conference Name | IEEE International Conference on Network Softwarization |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-12 |
-| Conference Date | 2024-06-24 - 2024-06-28 |
-| Location | St. Louis, USA |
-| Website | [Link](https://netsoft2024.ieee-netsoft.org/) |
-| Acceptance Rate | 2023: 23.8% <br> 2022: 24.7% <br> 2021: 49.33% (74/150) |
-
-## DCOSS-IoT
-| Conference Name | International Conference on Distributed Computing in Smart Systems and the Internet of Things |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-15 |
-| Conference Date | 2024-04-29 - 2024-05-01 |
-| Location | Abu Dhabi, United Arab Emirates |
-| Website | [Link](https://dcoss.org/) |
-| Acceptance Rate | 2024: 37% (37/100, 27 full papers + 10 short papers) 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
-
-## USENIX ATC
-| Conference Name | USENIX Annual Technical Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-16 |
-| Conference Date | 2024-07-10 - 2024-07-12 |
-| Location | SANTA CLARA, CA, USA |
-| Website | [Link](https://www.usenix.org/conference/atc24) |
-| Acceptance Rate | 2022: 16.5% (64/394) <br> 2021: 18.77% (64/341) <br> 2020: 18.68% (65/348) <br> 2019: 19.94% (71/356) <br> 2018: 20.16% (76/377) <br> 2017: 21.20% (60/283) |
-
-## MeditComNet
-| Conference Name | Mediterranean Communication and Computer Networking Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-21 |
-| Conference Date | 2024-06-11 - 2024-06-13 |
-| Location | NIZZA, FRANCE |
-| Website | [Link](https://www.medcomnet.org/) |
-| Acceptance Rate | NA |
-
-## HPDC
-| Conference Name | ACM International Symposium on High Performance Distributed Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-25 |
-| Conference Date | 2024-06-03 - 2024-06-07 |
-| Location | Pisa, Italy |
-| Website | [Link](https://www.hpdc.org/2024/) |
-| Acceptance Rate | 2022: 19.44% (21/108) <br> 2021: 20.65% (19/92) <br> 2020: 30.99% (22/71) <br> 2019: 20.75% (22/106) <br> 2018: 19.82% (22/111) <br> 2017: 19.00% (19/100) |
-
-## EuCNC
-| Conference Name | European Conference on Networks and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-26 |
-| Conference Date | 2024-06-03 - 2024-06-06 |
-| Location | Antwerp, Belgium |
-| Website | [Link](https://www.eucnc.eu/) |
-| Acceptance Rate | 2021: 50% <br> 2020: 50% <br> 2017: 46.06% (146/317) |
-
-## NOSSDAV
-| Conference Name | International Workshop on Network and Operating Systems Support for Digital Audio and Video |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-26 |
-| Conference Date | April 2024 |
-| Location | Bari, Italy |
-| Website | [Link](https://nossdav.org/2024/) |
-| Acceptance Rate | 2024: 34.48% (10/29) <br> 2023: 28.57% (10/35) <br> 2022: 31.58% (12/38) <br> 2021: 28.85% (15/52) <br> 2020: 45.45% (10/22) |
-
-## RTNS
-| Conference Name | International Conference on Real-Time Networks and Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-26 |
-| Conference Date | 2024-11-07 - 2024-11-08 |
-| Location | Porto, Portugal |
-| Website | [Link](https://cister-labs.pt/rtns24/) |
-| Acceptance Rate | 2023: 61.76% (21/34) <br> 2022: 48.84% (21/43) <br> 2019: 54.05% (20/37) |
-
-## IFIP Networking
-| Conference Name | The International Federation for Information Processing (IFIP) Networking Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-30 |
-| Conference Date | 2024-06-03 - 2024-06-06 |
-| Location | Thessaloniki, Greece |
-| Website | [Link](https://networking.ifip.org/2024/) |
-| Acceptance Rate | 2024: 24.62% (48/195) <br> 2023: 27.08% (52/192) <br> 2022: 29.38% (47/160) <br> 2021: 25.95% (41/158) <br> 2020: 23.40% (55/235) <br> 2019: 28.57% (32/112) <br> 2018: 24.44% (55/225) <br> 2017: 28.67% (43/150) |
-
-## ICUFN
-| Conference Name | International Conference on Ubiquitous and Future Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2024-01-31 |
-| Conference Date | 2024-07-02 - 2024-07-05 |
-| Location | Budapest, Hungary |
-| Website | [Link](https://icufn.org/) |
-| Acceptance Rate | N/A |
-
-# December 2023
-## ICFEC
-| Conference Name | IEEE International Conference on Fog and Edge Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2023-12-04 |
-| Conference Date | 2024-05-06 - 2024-05-09 |
-| Location | Philadelphia, USA |
-| Website | [Link](https://icfec2024.ontariotechu.ca/) |
-| Acceptance Rate | 2022: 19.15% (9/47) <br> 2021: 17.07% (7/41) |
-
-## DRCN
-| Conference Name | International Conference on the Design of Reliable Communication Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2023-12-15 |
-| Conference Date | 2024-05-06 - 2024-05-09 |
-| Location | Montréal, Québec, Canada |
-| Website | [Link](https://drcn-conference.vercel.app/) |
-| Acceptance Rate | 2022: 43.48% (10/23) <br> 2021: 41.67% (20/48) <br> 2020: 42.86% (24/56) <br> 2019: 39.47% (15/38) <br> 2018: 38.46% (10/26) |
 
 # October 2023
 ## IoTDI
