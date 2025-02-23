@@ -52,7 +52,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-07-07 - 2025-07-12 |
 | Location | Helsinki, Finland |
 | Website | [Link](https://services.conferences.computer.org/2025/cloud/) |
-| Acceptance Rate | 2023: 20.56% (37/180) <br> 2022: 22.40% (43/192) <br> 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
+| Acceptance Rate | 2024: 19.37% (37/191) <br> 2023: 20.56% (37/180) <br> 2022: 22.40% (43/192) <br> 2021: 23.81% (25/105) <br> 2020: 20.70% (53/256) <br> 2019: 20.86% (29/139) <br> 2018: 19% <br> 2017: 18% |
 
 ## EDGE
 | Conference Name | IEEE International Conference on Edge Computing and Communications |
