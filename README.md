@@ -242,7 +242,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-08-04 - 2025-08-07 |
 | Location | Tokyo, Japan |
 | Website | [Link](http://www.icccn.org/) |
-| Acceptance Rate | 2023: 26.92% (49/182) <br> 2022: 30% (39/130) <br> 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
+| Acceptance Rate | 2024: 29.94% (47/157) <br> 2023: 26.92% (49/182) <br> 2022: 30% (39/130) <br> 2021: 29.38% (57/194) <br> 2020: 27.14% (73/269) <br> 2019: 28.57% (50/175) <br> 2018: 29.19% (54/185) <br> 2017: 25% |
 
 ## ICUFN
 | Conference Name | International Conference on Ubiquitous and Future Networks |
