@@ -43,6 +43,114 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- First Cycle deadline: Nov 21, 2024
 	- Second Cycle deadline: Mar 12, 2025
 
+# April 2025
+## GLOBECOM
+| Conference Name | IEEE Global Communications Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-01 |
+| Conference Date | 2025-12-08 - 2025-12-12 |
+| Location | Taipei, Taiwan |
+| Website | [Link](https://globecom2025.ieee-globecom.org/) |
+| Acceptance Rate | 2022: 39.6% <br> 2021: 29.62% (908/2292) <br> 2020: 38.45% (914/2377) <br> 2019: 36.97% (1094/2959) <br> 2018: 38.99% (999/2562) <br> 2017: 39.01% (1026/2630) |
+
+## LANMAN
+| Conference Name | IEEE International Symposium on Local and Metropolitan Area Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-04 |
+| Conference Date | 2025-07-07 - 2025-07-08 |
+| Location | Lille, France |
+| Website | [Link](https://lanman2025.ieee-lanman.org/) |
+| Acceptance Rate | 2022: 50% (6/12) <br> 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
+
+## SMC
+| Conference Name | IEEE International Conference on Systems, Man, and Cybernetics |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-04 |
+| Conference Date | 2025-10-05 - 2025-10-08 |
+| Location | Vienna, Austria |
+| Website | [Link](https://www.ieeesmc2025.org/) |
+| Acceptance Rate | 2022: 55.44% (545/983) <br> 2020: 61.74% (689/1116) <br> 2019: 60.61% (734/1211) <br> 2018: 57.40% (741/1291) <br> 2017: 50.00% (650/1300) |
+
+## NaNA
+| Conference Name | International Conference on Networking and Network Applications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-06 |
+| Conference Date | 2025-08-08 - 2025-08-11 |
+| Location | Tashkent City, Uzbekistan |
+| Website | [Link](http://www.nana-conference.org/) |
+| Acceptance Rate | NA |
+
+## SmartGridComm
+| Conference Name | IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-07 |
+| Conference Date | 2025-09-29 - 2025-10-02 |
+| Location | Toronto, Canada |
+| Website | [Link](https://sgc2025.ieee-smartgridcomm.org/) |
+| Acceptance Rate | 2023: 94/~200 |
+
+## COINS
+| Conference Name | IEEE International Conference on Omni-layer Intelligent Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-08 |
+| Conference Date | 2025-08-04 - 2025-08-06 |
+| Location | University of Wisconsin鈥揗adison, USA |
+| Website | [Link](https://coinsconf.com/) |
+| Acceptance Rate | 2022: 32% |
+
+## ISNCC
+| Conference Name | International Symposium on Networks, Computers and Communications |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-13 |
+| Conference Date | 2025-10-27 - 2025-10-30 |
+| Location | Paris, France |
+| Website | [Link](https://www.isncc-conf.org/) |
+| Acceptance Rate | 2021: 44% <br> 2020: 45% <br> 2019: 37% <br> 2018: 38% <br> 2017: 36% |
+
+## MASS
+| Conference Name | IEEE International Conference on Mobile Ad-Hoc and Smart Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-15 |
+| Conference Date | 2025-10-06 - 2025-10-08 |
+| Location | Chicago, USA |
+| Website | [Link](https://ieeemass2025.github.io/ieeemass2025/) |
+| Acceptance Rate | 2023: 27.6% <br> 2022: 29.17% (21/72, regular) <br> 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
+
+## ICPP
+| Conference Name | International Conference on Parallel Processing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-21 |
+| Conference Date | 2025-09-08 - 2025-09-11 |
+| Location | San Diego, CA, USA |
+| Website | [Link](https://icpp2025.sdsc.edu/) |
+| Acceptance Rate | 2022: 28.85% (88/305) <br> 2021: 26.75% (88/329) <br> 2020: 29.00% (78/269) <br> 2019: 26.17% (106/405) <br> 2018: 29.07% (91/313) |
+
+## IC2E
+| Conference Name | IEEE International Conference on Cloud Engineering |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-24 |
+| Conference Date | 2025-09-23 - 2025-09-26 |
+| Location | Rennes, France |
+| Website | [Link](https://conferences.computer.org/IC2E/2025/) |
+| Acceptance Rate | 2021: 30.23% (13/43) |
+
+## CLUSTER
+| Conference Name | IEEE International Conference on Cluster Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-25 |
+| Conference Date | 2025-09-02 - 2025-09-05 |
+| Location | Edinburgh, United Kingdom |
+| Website | [Link](https://clustercomp.org/2025/) |
+| Acceptance Rate | 2024: 26.90% (39/145) <br> 2023: 23.85% (31/130) <br> 2022: 23.76% (43/181) <br> 2021: 29.27% (48/164) <br> 2020: 24.24% (32/132) <br> 2019: 27.66% (39/141) <br> 2018: 28.57% (44/154) <br> 2017: 21.66% (47/217) |
+
+## LCN
+| Conference Name | IEEE Conference on Local Computer Networks |
+| :------------- | :------------- |
+| Submission Deadline | 2025-04-27 |
+| Conference Date | 2025-10-14 - 2025-10-16 |
+| Location | Sydney, Australia |
+| Website | [Link](https://www.ieeelcn.org/) |
+| Acceptance Rate | 2024: 26.52% (35/132) <br> 2023: 26.67% (28/105) <br> 2022: 26.26% (26/99) <br> 2021: 19.44% (35/180) <br> 2020: 22.96% (31/135) <br> 2019: 28.89% (39/135) <br> 2018: 27.95% (45/161) <br> 2017: 28.43% (56/197) |
 
 # March 2025
 ## CLOUD
@@ -1135,107 +1243,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](https://sites.google.com/view/pemwn2024) |
 | Acceptance Rate | 2019: 37.93% (11/29) <br> 2018: 40.00% (12/30) <br> 2017: 35.85% (19/53) |
 
-# April 2024
-## GLOBECOM
-| Conference Name | IEEE Global Communications Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-01 |
-| Conference Date | 2024-12-08 - 2024-12-12 |
-| Location | Cape Town, South Africa |
-| Website | [Link](https://globecom2024.ieee-globecom.org/) |
-| Acceptance Rate | 2022: 39.6% <br> 2021: 29.62% (908/2292) <br> 2020: 38.45% (914/2377) <br> 2019: 36.97% (1094/2959) <br> 2018: 38.99% (999/2562) <br> 2017: 39.01% (1026/2630) |
-
-## NaNA
-| Conference Name | International Conference on Networking and Network Applications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-06 |
-| Conference Date | 2024-08-09 - 2024-08-12 |
-| Location | Yinchuan City, China |
-| Website | [Link](http://www.nana-conference.org/) |
-| Acceptance Rate | NA |
-
-## MASS
-| Conference Name | IEEE International Conference on Mobile Ad-Hoc and Smart Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-08 |
-| Conference Date | 2024-09-23 - 2024-09-25 |
-| Location | Seoul, South Korea |
-| Website | [Link](https://sites.google.com/view/ieee-mass-2024) |
-| Acceptance Rate | 2023: 27.6% <br> 2022: 29.17% (21/72, regular) <br> 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
-
-## SmartGridComm
-| Conference Name | IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-10 |
-| Conference Date | 2024-09-17 - 2024-09-20 |
-| Location | Oslo, Norway |
-| Website | [Link](https://sgc2024.ieee-smartgridcomm.org/) |
-| Acceptance Rate | 2023: 94/~200 |
-
-## ISNCC
-| Conference Name | International Symposium on Networks, Computers and Communications |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-14 |
-| Conference Date | 2024-10-22 - 2024-10-25 |
-| Location | Washington DC, USA |
-| Website | [Link](https://www.isncc-conf.org/) |
-| Acceptance Rate | 2021: 44% <br> 2020: 45% <br> 2019: 37% <br> 2018: 38% <br> 2017: 36% |
-
-## ICPP
-| Conference Name | International Conference on Parallel Processing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-15 |
-| Conference Date | 2024-08-12 - 2024-08-15 |
-| Location | Gotland, Sweden |
-| Website | [Link](https://icpp2024.org/) |
-| Acceptance Rate | 2022: 28.85% (88/305) <br> 2021: 26.75% (88/329) <br> 2020: 29.00% (78/269) <br> 2019: 26.17% (106/405) <br> 2018: 29.07% (91/313) |
-
-## IC2E
-| Conference Name | IEEE International Conference on Cloud Engineering |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-19 |
-| Conference Date | 2024-09-24 - 2024-09-27 |
-| Location | Paphos, Cyprus |
-| Website | [Link](https://conferences.computer.org/IC2E/2024/) |
-| Acceptance Rate | 2021: 30.23% (13/43) |
-
-## LCN
-| Conference Name | IEEE Conference on Local Computer Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-19 |
-| Conference Date | 2024-10-08 - 2024-10-10 |
-| Location | Caen, Normandy, France |
-| Website | [Link](https://www.ieeelcn.org/) |
-| Acceptance Rate | 2024: 26.52% (35/132) <br> 2023: 26.67% (28/105) <br> 2022: 26.26% (26/99) <br> 2021: 19.44% (35/180) <br> 2020: 22.96% (31/135) <br> 2019: 28.89% (39/135) <br> 2018: 27.95% (45/161) <br> 2017: 28.43% (56/197) |
-
-## CLUSTER
-| Conference Name | IEEE International Conference on Cluster Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-04-25 |
-| Conference Date | 2024-09-24 - 2024-09-27 |
-| Location | Kobe, Japan |
-| Website | [Link](https://clustercomp.org/2024/) |
-| Acceptance Rate | 2024: 26.90% (39/145) <br> 2023: 23.85% (31/130) <br> 2022: 23.76% (43/181) <br> 2021: 29.27% (48/164) <br> 2020: 24.24% (32/132) <br> 2019: 27.66% (39/141) <br> 2018: 28.57% (44/154) <br> 2017: 21.66% (47/217) |
-
-# March 2024
-## COINS
-| Conference Name | IEEE International Conference on Omni-layer Intelligent Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-31 |
-| Conference Date | July 2024 |
-| Location | London, UK |
-| Website | [Link](https://coinsconf.com/) |
-| Acceptance Rate | 2022: 32% |
-
-## LANMAN
-| Conference Name | IEEE International Symposium on Local and Metropolitan Area Networks |
-| :------------- | :------------- |
-| Submission Deadline | 2024-03-31 |
-| Conference Date | 2024-07-10 - 2024-07-11 |
-| Location | Boston, MA, USA |
-| Website | [Link](https://lanman2024.ieee-lanman.org/) |
-| Acceptance Rate | 2022: 50% (6/12) <br> 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
-
 # Feburary 2024
 ## CIoT
 | Conference Name  | Conference on Cloud and Internet of Things |
@@ -1245,15 +1252,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | London, United Kingdom |
 | Website | [Link](https://cseit2024.org/ciot/index) |
 | Acceptance Rate | 2022: 55.9% <br> 2020: 45.00% (9/20) |
-
-## SMC
-| Conference Name | IEEE International Conference on Systems, Man, and Cybernetics |
-| :------------- | :------------- |
-| Submission Deadline | 2024-02-15 |
-| Conference Date | 2024-10-07 - 2024-10-10 |
-| Location | Borneo Convention Centre Kuching, Sarawak, Malaysia |
-| Website | [Link](https://www.ieeesmc2024.org/) |
-| Acceptance Rate | 2022: 55.44% (545/983) <br> 2020: 61.74% (689/1116) <br> 2019: 60.61% (734/1211) <br> 2018: 57.40% (741/1291) <br> 2017: 50.00% (650/1300) |
 
 # October 2023
 ## IoTDI
