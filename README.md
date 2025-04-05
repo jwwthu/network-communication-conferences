@@ -94,7 +94,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | :------------- | :------------- |
 | Submission Deadline | 2025-04-08 |
 | Conference Date | 2025-08-04 - 2025-08-06 |
-| Location | University of Wisconsin鈥揗adison, USA |
+| Location | University of Wisconsin-Madison, USA |
 | Website | [Link](https://coinsconf.com/) |
 | Acceptance Rate | 2022: 32% |
 
