@@ -269,7 +269,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-07-07 - 2025-07-10 |
 | Location | Nice, France |
 | Website | [Link](https://meditcom2025.ieee-meditcom.org/) |
-| Acceptance Rate | 2023: 52.63% (60/114) |
+| Acceptance Rate | 2024: 50% (78/156) <br> 2023: 52.63% (60/114) |
 
 ## IFIP Networking
 | Conference Name | The International Federation for Information Processing (IFIP) Networking Conference |
