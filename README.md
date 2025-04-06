@@ -43,6 +43,79 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 	- First Cycle deadline: Nov 21, 2024
 	- Second Cycle deadline: Mar 12, 2025
 
+# May 2025
+## ACSSC
+| Conference Name | Annual Asilomar Conference on Signals, Systems, and Computers |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-01 |
+| Conference Date | 2025-10-27 - 2025-10-30 |
+| Location | Pacific Grove, CA, USA |
+| Website | [Link](https://www.asilomarsscconf.org/) |
+| Acceptance Rate | NA |
+
+## CollaborateCom
+| Conference Name | EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-01 |
+| Conference Date | 2025-11-15 - 2025-11-16 |
+| Location | Shanghai, China |
+| Website | [Link](https://collaboratecom.eai-conferences.org/2025/) |
+| Acceptance Rate | NA |
+
+## MILCOM
+| Conference Name | IEEE Military Communications Conference |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-01 |
+| Conference Date | 2025-10-06 - 2025-10-10 |
+| Location | Los Angeles, CA, USA |
+| Website | [Link](https://milcom2025.ieee-milcom.org/) |
+| Acceptance Rate | 2021: ~47.14% (~165/350) <br> 2019: 49.61% (127/256) <br> 2018: 51.14% (179/350) |
+
+## SRDS
+| Conference Name | International Symposium on Reliable Distributed Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-02 |
+| Conference Date | 2025-09-29 - 2025-10-02 |
+| Location | Porto, Portugal |
+| Website | [Link](https://srds-conference.org/) |
+| Acceptance Rate | 2022: 23.08% (24/104) <br> 2021: 23.58% (25/106) <br> 2020: 24.43% (32/131) <br> 2019: 26.50% (31/117) <br> 2018: 33.75% (27/80) <br> 2017: 33.33% (24/72) |
+
+## ICNP
+| Conference Name | IEEE International Conference on Network Protocols |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-16 |
+| Conference Date | 2025-09-22 - 2025-09-25 |
+| Location | Seoul, Korea |
+| Website | [Link](https://ieeeicnp2025.pages.dev/) |
+| Acceptance Rate | 2023: 18.78% (34/181) <br> 2022: 21.43% (33/154) <br> 2021: 24.68% (38/154) <br> 2018: 36.46% (35/96) <br> 2017: 18.66% (39/209) |
+
+## MASCOTS
+| Conference Name | International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-18 |
+| Conference Date | 2025-10-21 - 2025-10-23 |
+| Location | Paris, France |
+| Website | [Link](https://mascots25.iitis.pl/) |
+| Acceptance Rate | 2023: 29% <br> 2022: <30% <br> 2021: 32.89% (25/76) <br> 2020: 27% <br> 2019: 31.97% (39/122) <br> 2017: 30.95% (26/84) |
+
+## RTSS
+| Conference Name | IEEE Real-Time Systems Symposium |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-22 |
+| Conference Date | 2025-12-02 - 2025-12-05 |
+| Location | Boston, MA, USA |
+| Website | [Link](https://2025.rtss.org/) |
+| Acceptance Rate | 2023: 25.40% (32/126) <br> 2022: 28.90% (37/128) <br> 2021: 29.32% (39/133) <br> 2020: 20.00% (28/140) <br> 2019: 24.38% (39/160) <br> 2018: 22.29% (37/166) <br> 2017: 23.66% (31/131) |
+
+## DISC
+| Conference Name | International Symposium on Distributed Computing |
+| :------------- | :------------- |
+| Submission Deadline | 2025-05-23 |
+| Conference Date | 2025-10-27 - 2025-10-31 |
+| Location | Berlin, Germany |
+| Website | [Link](https://www.disc-conference.org/wp/disc2025/) |
+| Acceptance Rate | 2020: 22.94% (39/170) <br> 2019: 23.45% (34/145) <br> 2018: 23.60% (38/161) <br> 2017: 24.38% (39/160) |
+
 # April 2025
 ## GLOBECOM
 | Conference Name | IEEE Global Communications Conference |
@@ -1126,33 +1199,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Acceptance Rate | NA |
 
 # May 2024
-## ACSSC
-| Conference Name | Annual Asilomar Conference on Signals, Systems, and Computers |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-01 |
-| Conference Date | 2024-10-27 - 2024-10-30 |
-| Location | Asilomar Hotel and Conference Grounds Pacific Grove, California |
-| Website | [Link](https://www.asilomarsscconf.org/) |
-| Acceptance Rate | NA |
-
-## CollaborateCom
-| Conference Name | EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-01 |
-| Conference Date | 2024-11-16 - 2024-11-17 |
-| Location | Wuzhen, People's Republic of China |
-| Website | [Link](https://collaboratecom.eai-conferences.org/2024/) |
-| Acceptance Rate | NA |
-
-## SRDS
-| Conference Name  | Symposium on Reliable Distributed Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2023-05-03 |
-| Conference Date | 2024-09-30 - 2024-10-04 |
-| Location | Charlotte, USA |
-| Website | [Link](https://srds-conference.org/) |
-| Acceptance Rate | 2022: 23.08% (24/104) <br> 2021: 23.58% (25/106) <br> 2020: 24.43% (32/131) <br> 2019: 26.50% (31/117) <br> 2018: 33.75% (27/80) <br> 2017: 33.33% (24/72) |
-
 ## APCC
 | Conference Name | Asia-Pacific Conference on Communications |
 | :------------- | :------------- |
@@ -1161,15 +1207,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | BALI - Indonesia |
 | Website | [Link](https://apcc2024.org/) |
 | Acceptance Rate | 2023: 64.44% (87/135) <br> 2022: 60.55% (155/256) <br> 2021: ~63.33% (~57/90) <br> 2019: 57.56% (99/172) |
-
-## DISC
-| Conference Name | International Symposium on Distributed Computing |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-14 |
-| Conference Date | 2024-10-28 - 2024-11-01 |
-| Location | Madrid, Spain |
-| Website | [Link](https://www.disc-conference.org/wp/disc2024/) |
-| Acceptance Rate | 2020: 22.94% (39/170) <br> 2019: 23.45% (34/145) <br> 2018: 23.60% (38/161) <br> 2017: 24.38% (39/160) |
 
 ## WiMob
 | Conference Name | IEEE International Conference on Wireless and Mobile Computing Networking and Communications |
@@ -1180,15 +1217,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Website | [Link](http://www.wimob.org/wimob2024/) |
 | Acceptance Rate | 2023: 38% <br> 2022: 40% <br> 2017: 28.10% (59/210) |
 
-## MASCOTS
-| Conference Name | International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-19 |
-| Conference Date | 2024-10-21 - 2024-10-23 |
-| Location | Krakow, Poland |
-| Website | [Link](https://mascots24.iitis.pl/) |
-| Acceptance Rate | 2023: 29% <br> 2022: <30% <br> 2021: 32.89% (25/76) <br> 2020: 27% <br> 2019: 31.97% (39/122) <br> 2017: 30.95% (26/84) |
-
 ## EW
 | Conference Name | European Wireless 2024 |
 | :------------- | :------------- |
@@ -1197,33 +1225,6 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Location | Brno, Czech Republic |
 | Website | [Link](https://ew2024.european-wireless.org/) |
 | Acceptance Rate | NA |
-
-## MILCOM
-| Conference Name | IEEE Military Communications Conference |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-20 |
-| Conference Date | 2024-10-28 - 2024-11-01 |
-| Location | Washington, DC, USA |
-| Website | [Link](https://milcom2024.ieee-milcom.org/) |
-| Acceptance Rate | 2021: ~47.14% (~165/350) <br> 2019: 49.61% (127/256) <br> 2018: 51.14% (179/350) |
-
-## RTSS
-| Conference Name | IEEE Real-Time Systems Symposium |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-23 |
-| Conference Date | 2024-12-10 - 2024-12-13 |
-| Location | York, United Kingdom |
-| Website | [Link](https://2024.rtss.org/) |
-| Acceptance Rate | 2023: 25.40% (32/126) <br> 2022: 28.90% (37/128) <br> 2021: 29.32% (39/133) <br> 2020: 20.00% (28/140) <br> 2019: 24.38% (39/160) <br> 2018: 22.29% (37/166) <br> 2017: 23.66% (31/131) |
-
-## ICNP
-| Conference Name | IEEE International Conference on Network Protocols |
-| :------------- | :------------- |
-| Submission Deadline | 2024-05-24 |
-| Conference Date | 2024-10-28 - 2024-10-31 |
-| Location | Charleroi, Belgium |
-| Website | [Link](https://icnp24.cs.ucr.edu/) |
-| Acceptance Rate | 2023: 18.78% (34/181) <br> 2022: 21.43% (33/154) <br> 2021: 24.68% (38/154) <br> 2018: 36.46% (35/96) <br> 2017: 18.66% (39/209) |
 
 ## PEMWN
 | Conference Name | IFIP International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks |
