@@ -577,7 +577,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-06-09 - 2025-06-11 |
 | Location | Tuscany (Lucca), Italy |
 | Website | [Link](https://dcoss.org/) |
-| Acceptance Rate | 2024: 37% (37/100, 27 full papers + 10 short papers) 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
+| Acceptance Rate | 2024: 37% (37/100, 27 full papers + 10 short papers) <br> 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
 
 ## RTNS
 | Conference Name | International Conference on Real-Time Networks and Systems |
