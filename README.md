@@ -205,7 +205,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-09-08 - 2025-09-11 |
 | Location | San Diego, CA, USA |
 | Website | [Link](https://icpp2025.sdsc.edu/) |
-| Acceptance Rate | 2022: 28.85% (88/305) <br> 2021: 26.75% (88/329) <br> 2020: 29.00% (78/269) <br> 2019: 26.17% (106/405) <br> 2018: 29.07% (91/313) |
+| Acceptance Rate | 2024: 29.44% (121/411) <br> 2022: 28.85% (88/305) <br> 2021: 26.75% (88/329) <br> 2020: 29.00% (78/269) <br> 2019: 26.17% (106/405) <br> 2018: 29.07% (91/313) |
 
 ## IC2E
 | Conference Name | IEEE International Conference on Cloud Engineering |
