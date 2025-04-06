@@ -133,7 +133,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-07-07 - 2025-07-08 |
 | Location | Lille, France |
 | Website | [Link](https://lanman2025.ieee-lanman.org/) |
-| Acceptance Rate | 2022: 50% (6/12) <br> 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
+| Acceptance Rate | 2024: 51.42% (18/35) <br> 2022: 50% (6/12) <br> 2021: 40.91% (9/22) <br> 2020: 39.39% (13/33) <br> 2019: 54.55% (18/33) <br> 2018: 51.43% (18/35) <br> 2017: 34.25% (25/73) |
 
 ## SMC
 | Conference Name | IEEE International Conference on Systems, Man, and Cybernetics |
