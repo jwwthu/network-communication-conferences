@@ -514,7 +514,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-05-12 - 2025-05-16 |
 | Location | Marriott Hotel Downtown, Abu Dhabi, UAE |
 | Website | [Link](https://iwcmc.net/2025/index.php) |
-| Acceptance Rate | 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
+| Acceptance Rate | 2024: 39% <br> 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
 
 ## VNC
 | Conference Name | IEEE Vehicular Networking Conference |
