@@ -105,7 +105,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-12-02 - 2025-12-05 |
 | Location | Boston, MA, USA |
 | Website | [Link](https://2025.rtss.org/) |
-| Acceptance Rate | 2023: 25.40% (32/126) <br> 2022: 28.90% (37/128) <br> 2021: 29.32% (39/133) <br> 2020: 20.00% (28/140) <br> 2019: 24.38% (39/160) <br> 2018: 22.29% (37/166) <br> 2017: 23.66% (31/131) |
+| Acceptance Rate | 2024: 22.86% (32/140) <br> 2023: 25.40% (32/126) <br> 2022: 28.90% (37/128) <br> 2021: 29.32% (39/133) <br> 2020: 20.00% (28/140) <br> 2019: 24.38% (39/160) <br> 2018: 22.29% (37/166) <br> 2017: 23.66% (31/131) |
 
 ## DISC
 | Conference Name | International Symposium on Distributed Computing |
