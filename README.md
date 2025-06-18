@@ -705,7 +705,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-05-27 - 2025-05-30 |
 | Location | Fort Worth, Texas |
 | Website | [Link](https://wowmomconference2025.uta.edu/) |
-| Acceptance Rate | 2024: 34.18% (27/79) <br> 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
+| Acceptance Rate | 2025: 29.17% (28/96) <br> 2024: 34.18% (27/79) <br> 2022: 26.43% <br> 2021: 22% <br> 2020: 24.8% <br> 2019: 25% <br> 2018: 29% |
 
 # October 2024
 ## EUC
