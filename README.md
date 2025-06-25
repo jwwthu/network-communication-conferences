@@ -1087,7 +1087,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2024-12-20 - 2024-12-22 |
 | Location | Harbin, China |
 | Website | [Link](https://ieee-msn.org/2024/) |
-| Acceptance Rate | 2023: 39.39% (91/231) <br> 2022: 27.31% (62/227) <br> 2021: 38.20% (68/178) <br> 2020: 37.02% (67/181) <br> 2019: 50% (46/92) |
+| Acceptance Rate | 2024: 33.88% (124/366) <br> 2023: 39.39% (91/231) <br> 2022: 27.31% (62/227) <br> 2021: 38.20% (68/178) <br> 2020: 37.02% (67/181) <br> 2019: 50% (46/92) |
 
 ## CloudNet
 | Conference Name | IEEE International Conference on Cloud Networking |
