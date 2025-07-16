@@ -815,7 +815,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-03-24 - 2025-03-27 |
 | Location | Milan, Italy |
 | Website | [Link](https://wcnc2025.ieee-wcnc.org/) |
-| Acceptance Rate | 2022: 48.65% (361/742) <br> 2020: 36.69% (400/1093) |
+| Acceptance Rate | 2025: 48.83% (585/1198) <br> 2022: 48.65% (361/742) <br> 2020: 36.69% (400/1093) |
 
 ## NSDI
 | Conference Name | USENIX Symposium on Networked Systems Design and Implementation |
