@@ -523,7 +523,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-06-02 - 2025-06-04 |
 | Location | Porto, Portugal |
 | Website | [Link](https://vnc2025.ieee-vnc.org/) |
-| Acceptance Rate | 2024: 31% <br> 2023:~44% <br> 2021: ~40% |
+| Acceptance Rate | 2025: ~31% <br> 2023:~44% <br> 2021: ~40% |
 
 ## NOSSDAV
 | Conference Name | International Workshop on Network and Operating Systems Support for Digital Audio and Video |
