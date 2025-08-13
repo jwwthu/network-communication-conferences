@@ -869,7 +869,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-03-17 - 2025-03-21 |
 | Location | Washington DC, USA |
 | Website | [Link](https://www.percom.org/) |
-| Acceptance Rate | 2024: 14.56% (23/158) <br> 2023: 15.09% (24/159) <br> 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
+| Acceptance Rate | 2025: 15.7% (24/152) <br> 2024: 14.56% (23/158) <br> 2023: 15.09% (24/159) <br> 2022: 13.5% (24/178) <br> 2021: 15.15% (20/132) |
 
 # August 2024
 ## ACP
