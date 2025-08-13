@@ -796,7 +796,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-05-06 - 2025-05-09 |
 | Location | Irvine, California, USA |
 | Website | [Link](https://2025.rtas.org/) |
-| Acceptance Rate | 2024: 23.39% (29/124) <br> 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
+| Acceptance Rate | 2025: 27.52% (30/109) <br> 2024: 23.39% (29/124) <br> 2022: 24.18% (22/91) <br> 2021: 27.19% (31/114) <br> 2020: 26.85% (29/108) <br> 2019: 25.86% (30/116) <br> 2018: 34.18% (27/79) <br> 2017: 34.12% (29/85) |
 
 # September 2024
 ## TrustCom
