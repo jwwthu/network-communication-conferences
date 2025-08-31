@@ -742,7 +742,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-06-03 - 2025-06-07 |
 | Location | Milan, Italy |
 | Website | [Link](https://www.ipdps.org/) |
-| Acceptance Rate | 2024: 26.11% (88/337) <br> 2022: 25.95% (123/474) <br> 2021: 22.73% (105/462) <br> 2020: 24.66% (110/446) <br> 2019: 27.69% (103/372) <br> 2018: 24.52% (113/461) <br> 2017: 22.83% (116/508) |
+| Acceptance Rate | 2025: 24.71% (105/425) <br> 2024: 26.11% (88/337) <br> 2022: 25.95% (123/474) <br> 2021: 22.73% (105/462) <br> 2020: 24.66% (110/446) <br> 2019: 27.69% (103/372) <br> 2018: 24.52% (113/461) <br> 2017: 22.83% (116/508) |
 
 ## ICC
 | Conference Name | IEEE International Conference on Communications |
