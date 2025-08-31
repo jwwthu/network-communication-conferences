@@ -341,7 +341,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-06-10 - 2025-06-13 |
 | Location | Copenhagen, Denmark |
 | Website | [Link](https://tma.ifip.org/2025/) |
-| Acceptance Rate | 2024: 39.47% (15/38) <br> 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
+| Acceptance Rate | 2025: 27.54% (19/69) <br> 2024: 39.47% (15/38) <br> 2023: 29.41% (15/51) <br> 2020: 33.33% (18/54) <br> 2019: 36.92% (24/65) <br> 2018: 39.29% (22/56) <br> 2017: 35.19% (19/54) |
 
 ## ICCC
 | Conference Name | IEEE/CIC International Conference on Communications in China |
@@ -514,7 +514,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-05-12 - 2025-05-16 |
 | Location | Marriott Hotel Downtown, Abu Dhabi, UAE |
 | Website | [Link](https://iwcmc.net/2025/index.php) |
-| Acceptance Rate | 2024: 39% <br> 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
+| Acceptance Rate | 2025: 40% <br> 2024: 39% <br> 2023: 39% <br> 2022: 37% <br> 2021: 39% <br> 2020: 38% <br> 2019: 38% <br> 2018: 38% <br> 2017: 36% |
 
 ## VNC
 | Conference Name | IEEE Vehicular Networking Conference |
@@ -577,7 +577,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-06-09 - 2025-06-11 |
 | Location | Tuscany (Lucca), Italy |
 | Website | [Link](https://dcoss.org/) |
-| Acceptance Rate | 2024: 37% (37/100, 27 full papers + 10 short papers) <br> 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
+| Acceptance Rate | 2025: 23.64% (26/110) <br> 2024: 37% (37/100, 27 full papers + 10 short papers) <br> 2023: 23.26% (20/86) <br> 2021: 32.65% (16/49) <br> 2020: 34.00% (17/50) |
 
 ## RTNS
 | Conference Name | International Conference on Real-Time Networks and Systems |
