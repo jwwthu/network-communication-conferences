@@ -232,7 +232,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-10-14 - 2025-10-16 |
 | Location | Sydney, Australia |
 | Website | [Link](https://www.ieeelcn.org/) |
-| Acceptance Rate | 2024: 26.52% (35/132) <br> 2023: 26.67% (28/105) <br> 2022: 26.26% (26/99) <br> 2021: 19.44% (35/180) <br> 2020: 22.96% (31/135) <br> 2019: 28.89% (39/135) <br> 2018: 27.95% (45/161) <br> 2017: 28.43% (56/197) |
+| Acceptance Rate | 2025: 25.17% (38/151) <br> 2024: 26.52% (35/132) <br> 2023: 26.67% (28/105) <br> 2022: 26.26% (26/99) <br> 2021: 19.44% (35/180) <br> 2020: 22.96% (31/135) <br> 2019: 28.89% (39/135) <br> 2018: 27.95% (45/161) <br> 2017: 28.43% (56/197) |
 
 # March 2025
 ## CLOUD
