@@ -196,7 +196,7 @@ Footnote: (1) HotCloudPerf is the new name for HotCloud; (2) DCOSS-IoT is the ne
 | Conference Date | 2025-10-06 - 2025-10-08 |
 | Location | Chicago, USA |
 | Website | [Link](https://ieeemass2025.github.io/ieeemass2025/) |
-| Acceptance Rate | 2023: 27.6% <br> 2022: 29.17% (21/72, regular) <br> 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
+| Acceptance Rate | 2025: 29.6% <br> 2023: 27.6% <br> 2022: 29.17% (21/72, regular) <br> 2021: 28.3% <br> 2020: 30% <br> 2019: 29.31% <br> 2018: 28.97% <br> 2017: 30% |
 
 ## ICPP
 | Conference Name | International Conference on Parallel Processing |
